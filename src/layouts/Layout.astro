@@ -1,0 +1,74 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Events Calendar — Birds Connect Seattle",
+  description = "Browse Birds Connect Seattle outings, classes, field trips, and volunteer events. A redesigned, mobile-friendly calendar concept.",
+} = Astro.props;
+
+// BASE_URL is "/" locally and "/bcs-calendar/" on GitHub Pages; prefix public
+// assets and internal links so they resolve under the project-site base path.
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen flex flex-col antialiased">
+    <header class="bg-brand text-white shadow-md sticky top-0 z-30">
+      <div
+        class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-4"
+      >
+        <a href={base} class="flex items-center gap-3 shrink-0">
+          <img
+            src={`${base}bcs-logo-white.png`}
+            alt="Birds Connect Seattle"
+            class="h-10 w-10"
+            width="40"
+            height="40"
+          />
+          <div class="leading-tight">
+            <span class="block font-semibold text-base sm:text-lg"
+              >Birds Connect Seattle</span
+            >
+            <span class="block text-sage text-xs sm:text-sm">Events Calendar</span>
+          </div>
+        </a>
+        <a
+          href="https://birdsconnectsea.org/calendar/"
+          target="_blank"
+          rel="noopener"
+          class="hidden sm:inline-block text-xs text-sage hover:text-pop transition-colors"
+          >View on BCS Website &rarr;</a
+        >
+      </div>
+    </header>
+
+    <main class="flex-1 w-full">
+      <slot />
+    </main>
+
+    <footer class="bg-brand-dark text-sage/80 text-xs">
+      <div class="mx-auto max-w-6xl px-4 py-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+        <p>
+          Redesign proof of concept &middot; data from the public Birds Connect
+          Seattle calendar.
+        </p>
+        <p>Not an official Birds Connect Seattle product.</p>
+      </div>
+    </footer>
+  </body>
+</html>

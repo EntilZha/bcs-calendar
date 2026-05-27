@@ -1,0 +1,20 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# python / uv
+.venv/
+__pycache__/
+.cache/
+
+# os / editor
+.DS_Store
+
+# local-only Claude Code settings
+.claude/settings.local.json
+
+# netlify
+.netlify/

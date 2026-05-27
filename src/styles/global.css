@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Birds Connect Seattle brand palette, pulled from birdsconnectsea.org.
+   Exposed as Tailwind v4 theme tokens so we can use e.g. bg-brand, text-leaf. */
+@theme {
+  --color-brand: #0a3c23;        /* deep forest green (primary) */
+  --color-brand-dark: #062a18;   /* darker green for hovers */
+  --color-leaf: #36ba3a;         /* bright green accent */
+  --color-sage: #7cc68d;         /* soft green */
+  --color-cream: #faf5f0;        /* warm off-white page background */
+  --color-pop: #e6ff55;          /* yellow-green highlight */
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: #1c1c1c;
+}
+
+/* Thin, branded scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-sage) transparent;
+}

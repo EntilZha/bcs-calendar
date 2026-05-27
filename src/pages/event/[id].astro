@@ -1,0 +1,27 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import EventDetailView from "../../components/EventDetailView.tsx";
+import events from "../../data/events.json";
+
+interface EventRecord {
+  id: string;
+  title: string;
+  description: string;
+  [key: string]: unknown;
+}
+
+// One static page per event: /event/<id>/
+export function getStaticPaths() {
+  return (events as EventRecord[]).map((ev) => ({
+    params: { id: ev.id },
+    props: { ev },
+  }));
+}
+
+const { ev } = Astro.props;
+const description = (ev.description || "").replace(/\s+/g, " ").slice(0, 155);
+---
+
+<Layout title={`${ev.title} — Birds Connect Seattle`} description={description}>
+  <EventDetailView ev={ev as any} client:load />
+</Layout>

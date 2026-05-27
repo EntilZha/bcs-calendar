@@ -1,0 +1,90 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  # Deploy when code changes land on the default branch.
+  push:
+    branches: [main]
+  # Refresh the calendar every night. Cron is UTC; 09:30 UTC ≈ 1:30–2:30am
+  # Pacific.
+  #
+  # GitHub auto-pauses scheduled workflows after 60 days with NO repository
+  # activity, and scheduled runs do not themselves count as activity. The
+  # "Commit refreshed data" step below pushes the new data each night (meta.json
+  # always changes), which keeps the repo active so this cron never gets paused.
+  schedule:
+    - cron: "30 9 * * *"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+# contents: write lets the nightly job commit refreshed data; the rest are
+# required for actions/deploy-pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Let a running deploy finish; queue at most one more.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up uv (Python)
+        uses: astral-sh/setup-uv@v5
+
+      - name: Crawl latest calendar events
+        # Regenerates src/data/*.json and downloads featured images so the build
+        # always reflects tonight's calendar.
+        run: uv run scripts/crawl_calendar.py
+
+      - name: Commit refreshed data
+        # Push the new data on scheduled/manual runs. This both records a daily
+        # history of calendar changes AND counts as repository activity, so the
+        # scheduled workflow above is never auto-paused. meta.json's timestamp
+        # changes every run, guaranteeing a commit. GITHUB_TOKEN pushes do not
+        # trigger another workflow run, so there is no loop.
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data src/assets/events
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: nightly calendar refresh"
+            git push
+          fi
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
