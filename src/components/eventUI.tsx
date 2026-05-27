@@ -225,10 +225,22 @@ export function FacetChips({ ids }: { ids: string[] }) {
 // Links / actions
 // ---------------------------------------------------------------------------
 
-// Copies `value` to the clipboard, briefly showing a confirmation.
-function CopyButton({ value, label }: { value: string; label: string }) {
+// Copies `value` to the clipboard, briefly showing a confirmation. `primary`
+// emphasizes this calendar's own shareable link over the secondary BCS link.
+function CopyButton({
+  value,
+  label,
+  primary = false,
+}: {
+  value: string;
+  label: string;
+  primary?: boolean;
+}) {
   const [copied, setCopied] = useState(false);
   if (!value) return null;
+  const idle = primary
+    ? "bg-brand/5 text-brand ring-brand/40 hover:bg-brand/10 hover:ring-brand"
+    : "text-gray-500 ring-gray-300 hover:text-brand hover:ring-brand";
   return (
     <button
       type="button"
@@ -242,10 +254,8 @@ function CopyButton({ value, label }: { value: string; label: string }) {
         }
       }}
       aria-label={copied ? `${label} — copied` : label}
-      className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-sm font-medium ring-1 ring-inset transition ${
-        copied
-          ? "text-leaf ring-leaf"
-          : "text-gray-600 ring-gray-300 hover:text-brand hover:ring-brand"
+      className={`inline-flex cursor-pointer items-center gap-1.5 rounded-full px-3 py-1 text-sm font-medium ring-1 ring-inset transition ${
+        copied ? "bg-leaf/10 text-leaf ring-leaf" : idle
       }`}
     >
       {copied ? (
@@ -257,9 +267,19 @@ function CopyButton({ value, label }: { value: string; label: string }) {
           />
         </svg>
       ) : (
-        <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-          <path d="M8 2a2 2 0 00-2 2v8a2 2 0 002 2h6a2 2 0 002-2V6.414A2 2 0 0015.414 5L13 2.586A2 2 0 0011.586 2H8z" />
-          <path d="M4 6a2 2 0 012-2v10h8a2 2 0 01-2 2H6a2 2 0 01-2-2V6z" />
+        <svg
+          className="h-4 w-4"
+          fill="none"
+          viewBox="0 0 24 24"
+          strokeWidth={1.8}
+          stroke="currentColor"
+          aria-hidden="true"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            d="M16.5 8.25V6a2.25 2.25 0 0 0-2.25-2.25H6A2.25 2.25 0 0 0 3.75 6v8.25A2.25 2.25 0 0 0 6 16.5h2.25m2.25-8.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-7.5A2.25 2.25 0 0 1 8.25 18v-7.5A2.25 2.25 0 0 1 10.5 8.25Z"
+          />
         </svg>
       )}
       {label}
@@ -291,9 +311,9 @@ export function EventLinks({ ev }: { ev: CalEvent }) {
           View on BCS Site
         </a>
       )}
-      {/* Link to the original Tockify event vs. this calendar's own event page. */}
+      {/* This calendar's own shareable link (primary) vs. the original Tockify link. */}
+      <CopyButton value={eventPageUrl(ev.id)} label="Copy Link" primary />
       <CopyButton value={ev.detailUrl} label="Copy BCS Link" />
-      <CopyButton value={eventPageUrl(ev.id)} label="Copy Link" />
     </>
   );
 }
