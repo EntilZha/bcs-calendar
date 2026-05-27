@@ -12,7 +12,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://<owner>.github.io/<repo>/, so `base` must be the repo name.
 // Change `base` (and `site`) if your repository is named differently.
 export default defineConfig({
-  site: 'https://OWNER.github.io',
+  site: 'https://entilzha.github.io',
   base: '/bcs-calendar/',
   integrations: [react(), sitemap()],
 
