@@ -22,50 +22,6 @@
     "image": "/src/assets/events/2685e71f579f.jpg"
   },
   {
-    "id": "b5dfd37ad570",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1742/29615460/0/0",
-    "title": "Spring Optics Sale",
-    "start": "2026-04-23",
-    "end": "2026-04-25",
-    "startDate": "2026-04-23",
-    "endDate": "2026-04-25",
-    "allDay": true,
-    "multiDay": true,
-    "description": "Spring cleaning markdowns on select binoculars and scopes.\n\nVisit us https://birdsconnectsea.org/visit/ in-store to take advantage of this limited time deal.\n\nCurious about which scope or binocular might fit your needs the best? Chat with our optics expert before purchase for demonstration and details. Walk ins are welcome or set up an appointment by sending us an email at shopstaff@birdsconnectsea.org mailto:shopstaff@birdsconnectsea.org\n\nTop brands including Nikon, Swarovski, Zeiss and Kowa.\n\nShop Birds Connect Seattle where all profits from your purchase support local conservation.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1742/1776927600000",
-    "status": "",
-    "categories": [
-      "Retail",
-      "Optics"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69a74f6e4d50ac5b2ceccd95/scaled_1024.jpg",
-    "image": "/src/assets/events/b5dfd37ad570.jpg"
-  },
-  {
-    "id": "8c0ea38b29d0",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1817/29619120/0/0",
-    "title": "Catio Tour Seattle (Partner Event)",
-    "start": "2026-04-25T13:00:00-07:00",
-    "end": "2026-04-25T16:00:00-07:00",
-    "startDate": "2026-04-25",
-    "endDate": "2026-04-25",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Is your indoor cat yearning for the great outdoors? Tired of worrying about lost pets, wildlife conflicts, or neighborhood disputes? Join Catio Tour Seattle and take a self-guided tour of two Seattle homes featuring catios in the Ballard and North Seattle neighborhoods.\n\nMeet two catio owners and see a variety of catios from small to large (with space for humans too), including a window box, cat walk tunnels, porch, deck, garden, and destination catios. Get ideas for shelves, enrichment, décor, and more!\n\nReady to give your cat the best of both worlds? Register below and join fellow cat and bird lovers for a day of creative solutions and community connection.\n\nJOIN US for this free educational event! Register here https://catiospaces.com/catio-tour-seattle/registration/ .\n\nQUESTIONS? Email Catio Tours directly at info@catiotourseattle.com mailto:info@catiotourseattle.com?subject=Catio%20Tour%20Seattle%20query",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1817/1777147200000",
-    "status": "",
-    "categories": [
-      "Partner",
-      "Conservation"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69dff7fed7ea39cb31a531c4/scaled_384.jpg",
-    "image": "/src/assets/events/8c0ea38b29d0.jpg"
-  },
-  {
     "id": "714e644328ad",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1758/29620260/0/0",
     "title": "Neighborhood Bird Outing: Marymoor Park",
@@ -1491,7 +1447,7 @@
     "endDate": "2026-05-27",
     "allDay": false,
     "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/butterflies2026\n\nBird instructor David Droppers has been hiding a terrible secret - he actually likes butterflies more than birds! And he wants to share that butterflies are the perfect compliment to your bird outings. Also beautiful but built entirely differently, learning your butterflies will deepen your experiences with the outdoors and your Pacific Northwest home. We'll cover basic butterfly biology and ecology, identification, and how to find butterflies - it's very different from birds. We'll join together on a field trip to eastern Washington to get up close and personal with many WA species.\n\nFIELD TRIP: One full day trip to eastern Washington. We will meet at 7:00 AM and carpool eastward, stopping at several spots around Ellensburg, where butterfly season will be in full swing. Pack a lunch, water, and whatever else you'll need for a long day trip. We'll likely return around 6:00 PM. Some walking is involved, probably only a couple of miles.\n\nOnline Classes: May 27, June 3 from 7-8:30pm\n\nField Trip: June 6 from 7am-6pm",
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/butterflies2026\n\nBird instructor David Droppers has been hiding a terrible secret - he actually likes butterflies more than birds! And he wants to share that butterflies are the perfect complement to your bird outings. Also beautiful but built entirely differently, learning your butterflies will deepen your experiences with the outdoors and your Pacific Northwest home. We'll cover basic butterfly biology and ecology, identification, and how to find butterflies - it's very different from birds. We'll join together on a field trip to eastern Washington to get up close and personal with many WA species.\n\nFIELD TRIP: One full day trip to eastern Washington. We will meet at 7:00 AM and carpool eastward, stopping at several spots around Ellensburg, where butterfly season will be in full swing. Pack a lunch, water, and whatever else you'll need for a long day trip. We'll likely return around 6:00 PM. Some walking is involved, probably only a couple of miles.\n\nOnline Classes: May 27, June 3 from 7-8:30pm\n\nField Trip: June 6 from 7am-6pm",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1337/1779933600000",
     "status": "",
@@ -1731,7 +1687,7 @@
   {
     "id": "1eb934d7656e",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1806/29675640/0/0",
-    "title": "Online Class Series + Optional Field Trip: Warbers of Washington, Jewels of the Air with Connie Sidles",
+    "title": "Online Class Series + Optional Field Trip: Warblers of Washington, Jewels of the Air with Connie Sidles",
     "start": "2026-06-03T19:00:00-07:00",
     "end": "2026-06-03T20:30:00-07:00",
     "startDate": "2026-06-03",
@@ -2046,7 +2002,7 @@
   {
     "id": "345e2a975fca",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1806/29685720/0/0",
-    "title": "Online Class Series + Optional Field Trip: Warbers of Washington, Jewels of the Air with Connie Sidles",
+    "title": "Online Class Series + Optional Field Trip: Warblers of Washington, Jewels of the Air with Connie Sidles",
     "start": "2026-06-10T19:00:00-07:00",
     "end": "2026-06-10T20:30:00-07:00",
     "startDate": "2026-06-10",
@@ -2175,7 +2131,7 @@
   {
     "id": "4d4e04c3a5be",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1806/29690760/1/0",
-    "title": "Online Class Series + Optional Field Trip: Warbers of Washington, Jewels of the Air with Connie Sidles",
+    "title": "Online Class Series + Optional Field Trip: Warblers of Washington, Jewels of the Air with Connie Sidles",
     "start": "2026-06-14T07:00:00-07:00",
     "end": "2026-06-14T08:30:00-07:00",
     "startDate": "2026-06-14",
