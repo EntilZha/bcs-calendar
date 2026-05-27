@@ -241,13 +241,28 @@ function CopyButton({ value, label }: { value: string; label: string }) {
           /* clipboard unavailable (insecure context) — ignore */
         }
       }}
-      className="inline-flex items-center gap-1 text-gray-500 hover:text-brand"
+      aria-label={copied ? `${label} — copied` : label}
+      className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-sm font-medium ring-1 ring-inset transition ${
+        copied
+          ? "text-leaf ring-leaf"
+          : "text-gray-600 ring-gray-300 hover:text-brand hover:ring-brand"
+      }`}
     >
-      <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-        <path d="M8 2a2 2 0 00-2 2v8a2 2 0 002 2h6a2 2 0 002-2V6.414A2 2 0 0015.414 5L13 2.586A2 2 0 0011.586 2H8z" />
-        <path d="M4 6a2 2 0 012-2v10h8a2 2 0 01-2 2H6a2 2 0 01-2-2V6z" />
-      </svg>
-      {copied ? "Copied!" : label}
+      {copied ? (
+        <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path
+            fillRule="evenodd"
+            d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+            clipRule="evenodd"
+          />
+        </svg>
+      ) : (
+        <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path d="M8 2a2 2 0 00-2 2v8a2 2 0 002 2h6a2 2 0 002-2V6.414A2 2 0 0015.414 5L13 2.586A2 2 0 0011.586 2H8z" />
+          <path d="M4 6a2 2 0 012-2v10h8a2 2 0 01-2 2H6a2 2 0 01-2-2V6z" />
+        </svg>
+      )}
+      {label}
     </button>
   );
 }
