@@ -2609,6 +2609,28 @@
     "image": "/src/assets/events/94ac9b7fb65c.jpg"
   },
   {
+    "id": "cf75d2ba9bbf",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1849/29725260/0/0",
+    "title": "Field Trip: Big Four Ices Caves Trail",
+    "start": "2026-07-08T06:00:00-07:00",
+    "end": "2026-07-08T16:00:00-07:00",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-08",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/bigfourjuly2026\n\nLeaders: Neil Zimmerman (he/him) (206 200 6700 day of only) and Roniq Bartanen (she/her)\n\n6:00 AM Greenlake P&R, north side of 65th under I-5\n\nLimit: 10\n\nTrip accessibility: 1B (leisurely pace on soft ground, sand, gravel, dirt roads)\n\nWith its diverse habitat, the Big Four area is one of the best bird-watching locales in the North Cascades. The trail is unique because it allows birdwatchers to pass almost effortlessly from lowland marsh, meadow, and river habitats through classic forests, into the Alpine Zone. The birding can be exceptional, expect to see a variety of birds in the picnic and marsh area, including Red-breasted Sapsuckers, Vaux's Swifts, Willow Flycatchers, Common Yellowthroats, Yellow Warblers, and Warbling Vireos. American Dippers, Common Mergansers, Harlequin Ducks, and Spotted Sandpipers can be seen on the river. In recent years, this location has attracted breeding American Redstarts. This is one of the most westerly nesting locations in the country. Return to P&R at 4:00pm.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1849/1783515600000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/cf75d2ba9bbf.jpg"
+  },
+  {
     "id": "1fbcaf98cfc4",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1517/29727330/0/0",
     "title": "Drop-In Social Hour",
@@ -2629,6 +2651,52 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/1fbcaf98cfc4.jpg"
+  },
+  {
+    "id": "150f67747755",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1850/29731050/0/0",
+    "title": "Field Trip: Westcrest Park in Highland Park, Seattle",
+    "start": "2026-07-12T06:30:00-07:00",
+    "end": "2026-07-12T10:00:00-07:00",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/july12westcrest\n\nLeaders: Whitney Neufeld-Kaiser (she/her) and Atul Tandon (he/him)\n\n6:30 AM, Playground Parking Lot, on 8th Ave SW between SW Trenton St. and SW Cloverdale St. Bus #131 stops at 9th Ave SW and SW Trenton St, then it’s less than 10 minutes to walk to the parking lot.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks plus hiking trails with gentle rolling hills plus a few sets of stairs), approx. 1.5 miles walking\n\nWestcrest Park is the southern end of the West Duwamish Greenbelt and includes trails winding through mixed forest, a community garden, and open greenspace over the covered water reservoir. Anyone interested in birds is welcome – the trip leaders will have extra pairs of binoculars for folks who need them. Our route will first meander south through the open space and return via the trees to include different sorts of habitat. We’ll likely encounter Western Flycatchers, Bewick’s Wrens, Spotted Towhees, Red-breasted Nuthatches, Song Sparrows, American Robins. Perhaps Hutton’s Vireo. Pileated Woodpeckers, Cooper’s Hawks, and Common Ravens are always possible. A significant portion of the walk lends itself to finding birds by their sounds, because the tree canopy is high. Our route usually takes about 3 hours, depending on what we see and hear and how many questions spark conversation. End at 9:30 - 10:00 AM.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1850/1783863000000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/150f67747755.jpg"
+  },
+  {
+    "id": "b0bb01a46238",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1854/29731200/0/0",
+    "title": "Neighborhood Bird Outing: NextGen: Sammamish River Trail",
+    "start": "2026-07-12T09:00:00-07:00",
+    "end": "2026-07-12T11:00:00-07:00",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Kanupria Sanu (she/her)\n\nMeeting Point: We will meet directly outside the front doors of the Redmond Library (15990 NE 85th St, Redmond), the entrance facing the parking lot. There is a small plaza area there where everyone can gather comfortably before we head across the street to connect to the trail.\n\n  * Trip Accessibility: 1A. Fully paved, flat, and level trail. Total distance will be roughly 1.5 to 2 miles walking at a very gentle, slow pace focused on mindful observation.\n  * Parking: Plenty of free parking is available in the Redmond Library parking lot, including ADA-accessible spots.\n  * Bathrooms: Restrooms are available inside the library during operating hours.\n\n\nJoin us for a Mindful Birding Walk along the Sammamish River Trail!\n\nSlow down, engage your senses, and connect with the local environment on this gentle morning walk. Starting from the Redmond Library, we will quickly connect to the Sammamish River Trail, which offers a beautiful, open riparian habitat.\n\n\nThis walk is designed to be a mindful, slow-paced experience where we practice deep listening and observational awareness. The trail is completely paved and flat, making it highly accessible and a wonderful option for birders of all experience levels. Because this habitat blends river ecology with open brush and parkland, we will keep our eyes and ears open for resident and summer birds. We can expect to see or hear a variety of waterfowl and herons by the water, as well as songbirds like song sparrows, American goldfinches, cedar waxwings, black-capped chickadees, and potentially nesting swallows or raptors overhead.\n\n\nPlease bring binoculars if you have them, water, and comfortable walking shoes. No dogs, please, to help us keep a quiet and attentive presence for the birds",
+    "location": "15990 NE 85th St, Redmond, WA 98052, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1854/1783872000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "NextGen",
+      "Drop-in"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17e44ddf82fe60aa87e2a7/scaled_1024.jpg",
+    "image": "/src/assets/events/b0bb01a46238.jpg"
   },
   {
     "id": "bd24dd1b8ef7",
@@ -2679,6 +2747,28 @@
     "image": "/src/assets/events/5ab9ba935740.jpg"
   },
   {
+    "id": "fb2019fece8d",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1851/29739585/0/0",
+    "title": "Field Trip: Early Morning Owl Prowl at Marymoor Park (for young adults <40)",
+    "start": "2026-07-18T04:45:00-07:00",
+    "end": "2026-07-18T07:00:00-07:00",
+    "startDate": "2026-07-18",
+    "endDate": "2026-07-18",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/earlyowlprowlmarymoor\n\nLeaders: Casey Herrick (she/her) and Jen Yu (she/her)\n\n4:45am Marymoor Park Parking Lot G. 6046 West Lake Sammamish Parkway Northeast, Redmond, Washington 98052. $1 to park.\n\nLimit: 10\n\nAccessibility: 1 (leisurely pace), B (soft ground, dirt). We will walk at a leisurely pace on mostly flat terrain and cover a distance of around ~2 miles. There are bathrooms at the start and midway through our walk.\n\nJoin the NextGen Council as we lead a group through Marymoor in the early morning on a prowl for our local Seattle owls. We encourage you to bring a headlamp (with red light function if possible) for walking in the dark, and warm layers, with good hiking shoes. We will be birding at sunrise and it will be completely dark at the beginning of our walk, please bring headlamps or flashlights to ensure your safety while walking at night.\n\nOur path will take us through an Audubon Bird Loop trail, which is mostly gravel roads with some paved and boardwalks as well. Our path will take us into the off leash dog park at Marymoor, so prepare to be in the presence of dogs. This walk is geared specifically for Young Adults under 40. Birders of all experience levels are welcome. Photography welcome, but no flash photography. End time is 7:00am.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1851/1784375100000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/fb2019fece8d.jpg"
+  },
+  {
     "id": "43557430bf57",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1832/29741310/0/0",
     "title": "Children's Neighborhood Bird Outing: Seward Park",
@@ -2700,6 +2790,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/43557430bf57.jpg"
+  },
+  {
+    "id": "6629dd6b1338",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1852/29749920/0/0",
+    "title": "Field Trip: BIPOC Bike and Bird at Seward Park",
+    "start": "2026-07-25T09:00:00-07:00",
+    "end": "2026-07-25T12:30:00-07:00",
+    "startDate": "2026-07-25",
+    "endDate": "2026-07-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/bipocbirdandbikesewardpark\n\nSaturday, July 25, 2026\n\n\nLeaders: Ian Jan & Gina Simmons (BCS), Preston Mui & Art Cheng (Ampersand Bikes Club)\n\n9 AM @ Judkins Park Light Rail Station entrance at 23rd Ave S & Mtns to Sound Tr (https://maps.app.goo.gl/dEenuUBQkrz8dnmc8 https://maps.app.goo.gl/dEenuUBQkrz8dnmc8 )\n\nLimit: 15\n\nAccessibility: Mostly biking at leisure-moderate pace with occasional stops (~5 mi one way along car-free Lake Washington Blvd for Bicycle Weekend)\n\nJoin us for a BIPOC-centered bird outing led by the NextGen Council (represented by Ian & Gina) in collaboration with the Ampersand Bikes Club (represented by Preston & Art) for the return of the biking-and-birding event on July 25th to Seward Park! We’ll bike down from Judkins Park Light Rail Station from 9 AM and birdwatch while picnicking at the park. Bring your own lunch and any snacks to share with others! End at 12:30pm.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1852/1784995200000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/682b6869df95bd7eeaa687b6/scaled_1024.jpg",
+    "image": "/src/assets/events/6629dd6b1338.jpg"
   },
   {
     "id": "52dfb936bce7",
@@ -2818,6 +2930,28 @@
     "image": "/src/assets/events/26bfa0df8ad6.jpg"
   },
   {
+    "id": "06bff825f167",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1853/29761260/0/0",
+    "title": "Field Trip: Poo Poo Point Hike via SE Evans Lane",
+    "start": "2026-08-02T06:00:00-07:00",
+    "end": "2026-08-02T11:00:00-07:00",
+    "startDate": "2026-08-02",
+    "endDate": "2026-08-02",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Register directly with Issaquah Alps Trails Club (IATC) for this event:\n\nhttps://givebutter.com/birds-connect-signup-poo-poo-point-birdwatching-hike-with-birds-connect https://givebutter.com/birds-connect-signup-poo-poo-point-birdwatching-hike-with-birds-connect\n\nLeaders: Pedro Rodriguez 208-340-1703, Joel Gartenberg (Issaquah Alps Trails Club)\n\nMeet: 6AM, SE Evans Lane Parking Area, Issaquah\n\nLimit: 6 from BCS and 6 from Issaquah Alps Trails Club (IATC)\n\nTrip Accessibility: Moderate pace on hiking trail with steep hills and significant elevation gain. Approximately 7 miles round trip with 2000ft elevation gain. Not a beginner hike; pace will accommodate varying fitness levels with time for stops and lunch.\n\nJoin Pedro Rodriguez (Birds Connect Seattle) and Joel Gartenberg (Issaquah Alps Trails Club) for an early morning hike to Poo Poo Point. Explore our local “Alps” and surround yourself with bird song. Joel frequently sees Western Tanagers, Flycatchers, Purple Finches, Orange Crowned Warblers and Wilson's Warblers, Varied Thrushes, Rufous Hummingbirds, Pileated and Hairy Woodpeckers. Experience a less crowded and less steep alternative to the main Poo-Poo Point trail, allowing time for stops and snacks. End time at 11AM based on group's preference and pacing.\n\nWhat to Bring: Minimum 1.5L of water (temps can be very hot), lunch/snacks, layers, sun protection, and sturdy shoes. Binoculars are recommended for bird watching and limited quantities can be loaned (ideally with advance notice). No parking pass required.\n\nHike: https://maps.app.goo.gl/uuy6DVe1cfKi5J2G7 https://maps.app.goo.gl/uuy6DVe1cfKi5J2G7",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1853/1785675600000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/06bff825f167.jpg"
+  },
+  {
     "id": "7196b3f43cf9",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1838/29761410/0/0",
     "title": "Neighborhood Bird Outing: Birds and Habitat – Along Arboretum Creek",
@@ -2934,6 +3068,28 @@
     "image": "/src/assets/events/b4375c51869c.jpg"
   },
   {
+    "id": "fdf80a81981b",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29777880/0/0",
+    "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
+    "start": "2026-08-13T19:00:00-07:00",
+    "end": "2026-08-13T20:30:00-07:00",
+    "startDate": "2026-08-13",
+    "endDate": "2026-08-13",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026\n\nShorebirds are not popular with beginning birders because they're so similar, so variable, and such a challenge. Shorebirds are popular with experts for the exact same reasons! So don't be intimidated by these fascinating, and frankly cute, group of birds that grace our shores (and other habitats) for brief periods of the year. We'll focus on identification, but more so, teach you tricks that willl make tackling shorebirds much less intimidating. A field trip to the coast during shorebird migration will help solidify what we learn in class. Move from beginner to expert so you can get excited about shorebird season!\n\nFIELD TRIP: We'll travel to the coast, seeking different habitats to find different shorebirds. Our main event will be Bottle Beach as the tide comes in, but we'll also visit marinas, rocky dikes, and other locations from Bottle Beach to Tokeland. There will be an announcement a couple of days before the trip outlining details, particularly forecast, but plan to bring a lunch and be out for most of the day. We'll meet at the Green Lake Park n Ride at 6:30 AM and carpool from there. Drivers should have a Discover Pass for parking at Bottle Beach.\n\nOnline Classes: Thursdays, August 13, 20, and 27 from 7-8:30pm\n\nField Trip: Saturday, August 29 to Westport (Bottle Beach, Grayland Beach, Tokeland)",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1855/1786672800000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
+    "image": "/src/assets/events/fdf80a81981b.jpg"
+  },
+  {
     "id": "98383b9137a1",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1833/29781630/0/0",
     "title": "Children's Neighborhood Bird Outing: Seward Park",
@@ -2955,6 +3111,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/98383b9137a1.jpg"
+  },
+  {
+    "id": "8ef96c2ca321",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29787960/0/0",
+    "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
+    "start": "2026-08-20T19:00:00-07:00",
+    "end": "2026-08-20T20:30:00-07:00",
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-20",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026\n\nShorebirds are not popular with beginning birders because they're so similar, so variable, and such a challenge. Shorebirds are popular with experts for the exact same reasons! So don't be intimidated by these fascinating, and frankly cute, group of birds that grace our shores (and other habitats) for brief periods of the year. We'll focus on identification, but more so, teach you tricks that willl make tackling shorebirds much less intimidating. A field trip to the coast during shorebird migration will help solidify what we learn in class. Move from beginner to expert so you can get excited about shorebird season!\n\nFIELD TRIP: We'll travel to the coast, seeking different habitats to find different shorebirds. Our main event will be Bottle Beach as the tide comes in, but we'll also visit marinas, rocky dikes, and other locations from Bottle Beach to Tokeland. There will be an announcement a couple of days before the trip outlining details, particularly forecast, but plan to bring a lunch and be out for most of the day. We'll meet at the Green Lake Park n Ride at 6:30 AM and carpool from there. Drivers should have a Discover Pass for parking at Bottle Beach.\n\nOnline Classes: Thursdays, August 13, 20, and 27 from 7-8:30pm\n\nField Trip: Saturday, August 29 to Westport (Bottle Beach, Grayland Beach, Tokeland)",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1855/1787277600000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
+    "image": "/src/assets/events/8ef96c2ca321.jpg"
   },
   {
     "id": "7047a2877e6d",
@@ -3002,6 +3180,50 @@
     },
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/703d2f7e4c26.jpg"
+  },
+  {
+    "id": "b0ee62078a3e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29798040/0/0",
+    "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
+    "start": "2026-08-27T19:00:00-07:00",
+    "end": "2026-08-27T20:30:00-07:00",
+    "startDate": "2026-08-27",
+    "endDate": "2026-08-27",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026\n\nShorebirds are not popular with beginning birders because they're so similar, so variable, and such a challenge. Shorebirds are popular with experts for the exact same reasons! So don't be intimidated by these fascinating, and frankly cute, group of birds that grace our shores (and other habitats) for brief periods of the year. We'll focus on identification, but more so, teach you tricks that willl make tackling shorebirds much less intimidating. A field trip to the coast during shorebird migration will help solidify what we learn in class. Move from beginner to expert so you can get excited about shorebird season!\n\nFIELD TRIP: We'll travel to the coast, seeking different habitats to find different shorebirds. Our main event will be Bottle Beach as the tide comes in, but we'll also visit marinas, rocky dikes, and other locations from Bottle Beach to Tokeland. There will be an announcement a couple of days before the trip outlining details, particularly forecast, but plan to bring a lunch and be out for most of the day. We'll meet at the Green Lake Park n Ride at 6:30 AM and carpool from there. Drivers should have a Discover Pass for parking at Bottle Beach.\n\nOnline Classes: Thursdays, August 13, 20, and 27 from 7-8:30pm\n\nField Trip: Saturday, August 29 to Westport (Bottle Beach, Grayland Beach, Tokeland)",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1855/1787882400000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
+    "image": "/src/assets/events/b0ee62078a3e.jpg"
+  },
+  {
+    "id": "b4af5ef21281",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29800170/1/0",
+    "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
+    "start": "2026-08-29T06:30:00-07:00",
+    "end": "2026-08-29T08:00:00-07:00",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-29",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026\n\nShorebirds are not popular with beginning birders because they're so similar, so variable, and such a challenge. Shorebirds are popular with experts for the exact same reasons! So don't be intimidated by these fascinating, and frankly cute, group of birds that grace our shores (and other habitats) for brief periods of the year. We'll focus on identification, but more so, teach you tricks that willl make tackling shorebirds much less intimidating. A field trip to the coast during shorebird migration will help solidify what we learn in class. Move from beginner to expert so you can get excited about shorebird season!\n\nFIELD TRIP: We'll travel to the coast, seeking different habitats to find different shorebirds. Our main event will be Bottle Beach as the tide comes in, but we'll also visit marinas, rocky dikes, and other locations from Bottle Beach to Tokeland. There will be an announcement a couple of days before the trip outlining details, particularly forecast, but plan to bring a lunch and be out for most of the day. We'll meet at the Green Lake Park n Ride at 6:30 AM and carpool from there. Drivers should have a Discover Pass for parking at Bottle Beach.\n\nOnline Classes: Thursdays, August 13, 20, and 27 from 7-8:30pm\n\nField Trip: Saturday, August 29 to Westport (Bottle Beach, Grayland Beach, Tokeland)",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1855/1788010200000/1",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
+    "image": "/src/assets/events/b4af5ef21281.jpg"
   },
   {
     "id": "500ac88ba7e7",
