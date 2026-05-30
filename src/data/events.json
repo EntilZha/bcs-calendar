@@ -46,74 +46,6 @@
     "image": "/src/assets/events/ab0ae3cfaac8.jpg"
   },
   {
-    "id": "f1e8719fe16e",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1740/29623740/0/0",
-    "title": "Birdy Paint, Sip, and Learn with Inner Sparkle Arts at Flying Bike Coop (Partner Event)",
-    "start": "2026-04-28T18:00:00-07:00",
-    "end": "2026-04-28T20:30:00-07:00",
-    "startDate": "2026-04-28",
-    "endDate": "2026-04-28",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://www.eventbrite.com/e/paint-sip-learn-annas-hummingbird-tickets-1986370904848?aff=oddtdtcreator\n\nJoin members from Birds Connect Seattle's NextGen council at Flying Bike Cooperative brewery for a special birdy paint and sip, hosted by Inner Sparke Arts.\n\nNo experience? No problem! This event is beginner-friendly and open to all skill levels. You will be guided every step of the way, and you’ll leave with a glowing work of birdy art to be proud of.\n\nSpots are limited—reserve yours early to guarantee your seat! A portion of the ticket sale will go to support Birds Connect Seattle's urban conservation efforts.\n\nPlease Note: This is a 21+ event.",
-    "location": "Flying Bike Cooperative Brewery,8570 Greenwood Ave N, Seattle, WA 98103, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1740/1777424400000",
-    "status": "",
-    "categories": [
-      "Partner",
-      "NextGen",
-      "Art"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69ceb176dc7c9e8f45b383b3/scaled_768.jpg",
-    "image": "/src/assets/events/f1e8719fe16e.jpg"
-  },
-  {
-    "id": "e8f45a33862f",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1354/29623770/0/0",
-    "title": "**Cancelled** BIRD UNIVERSITY Online Class Series: Urban Birds with Dr. Jack DeLap and Dr. Ursula Valdez",
-    "start": "2026-04-28T18:30:00-07:00",
-    "end": "2026-04-28T20:00:00-07:00",
-    "startDate": "2026-04-28",
-    "endDate": "2026-04-28",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/birdu-urban-birds2026\n\nOnline Classes: Tuesdays, April 7, 14, 28, and May 5, from 6:30 - 8:00 p.m.\n\nField Trips: Saturdays, April 18, May 2, and 9, 3 hours in the morning\n\nOver 4 million people live in the urban corridor between Tacoma and Everett. This is the state's busiest transportation corridor, both land and water. Much of the original vegetation has been obliterated by land clearing, agriculture, logging, road building, and settlement. Dikes, dams, dredging, draining, filling, and reinforcement of stream banks and shorelines have greatly altered natural hydrology. Almost no old-growth conifer forest survives; the remnants are in tiny patches.\n\nAnd yet, some bird species are flourishing. This module will cover the ecology and conservation strategies that enable birds to thrive in a place where most native habitats have been eliminated or heavily fragmented.\n\nThis course is for intermediate to advance birders interested in learning about the birds found in our backyards and urban environments. We will discuss ID tips for the most common urban birds, seasonal changes in species diversity and abundance, and natural history. This course will also cover the excitement and responsibility for bird feeder use, the main threats to urban birds (habitat reduction, cat predation, window, and car collisions), how to participate in documenting urban birds, and the impacts of birdwatching on human health.\n\nWe'll share more field trip information soon, including info about meeting locations and routes. Trip participants can expect to walk a leisurely 1-3 miles per outing, mostly on gently rolling dirt trails.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1354/1777426200000",
-    "status": "CANCELLED",
-    "categories": [
-      "Classes",
-      "Birds-Connect-Seattle",
-      "Bird-University"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c199a18df82fe1728be5f87/scaled_384.jpg",
-    "image": "/src/assets/events/e8f45a33862f.jpg"
-  },
-  {
-    "id": "eb4fd59b331a",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1751/29623830/0/0",
-    "title": "Online Class: Introduction to Warblers of the Pacific Northwest with Hans DeGrys",
-    "start": "2026-04-28T19:30:00-07:00",
-    "end": "2026-04-28T21:00:00-07:00",
-    "startDate": "2026-04-28",
-    "endDate": "2026-04-28",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Register here https://secure.birdsconnectsea.org/a/intro-to-warblers-2026\n\nTuesday, April 28, 7:30-9:00pm, via Zoom\n\nWarblers are one of the most sought-after groups of breeding songbirds due to their brilliant colors, distinctive vocalizations, and fascinating natural history. Their varying plumages, habitats, and songs make them an interesting and challenging group for birders. This class will focus on both the natural history and the identification (by sight and sound) of this group of songbirds. This session is suitable for beginning and intermediate birders.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1751/1777429800000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bb07bbb5a6eb2d377fa87f/scaled_512.jpg",
-    "image": "/src/assets/events/eb4fd59b331a.jpg"
-  },
-  {
     "id": "eea295a3fb0d",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29624835/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -2368,7 +2300,7 @@
     "endDate": "2026-06-24",
     "allDay": false,
     "multiDay": false,
-    "description": "The new Seattle waterfront provides plentiful delights for human visitors, including new bike and walking paths, inspiring artworks and wide-open views. But did you know that this stretch also includes new habitats and hiding places for Seattle's birds, animals and plants?\n\nThis walk is drawn from Seattle Field Guide, a new seasonal guidebook to urban nature outings by authors Kathryn True and Maria Dolan. On this one-mile, one-way walk along Seattle's transformed waterfront we'll look for birds, talk about how changes here enhance Chinook salmon migration (and how that affects our local orca populations), check out a kelp forest, and note the PNW artworks that tell natural and cultural stories along the route. End at Overlook Walk, at the entrance to Pike Place Market.\n\nMeet at 199 Alaskan Way, in front of the Historic Washington Street Boat Landing Pergola, in front of Molly Moon's ice cream shop. This is a one way walk and ends at the Overlook Walk near the Seattle Aquarium. The walk will take about 60 minutes. Bring binoculars if you have them, but they aren't required.\n\nAccessibility notes: Flat, paved sidewalk along waterfront. Habitat beach has rocks and sand but is viewable from the sidewalk. Step-free bathroom near the end of the walk.\n\nAbout us:\n\nMaria Dolan has written on birds, bats, orcas, environmental issues and other subjects for publications including http://Smithsonian.com, CityLab, the Seattle Times, Sierra, Seattle Magazine and more. She lives in Seattle. Visit her online at http://mariadolan.org or on Instagram bookish_md\n\nKathryn True embraces her naturalist tendencies through hiking, birding, community science, and swimming in cold mountain lakes. She blogs about the natural world for Vashon Nature Center and authored a Seattle Times series called \"Natural Wanders.\" Her work has also appeared in Sunset and Alaska Airlines Magazine. She lives on Vashon Island, WA. Visit her online at http://kathryntrue.com or on Instagram @trueislander63",
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/seattlefieldguidewalk2026\n\nThe new Seattle waterfront provides plentiful delights for human visitors, including new bike and walking paths, inspiring artworks and wide-open views. But did you know that this stretch also includes new habitats and hiding places for Seattle's birds, animals and plants?\n\nThis walk is drawn from Seattle Field Guide, a new seasonal guidebook to urban nature outings by authors Kathryn True and Maria Dolan. On this one-mile, one-way walk along Seattle's transformed waterfront we'll look for birds, talk about how changes here enhance Chinook salmon migration (and how that affects our local orca populations), check out a kelp forest, and note the PNW artworks that tell natural and cultural stories along the route. End at Overlook Walk, at the entrance to Pike Place Market.\n\nMeet at 199 Alaskan Way, in front of the Historic Washington Street Boat Landing Pergola, in front of Molly Moon's ice cream shop. This is a one way walk and ends at the Overlook Walk near the Seattle Aquarium. The walk will take about 60 minutes. Bring binoculars if you have them, but they aren't required.\n\nAccessibility notes: Flat, paved sidewalk along waterfront. Habitat beach has rocks and sand but is viewable from the sidewalk. Step-free bathroom near the end of the walk.\n\nAbout us:\n\nMaria Dolan has written on birds, bats, orcas, environmental issues and other subjects for publications including Smithsonian.com, http://Smithsonian.com, CityLab, the Seattle Times, Sierra, Seattle Magazine and more. She lives in Seattle. Visit her online at mariadolan.org http://mariadolan.org or on Instagram bookish_md\n\nKathryn True embraces her naturalist tendencies through hiking, birding, community science, and swimming in cold mountain lakes. She blogs about the natural world for Vashon Nature Center and authored a Seattle Times series called \"Natural Wanders.\" Her work has also appeared in Sunset and Alaska Airlines Magazine. She lives on Vashon Island, WA. Visit her online at kathryntrue.com http://kathryntrue.com or on Instagram @trueislander63",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1805/1782351000000",
     "status": "",
