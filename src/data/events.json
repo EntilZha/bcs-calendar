@@ -46,50 +46,6 @@
     "image": "/src/assets/events/ab0ae3cfaac8.jpg"
   },
   {
-    "id": "eea295a3fb0d",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29624835/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-04-29T12:15:00-07:00",
-    "end": "2026-04-29T12:45:00-07:00",
-    "startDate": "2026-04-29",
-    "endDate": "2026-04-29",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1777490100000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/eea295a3fb0d.jpg"
-  },
-  {
-    "id": "3f93e2b1f7ea",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1735/29625180/0/0",
-    "title": "BIRD UNIVERSITY Online Class Series: Birds of the Columbia Plateau with Jason Fidorra",
-    "start": "2026-04-29T18:00:00-07:00",
-    "end": "2026-04-29T19:30:00-07:00",
-    "startDate": "2026-04-29",
-    "endDate": "2026-04-29",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/birdu-columbia-plateau-2026\n\nOnline classes 6-7:30pm, Wednesdays, April 15, 22, 29, and May 6\n\nField trip May 16-17 based from Kennewick, WA\n\nThe Columbia Plateau ecoregion and it's shrubsteppe may challenge a visitor's expectations of the \"evergreen state\". While at times of year this treeless landscape can appear brown and lifeless, but an upclose visit in spring showcases abundant flora and fauna that make this habitat the most biodiverse terrestrial ecosystem in the Pacific Northwest!\n\nThis course consists of 4 online class sessions followed by a full 2-day weekend tour by local biologist Jason Fidorra. It covers the geographic history, ecology, and conservation status of the Columbia Plateau and shrubsteppe ecosystem, followed by in-depth focus on some of the avian specialties of the area: ferruginous hawk, burrowing owl, sage grouse, and more. The course also covers ecology and identification of many bird species present in the ecosystem and sought during the tour, many of which are unique to the ecosystem. Participants should complete the course with a deeper understanding of this part of Washington than is possible to gain on a single birding trip to the area and thus participants must have completed the course sessions to attend the field trip.\n\nThe weekend tour covers the southern Columbia Basin visiting Franklin, Benton, Walla Walla and Yakima Counties. Special effort will be made to search for rare and local species like ferruginous hawk and burrowing owls, in addition to visiting Shrubstepp habitats for Sage Thrasher, Loggerhead Shrike, Sagebrush Sparrow, Brewer's Sparrows and more. The trip includes wetland stops in hopes of breeding shorebirds (stilts, avocets, phalaropes) and riparian species (Lazuli bunting, eastern kingbird, bullock's oriole...) with the weekend trip list often exceeding 100 species!",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1735/1777510800000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Bird-University"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/654570824bb26d2763b39b76/scaled_640.jpg",
-    "image": "/src/assets/events/3f93e2b1f7ea.jpg"
-  },
-  {
     "id": "03cbadada84b",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1734/29626650/0/0",
     "title": "BIRD UNIVERSITY Online Class Series: Birds of the Central Puget Lowlands with Dr. Jack DeLap and Dr. Ursula Valdez",
