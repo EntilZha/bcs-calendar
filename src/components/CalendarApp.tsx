@@ -3,6 +3,7 @@ import Fuse from "fuse.js";
 import { FACETS, FACET_BY_ID, facetIdsForEvent } from "../config/categories";
 import {
   type CalEvent,
+  BookmarkButton,
   EventBody,
   EventLinks,
   FacetChips,
@@ -16,6 +17,12 @@ import {
   timeLabel,
   todayKey,
 } from "./eventUI";
+import {
+  clearAll,
+  toggleFacet as storeToggleFacet,
+  useFilterState,
+} from "../lib/filterStore";
+import { useBookmarkSet } from "../lib/bookmarks";
 import eventsData from "../data/events.json";
 import metaData from "../data/meta.json";
 
@@ -170,8 +177,9 @@ function EventCard({
         if ((e.target as HTMLElement).closest("a, button")) return;
         onOpen(ev);
       }}
-      className="flex cursor-pointer gap-4 rounded-xl bg-white p-3 shadow-sm ring-1 ring-black/5 transition hover:shadow-md hover:ring-leaf/40"
+      className="relative flex cursor-pointer gap-4 rounded-xl bg-white p-3 shadow-sm ring-1 ring-black/5 transition hover:shadow-md hover:ring-leaf/40"
     >
+      <BookmarkButton ev={ev} variant="icon" />
       {img && (
         <button
           type="button"
@@ -187,7 +195,7 @@ function EventCard({
           />
         </button>
       )}
-      <div className="min-w-0 flex-1">
+      <div className="min-w-0 flex-1 pr-8 sm:pr-24">
           <p className="text-sm font-medium text-leaf">{timeLabel(ev)}</p>
           <h3 className="font-semibold leading-snug text-brand">
             {cancelled && (
@@ -229,7 +237,7 @@ function EventCard({
                 {open ? "Show less" : "Show more"}
               </button>
             )}
-            <EventLinks ev={ev} />
+            <EventLinks ev={ev} showBookmark={false} />
           </div>
         </div>
       </article>
@@ -420,9 +428,11 @@ function MonthView({
 function AgendaView({
   events,
   onOpen,
+  emptyMessage,
 }: {
   events: CalEvent[];
   onOpen: (ev: CalEvent) => void;
+  emptyMessage: string;
 }) {
   const groups = useMemo(() => {
     const map: Record<string, CalEvent[]> = {};
@@ -435,7 +445,7 @@ function AgendaView({
   if (groups.length === 0) {
     return (
       <p className="rounded-xl bg-white p-8 text-center text-gray-500 ring-1 ring-black/5">
-        No events match your filters.
+        {emptyMessage}
       </p>
     );
   }
@@ -473,7 +483,10 @@ export default function CalendarApp() {
     return "agenda";
   });
   const [query, setQuery] = useState("");
-  const [activeFacets, setActiveFacets] = useState<Set<string>>(new Set());
+  // Facet selection + "saved only" live in a shared store so the header nav
+  // shortcuts and this filter bar stay in sync.
+  const { facets: activeFacets, savedOnly } = useFilterState();
+  const savedIds = useBookmarkSet();
   const [upcomingOnly, setUpcomingOnly] = useState(true);
   const [modalEvent, setModalEvent] = useState<CalEvent | null>(null);
   const [monthAnchor, setMonthAnchor] = useState(() => {
@@ -505,20 +518,22 @@ export default function CalendarApp() {
       );
     }
 
-    // "Upcoming only" applies in agenda view (month view shows the full month).
-    if (upcomingOnly && view === "agenda") {
+    if (savedOnly) list = list.filter((ev) => savedIds.has(ev.id));
+
+    // "Upcoming only" applies in agenda view (month view shows the full month),
+    // but is bypassed when viewing saved events so saved past events still show.
+    if (upcomingOnly && view === "agenda" && !savedOnly) {
       list = list.filter((ev) => ev.endDate >= today);
     }
 
     return list;
-  }, [query, activeFacets, upcomingOnly, view, today, fuse]);
+  }, [query, activeFacets, savedOnly, savedIds, upcomingOnly, view, today, fuse]);
 
-  const toggleFacet = (id: string) =>
-    setActiveFacets((prev) => {
-      const next = new Set(prev);
-      next.has(id) ? next.delete(id) : next.add(id);
-      return next;
-    });
+  const emptyMessage = savedOnly
+    ? savedIds.size === 0
+      ? "You haven't saved any events yet. Tap the star on an event to save it."
+      : "None of your saved events match the current filters."
+    : "No events match your filters.";
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-6">
@@ -573,7 +588,7 @@ export default function CalendarApp() {
               <button
                 key={f.id}
                 type="button"
-                onClick={() => toggleFacet(f.id)}
+                onClick={() => storeToggleFacet(f.id)}
                 className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium ring-1 ring-inset transition ${
                   on
                     ? "bg-brand text-white ring-brand"
@@ -590,7 +605,7 @@ export default function CalendarApp() {
           {activeFacets.size > 0 && (
             <button
               type="button"
-              onClick={() => setActiveFacets(new Set())}
+              onClick={() => clearAll()}
               className="text-xs font-medium text-gray-500 underline hover:text-brand"
             >
               Clear
@@ -617,22 +632,33 @@ export default function CalendarApp() {
           <p className="mb-3 text-sm text-gray-500">
             {filtered.length} event{filtered.length === 1 ? "" : "s"}
           </p>
-          <AgendaView events={filtered} onOpen={setModalEvent} />
+          <AgendaView
+            events={filtered}
+            onOpen={setModalEvent}
+            emptyMessage={emptyMessage}
+          />
         </>
       ) : (
-        <MonthView
-          events={filtered}
-          monthAnchor={monthAnchor}
-          onMonthChange={(d) => {
-            setMonthAnchor(d);
-            setSelectedDay(null);
-          }}
-          onSelectDay={(key) =>
-            setSelectedDay((cur) => (cur === key ? null : key))
-          }
-          selectedDay={selectedDay}
-          onOpen={setModalEvent}
-        />
+        <>
+          {savedOnly && filtered.length === 0 && (
+            <p className="mb-3 rounded-xl bg-white p-8 text-center text-gray-500 ring-1 ring-black/5">
+              {emptyMessage}
+            </p>
+          )}
+          <MonthView
+            events={filtered}
+            monthAnchor={monthAnchor}
+            onMonthChange={(d) => {
+              setMonthAnchor(d);
+              setSelectedDay(null);
+            }}
+            onSelectDay={(key) =>
+              setSelectedDay((cur) => (cur === key ? null : key))
+            }
+            selectedDay={selectedDay}
+            onOpen={setModalEvent}
+          />
+        </>
       )}
 
       {modalEvent && (

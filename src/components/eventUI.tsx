@@ -2,6 +2,7 @@
 // calendar app (cards + modal) and the standalone per-event pages.
 import { useState } from "react";
 import { FACET_BY_ID, facetIdsForEvent } from "../config/categories";
+import { toggleBookmark, useIsBookmarked } from "../lib/bookmarks";
 
 export interface CalEvent {
   id: string;
@@ -287,10 +288,99 @@ function CopyButton({
   );
 }
 
-// Action row shared by the card, the detail modal, and the event page.
-export function EventLinks({ ev }: { ev: CalEvent }) {
+// Star glyph — filled when saved, outline when not.
+function StarIcon({ filled, className }: { filled: boolean; className: string }) {
+  return filled ? (
+    <svg className={className} viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+      <path d="M9.05 2.93c.3-.92 1.6-.92 1.9 0l1.37 4.22a1 1 0 00.95.69h4.44c.97 0 1.37 1.24.59 1.81l-3.6 2.61a1 1 0 00-.36 1.12l1.37 4.22c.3.92-.76 1.69-1.54 1.12l-3.6-2.61a1 1 0 00-1.18 0l-3.6 2.61c-.78.57-1.84-.2-1.54-1.12l1.37-4.22a1 1 0 00-.36-1.12L1.1 9.65c-.78-.57-.38-1.81.59-1.81h4.44a1 1 0 00.95-.69L9.05 2.93z" />
+    </svg>
+  ) : (
+    <svg
+      className={className}
+      fill="none"
+      viewBox="0 0 24 24"
+      strokeWidth={1.8}
+      stroke="currentColor"
+      aria-hidden="true"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M11.48 3.5c.17-.51.9-.51 1.07 0l1.83 5.64a.56.56 0 00.53.39h5.93c.54 0 .76.69.33 1l-4.8 3.49a.56.56 0 00-.2.63l1.83 5.63c.17.51-.42.94-.86.63l-4.8-3.48a.56.56 0 00-.66 0l-4.8 3.48c-.43.31-1.02-.12-.86-.63l1.84-5.63a.56.56 0 00-.2-.63l-4.8-3.49c-.44-.31-.21-1 .33-1h5.93a.56.56 0 00.53-.39L11.48 3.5z"
+      />
+    </svg>
+  );
+}
+
+// Save / un-save toggle. Persists to localStorage; stays in sync across every
+// surface showing the same event (card, modal, detail page) via the store.
+// `variant="pill"` is the labeled action-row button; `variant="icon"` is the
+// compact circular badge pinned to a card's top-right corner.
+export function BookmarkButton({
+  ev,
+  variant = "pill",
+}: {
+  ev: CalEvent;
+  variant?: "pill" | "icon";
+}) {
+  const saved = useIsBookmarked(ev.id);
+  const label = saved
+    ? `Remove ${cleanTitle(ev.title)} from saved events`
+    : `Save ${cleanTitle(ev.title)}`;
+
+  if (variant === "icon") {
+    // Labeled pill on wider viewports; collapses to an icon-only circle once
+    // the card narrows (matching where the card image drops out).
+    return (
+      <button
+        type="button"
+        aria-pressed={saved}
+        onClick={() => toggleBookmark(ev.id)}
+        aria-label={label}
+        title={saved ? "Saved" : "Save event"}
+        className={`absolute right-2 top-2 z-10 inline-flex cursor-pointer items-center gap-1.5 rounded-full p-1.5 text-sm font-medium shadow-sm ring-1 transition sm:px-3 sm:py-1 ${
+          saved
+            ? "bg-pop text-brand ring-brand/30"
+            : "bg-white/90 text-gray-400 ring-black/5 hover:text-brand hover:ring-brand/30"
+        }`}
+      >
+        <StarIcon filled={saved} className="h-5 w-5 sm:h-4 sm:w-4" />
+        <span className="hidden sm:inline">{saved ? "Saved" : "Save"}</span>
+      </button>
+    );
+  }
+
+  const idle = "text-gray-500 ring-gray-300 hover:text-brand hover:ring-brand";
+  const active = "bg-pop/20 text-brand ring-brand";
+  return (
+    <button
+      type="button"
+      aria-pressed={saved}
+      onClick={() => toggleBookmark(ev.id)}
+      aria-label={label}
+      className={`inline-flex cursor-pointer items-center gap-1.5 rounded-full px-3 py-1 text-sm font-medium ring-1 ring-inset transition ${
+        saved ? active : idle
+      }`}
+    >
+      <StarIcon filled={saved} className="h-4 w-4" />
+      {saved ? "Saved" : "Save"}
+    </button>
+  );
+}
+
+// Action row shared by the card, the detail modal, and the event page. The
+// card hides the labeled button (`showBookmark={false}`) in favor of a corner
+// star; the modal and detail page keep it in the row.
+export function EventLinks({
+  ev,
+  showBookmark = true,
+}: {
+  ev: CalEvent;
+  showBookmark?: boolean;
+}) {
   return (
     <>
+      {showBookmark && <BookmarkButton ev={ev} />}
       {ev.registration && (
         <a
           href={ev.registration.url}

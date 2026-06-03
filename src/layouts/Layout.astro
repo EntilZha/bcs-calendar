@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import NavShortcuts from "../components/NavShortcuts.tsx";
 
 interface Props {
   title?: string;
@@ -55,6 +56,9 @@ const base = import.meta.env.BASE_URL;
           >View on BCS Website &rarr;</a
         >
       </div>
+      <nav class="mx-auto max-w-6xl px-4 pb-2">
+        <NavShortcuts client:load />
+      </nav>
     </header>
 
     <main class="flex-1 w-full">
