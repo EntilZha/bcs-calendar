@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-06-07T03:20:49.476064-07:00",
-  "eventCount": 132,
+  "crawledAt": "2026-06-08T04:16:48.321909-07:00",
+  "eventCount": 130,
   "rawCategories": [
     "Art",
     "Bird-Outing",
