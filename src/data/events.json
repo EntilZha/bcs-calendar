@@ -23,28 +23,6 @@
     "image": "/src/assets/events/4bb72c5985a0.jpg"
   },
   {
-    "id": "1a0e8befba93",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1811/29637480/0/0",
-    "title": "Field Trip:Oxbow Loop Trail in the Snoqualmie Middle Fork Valley near North Bend",
-    "start": "2026-05-08T07:00:00-07:00",
-    "end": "2026-05-08T12:00:00-07:00",
-    "startDate": "2026-05-08",
-    "endDate": "2026-05-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Register for the WAITLIST here https://secure.birdsconnectsea.org/a/oxbow582026\n\nLeaders: Cynthia Putnam and Dhammadinna Davis\n\nMeet: 7:00 AM Green Lake (Ravenna) P&R. Northern section of the lot.\n\nLimit: 12\n\nNo mask requirements\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~ 1.8 miles walking\n\nIn the Snoqualmie Middle Fork valley, we will walk a loop trail of 1.8 miles with 56 feet of elevation gain looking for spring arrivals. In early May our Puget Trough altitudinal migrants that spend the winter with us will be moving into the foothills and mountains. Varied thrushes, warblers, kinglets, and newly arrived flycatchers and vireos are likely. From a couple of vantage points, we will be looking down over the river or along the riverbank for waterfowl like Harlequin Ducks and Common Mergansers and American Dippers. At Oxbow Lake, we’ll be looking for Hooded Mergansers and other waterfowl that prefer calm waters.\n\nThe trail surface is gravel except for the offshoot to the riverbank. Vault toilets are at the trailhead. The gravel trail will not be muddy, but the side trail to the river most likely will be. We’ll spend about 2 to 3 hours in the field. Bring layers, rain gear, water and snacks. Return by 12 noon, depending on traffic.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1811/1778248800000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/1a0e8befba93.jpg"
-  },
-  {
     "id": "d545812fb8cf",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1747/29638500/0/0",
     "title": "Global Big Day 2026",
@@ -1610,6 +1588,27 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/466672a4cb45.jpg"
+  },
+  {
+    "id": "49a5ad17acbd",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1856/29691000/0/0",
+    "title": "Partner Event: Heron Chick Birthday Party",
+    "start": "2026-06-14T11:00:00-07:00",
+    "end": "2026-06-14T14:00:00-07:00",
+    "startDate": "2026-06-14",
+    "endDate": "2026-06-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Join us for the Annual Great Blue Heron Chick Birthday Party on Sunday, June 14, 2026, from 11 AM to 2 PM at Commodore Park.\n\nGet an up-close look at great blue heron chicks through spotting scopes, explore educational displays, chat with knowledgeable HHH naturalists, and enjoy festive birthday treats.\n\nThis year’s colony is thriving, boasting 63 nests! With at least two chicks in each, there’s plenty of activity to see. We can’t wait to celebrate with you.\n\nFree event, everyone is welcome!\n\nLocation:\nCommodore Park\n3330 W Commodore Way, Seattle, WA 98107\nAdjacent to the Ballard Locks on the Magnolia side\nLook for the trees between the fish ladder and the train bridge",
+    "location": "Commodore Park,3330 W Commodore Way, Seattle, WA 98107, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1856/1781460000000",
+    "status": "",
+    "categories": [
+      "Partner"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a27202dc7779976fdda2f8f/scaled_1024.jpg",
+    "image": "/src/assets/events/49a5ad17acbd.jpg"
   },
   {
     "id": "e4db21ae3d9c",
