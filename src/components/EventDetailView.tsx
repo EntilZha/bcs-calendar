@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { type CalEvent, EventBody, eventImage } from "./eventUI";
+import { type CalEvent, EventBody, cleanTitle, eventImage } from "./eventUI";
 
 // Standalone, full-page view of a single event (its own shareable URL).
 export default function EventDetailView({ ev }: { ev: CalEvent }) {
@@ -31,7 +31,7 @@ export default function EventDetailView({ ev }: { ev: CalEvent }) {
           <div className="flex justify-center bg-gray-100 p-3">
             <img
               src={img}
-              alt=""
+              alt={`Photo for ${cleanTitle(ev.title)}`}
               className="max-h-[22rem] max-w-full object-contain"
             />
           </div>

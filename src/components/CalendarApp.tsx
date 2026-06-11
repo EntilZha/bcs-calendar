@@ -100,7 +100,7 @@ function EventModal({
           <div className="flex shrink-0 items-center justify-center bg-gray-100 p-2">
             <img
               src={img}
-              alt=""
+              alt={`Photo for ${cleanTitle(ev.title)}`}
               className="max-h-[38vh] max-w-full object-contain"
             />
           </div>
@@ -340,6 +340,7 @@ function MonthView({
               key={i}
               role="button"
               tabIndex={0}
+              aria-label={`${dayHeading(key)}, ${dayEvents.length} event${dayEvents.length === 1 ? "" : "s"}`}
               onClick={(e) => {
                 // Individual event links open in a new tab; clicking anywhere
                 // else in the cell shows that day's agenda below.
@@ -373,6 +374,7 @@ function MonthView({
                       type="button"
                       onClick={() => onOpen(ev)}
                       title={cleanTitle(ev.title)}
+                      aria-label={cleanTitle(ev.title)}
                       className="flex items-center gap-1 truncate rounded text-left text-[10px] leading-tight text-gray-600 hover:bg-leaf/10 hover:text-brand"
                     >
                       <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${dot}`} />
@@ -546,6 +548,7 @@ export default function CalendarApp() {
                 key={v}
                 type="button"
                 onClick={() => setView(v)}
+                aria-pressed={view === v}
                 className={`rounded-md px-4 py-1.5 text-sm font-semibold capitalize transition ${
                   view === v
                     ? "bg-brand text-white shadow-sm"
@@ -563,6 +566,7 @@ export default function CalendarApp() {
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               placeholder="Search events, places, topics…"
+              aria-label="Search events"
               className="w-full rounded-lg border-0 bg-white py-2 pl-9 pr-3 text-sm shadow-sm ring-1 ring-black/5 placeholder:text-gray-400 focus:ring-2 focus:ring-leaf"
             />
             <svg
@@ -589,6 +593,7 @@ export default function CalendarApp() {
                 key={f.id}
                 type="button"
                 onClick={() => storeToggleFacet(f.id)}
+                aria-pressed={on}
                 className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium ring-1 ring-inset transition ${
                   on
                     ? "bg-brand text-white ring-brand"
