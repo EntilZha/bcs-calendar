@@ -47,141 +47,6 @@
     "image": "/src/assets/events/f4da16701864.jpg"
   },
   {
-    "id": "75f5280d2114",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1735/29648940/1/0",
-    "title": "BIRD UNIVERSITY Online Class Series: Birds of the Columbia Plateau with Jason Fidorra",
-    "start": "2026-05-16T06:00:00-07:00",
-    "end": "2026-05-16T07:30:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/birdu-columbia-plateau-2026\n\nOnline classes 6-7:30pm, Wednesdays, April 15, 22, 29, and May 6\n\nField trip May 16-17 based from Kennewick, WA\n\nThe Columbia Plateau ecoregion and it's shrubsteppe may challenge a visitor's expectations of the \"evergreen state\". While at times of year this treeless landscape can appear brown and lifeless, but an upclose visit in spring showcases abundant flora and fauna that make this habitat the most biodiverse terrestrial ecosystem in the Pacific Northwest!\n\nThis course consists of 4 online class sessions followed by a full 2-day weekend tour by local biologist Jason Fidorra. It covers the geographic history, ecology, and conservation status of the Columbia Plateau and shrubsteppe ecosystem, followed by in-depth focus on some of the avian specialties of the area: ferruginous hawk, burrowing owl, sage grouse, and more. The course also covers ecology and identification of many bird species present in the ecosystem and sought during the tour, many of which are unique to the ecosystem. Participants should complete the course with a deeper understanding of this part of Washington than is possible to gain on a single birding trip to the area and thus participants must have completed the course sessions to attend the field trip.\n\nThe weekend tour covers the southern Columbia Basin visiting Franklin, Benton, Walla Walla and Yakima Counties. Special effort will be made to search for rare and local species like ferruginous hawk and burrowing owls, in addition to visiting Shrubstepp habitats for Sage Thrasher, Loggerhead Shrike, Sagebrush Sparrow, Brewer's Sparrows and more. The trip includes wetland stops in hopes of breeding shorebirds (stilts, avocets, phalaropes) and riparian species (Lazuli bunting, eastern kingbird, bullock's oriole...) with the weekend trip list often exceeding 100 species!",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1735/1778936400000/1",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Bird-University"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/654570824bb26d2763b39b76/scaled_640.jpg",
-    "image": "/src/assets/events/75f5280d2114.jpg"
-  },
-  {
-    "id": "177ac8d6ef77",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1762/29649000/0/0",
-    "title": "Neighborhood Bird Outing: Snoqualmie Point Park / Rattlesnake Ridge",
-    "start": "2026-05-16T07:00:00-07:00",
-    "end": "2026-05-16T11:00:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Eric Crockett and Emily Larson\n\nMeeting Point: 7:00 at the Rattlesnake Mountain Trail parking lot https://goo.gl/maps/3Q8WiiKzA34wuq2f7 (bathrooms available). Discover Pass required.\n\nBike Parking: bike rack\n\nTrip Accessibility: 2 (moderate pace), C (moderate uphill travel on gravel road surfaces), about 6 miles walking.\n\nExpect to walk about 6 miles, mostly on gravel roads, as we pass through a variety of forested habitats on an uphill traverse of Rattlesnake Ridge. We will have an excellent chance of finding MacGillivray’s warblers, Cassin’s vireos, band-tailed pigeons, and Hammond’s and Pacific slope flycatchers. Pack snacks/lunch, water, appropriate layers, and binoculars if you have them.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1762/1778940000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/177ac8d6ef77.jpg"
-  },
-  {
-    "id": "424bcffcca5b",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1809/29649030/0/0",
-    "title": "Field Trip:Union Bay Natural Area",
-    "start": "2026-05-16T07:30:00-07:00",
-    "end": "2026-05-16T10:00:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Registration for this trip is closed.\n\nLeader: Jen McKeirnan, she/her\n\nMeet: 7:30 AM. Meet at the Center for Urban Horticulture east-side parking lot\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk. Up to 2 miles of walking.\n\nThe Union Bay Natural Area is distinguished for diverse habitats including grasslands, woods, ponds, marshland, and lake shoreline. It attracts a wide variety of resident and migratory birds. Expect to walk up to 2 leisurely paced miles on level ground. Bring binoculars. Over by 10am.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1809/1778941800000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/424bcffcca5b.jpg"
-  },
-  {
-    "id": "1fb527a2fd8d",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1734/29638980/3/0",
-    "title": "BIRD UNIVERSITY Online Class Series: Birds of the Central Puget Lowlands with Dr. Jack DeLap and Dr. Ursula Valdez",
-    "start": "2026-05-16T08:00:00-07:00",
-    "end": "2026-05-16T11:00:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/birdu-central-puget-lowlands2026\n\nThe Central Puget Lowlands ecoregion embraces the lowlands and marine waters lying between the Cascades on the east and the coastal ranges on the west, from sea level to an elevation of about 1,000 ft. It contains Seattle and surrounding areas but also extends quite far to the west across Puget Sound. The original vegetation consists mainly of conifer-dominated forests of Douglas-fir, western hemlock, western red cedar, red alder, and bigleaf maple, but is now heavily fragmented due to human activity.\n\nThis is a two-part course series for intermediate to advanced birders that will be offered by local ornithologists and academics Dr. Jack DeLap and Dr. Ursula Valdez. Come learn with us about the lives of species found in the Central Puget lowlands. Some examples of the species to be covered: Bald Eagle, Barn Owl, Belted Kingfisher, several species of ducks and geese, Chestnut-backed Chickadees, Hummingbirds, Corvids, resident species of sparrows and finches, short and long-distance migrants.\n\nBoth instructors will give you the opportunity to learn about ID tips and the use of mobile apps for the documentation of the species.\n\nPart A of this series will be taught by Dr. Jack DeLap. Topics covered include overwintering ecology and conservation, migration, and arrival..\n\nOnline Classes: meet weekly on Thursdays, April 2, 9, 16, 23 from 6:30 - 8:00 p.m.\n\nRequired field trips:\n\n  1. Saturday, April 11 with Dr. DeLap, Location: Union Bay Natural Area / Montlake Fill, three-hour morning outing\n  2. Saturday, April 25 with Dr. DeLap and Dr. Valdez, Location: Juanita Bay, three-hour morning outing\n\nPart B of this series will be taught by Dr. Ursula Valdez and will focus on avian ecology and natural history associated with the establishment and defense of breeding territories, mating and reproduction, dispersal ecology, and conservation.\n\nOnline Classes: meet weekly on Thursdays, April 30, May 7, 14, 21 from 6:30-8:00pm\n\nRequired field trip:\n\n  1. Saturday, May 16 with Dr. Valdez, Location: Carkeek Park, three-hour morning outing\n\nWe'll share more field trip information soon, including info about meeting locations and routes. Trip participants can expect to walk a leisurely 1-3 miles per outing, mostly on gently rolling dirt trails.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1734/1778338800000/3",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Bird-University"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ddd875edf82fe18b2f99dcb/scaled_384.jpg",
-    "image": "/src/assets/events/1fb527a2fd8d.jpg"
-  },
-  {
-    "id": "b1f712e218db",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1790/29649090/0/0",
-    "title": "Neighborhood Bird Outing: Seward Park (for young adults <40)",
-    "start": "2026-05-16T08:30:00-07:00",
-    "end": "2026-05-16T11:30:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Emi Nye, (503) 798-6687 - NextGen Council Member\n\nMeeting Point: Meet near the Seward Park Audubon Center at 8:30am (5902 Lake Washington Blvd S, Seattle, WA 98118).\n\nBike Parking: There are bike racks available near the Seward Park Audubon Center, where we will be starting our walk.\n\nTrip Accessibility: 1A: Leisurely meandering with many breaks to stop and observe, on solid, mostly level pavement\n\nMasks: Optional\n\nThis walk is geared specifically for Young Adults under 40. Birders and nature enthusiasts of all experience levels are welcome.\n\nWe will start our walk near the Seward Park Audubon Center, where there are nearby restrooms and two parking lots within the park. Seward Park offers sweeping lake and forest views and a variety of bird species call this peninsula in Lake Washington home. We may even be treated with views of the resident Bald Eagles! We will plan to make the loop around the park and end where we started near the park entrance.\n\nGroup size will vary. We aim to be done birding around 11:30am. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.",
-    "location": "Seward Park Audubon Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1790/1778945400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in",
-      "NextGen"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/b1f712e218db.jpg"
-  },
-  {
-    "id": "db23ea29b6d9",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1807/29649180/0/0",
-    "title": "**Postponed (date to be announced)** In-Person Class: Birds and Block Printing with Hanae Bettencourt",
-    "start": "2026-05-16T10:00:00-07:00",
-    "end": "2026-05-16T12:30:00-07:00",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "allDay": false,
-    "multiDay": false,
-    "description": "This class has been postponed, date to be determined.\n\nTickets: Sliding scale with additional $15 art materials fee\n\nLocation: Tower Building 3rd Floor Conference Room - (enter through Birds Connect Seattle HQ - 616 Olive Way, Seattle, WA 98101)\n\nParticipant Limit: 14 students\n\nBirds and nature are a source of inspiration for many artists. In this beginner course to the art of block printing, participants will learn about the basics of carving and printing their own bird- and nature-inspired rubber stamp block. At the end of the class, everyone will go home with their custom printed block as well as a set of prints to frame or use for greeting cards. (An additional $15 supply cost applies to this class.)",
-    "location": "The Tower Building 3rd floor conference room,616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1807/1778950800000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Education",
-      "New-Nest"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/65403de237d1085efdbb50bb/scaled_1024.jpg",
-    "image": "/src/assets/events/db23ea29b6d9.jpg"
-  },
-  {
     "id": "786ea0c83a3c",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1735/29650380/2/0",
     "title": "BIRD UNIVERSITY Online Class Series: Birds of the Columbia Plateau with Jason Fidorra",
@@ -1705,6 +1570,29 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
     "image": "/src/assets/events/89c7dc836959.jpg"
+  },
+  {
+    "id": "9529959331a2",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1857/29709780/0/0",
+    "title": "Seattle Bird Collision Monitoring Project Volunteer Social and Season-end Report Out",
+    "start": "2026-06-27T12:00:00-07:00",
+    "end": "2026-06-27T14:00:00-07:00",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Seattle Bird Collision Monitoring Project participants are invited to a volunteer social and season-end report out. Join us at our downtown headquarters to connect with other volunteers, swap stories, and discuss the findings from the spring 2026 monitoring season.\n\nPlease email Joshua Morris to confirm attendance at joshm@birdsconnectsea.org mailto:joshm@birdsconnectsea.org .",
+    "location": "Birds Connect Seattle headquarters,616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1857/1782586800000",
+    "status": "",
+    "categories": [
+      "Conservation",
+      "Volunteer",
+      "Science"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62f31d1e6bc4cb12ac761504/scaled_640.jpg",
+    "image": "/src/assets/events/9529959331a2.jpg"
   },
   {
     "id": "1a7bb151951f",

@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-06-16T04:18:40.191614-07:00",
-  "eventCount": 117,
+  "crawledAt": "2026-06-17T04:15:08.145753-07:00",
+  "eventCount": 112,
   "rawCategories": [
     "Art",
     "Bird-Outing",
@@ -20,11 +20,11 @@
     "Fund-Our-Mission",
     "Lecture",
     "Member-Event",
-    "New-Nest",
     "NextGen",
     "Partner",
     "Recommended",
     "Retail",
+    "Science",
     "Volunteer",
     "Volunteer-Training",
     "Youth"
