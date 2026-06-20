@@ -23,31 +23,6 @@
     "image": "/src/assets/events/4bb72c5985a0.jpg"
   },
   {
-    "id": "e6e86adceffd",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29653800/0/0",
-    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
-    "start": "2026-05-19T15:00:00-07:00",
-    "end": "2026-05-19T18:00:00-07:00",
-    "startDate": "2026-05-19",
-    "endDate": "2026-05-19",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2026 Bird Watching & Puffin Cruises out of Edmonds. These three-hour tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight.\n\nSummer 2026 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:00 p.m.)\n\n  * May 19, 26\n  * June 2, 9, 16, 23, 30\n  * July 14, 28\n  * August 11, 25\n  * September 1\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions directly to them.\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
-    "location": "Port of Edmonds,459 Admiral Way, Edmonds, WA 98020, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1813/1779228000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Partner"
-    ],
-    "registration": {
-      "label": "Buy Your Ticket",
-      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
-    },
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
-    "image": "/src/assets/events/e6e86adceffd.jpg"
-  },
-  {
     "id": "4e56993cbf24",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1785/29654880/0/0",
     "title": "Neighborhood Bird Outing: Green Lake",
