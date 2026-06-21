@@ -23,50 +23,6 @@
     "image": "/src/assets/events/4bb72c5985a0.jpg"
   },
   {
-    "id": "4e56993cbf24",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1785/29654880/0/0",
-    "title": "Neighborhood Bird Outing: Green Lake",
-    "start": "2026-05-20T09:00:00-07:00",
-    "end": "2026-05-20T13:00:00-07:00",
-    "startDate": "2026-05-20",
-    "endDate": "2026-05-20",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Roniq Bartanen (she/her)\n\nMeeting Point: Green lake Boathouse in front of the café. 7351 East Green Lake Dr. N, Seattle, WA 98115. Green Lake café hours: Dependent on season\n\nBike Parking: A small bike rack is available near the coffee shop\n\nTrip Accessibility: 1( leisurely pace), A ( paved and level), ~ 2.8 miles walking total loop\n\nDid you know Green Lake is a rich and diverse urban birding habitat? Over 175 species of birds have been seen at this eBird hot spot! During our outing we will explore migratory bird species as well as the many birds seen here all year long. All levels of birding experience and ages as well as families are welcome.\n\nGreen Lake monthly bird outings are inclusive of all ages, gender pronouns, sexual orientations, races, cultures, abilities, ethnicity and socioeconomic status. All participants are free to attend the outing for as long as they like. Our pace will be slow and easy as we navigate 2.8 miles of level terrain.\n\nDress appropriately for the weather and please leave dogs at home so as to not scare our feathered friends.\n\nA small parking lot is available and gets crowded, please leave time to park. Nearby street parking is also available. Green Lake is bus accessible with buses #62 and #45. A small bike rack is near the Café.\n\nThe trail is ADA accessible; all abilities and mobilities are welcome! Restrooms and drinking fountains are available at the nearby Green Lake Community Center Building and at various locations along the trail.\n\nPhoto Credit: Roniq Bartanen",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1785/1779292800000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958292c97af2cfcb93ca3/scaled_384.jpg",
-    "image": "/src/assets/events/4e56993cbf24.jpg"
-  },
-  {
-    "id": "f696b874f50b",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29655075/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-05-20T12:15:00-07:00",
-    "end": "2026-05-20T12:45:00-07:00",
-    "startDate": "2026-05-20",
-    "endDate": "2026-05-20",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1779304500000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/f696b874f50b.jpg"
-  },
-  {
     "id": "8c5983b24770",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1741/29656320/0/0",
     "title": "Birding Vacation: Methow Valley",
