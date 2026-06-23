@@ -1280,6 +1280,28 @@
     "image": "/src/assets/events/7e62b16ac653.jpg"
   },
   {
+    "id": "6e4b189b7cb9",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1860/29706930/0/0",
+    "title": "Online Lunch and Learn: All About Tree Canopy Cover Assessments with Joshua Morris",
+    "start": "2026-06-25T12:30:00-07:00",
+    "end": "2026-06-25T13:00:00-07:00",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER HERE https://docs.google.com/forms/d/e/1FAIpQLSeCIdIcFwthRCdx1k29kkSgHMDDSBOSzd-kRJOW-E53dzZXNg/viewform\n\nTree canopy cover is one of the most widely used indicators for measuring progress toward urban forestry goals and evaluating tree canopy equity across neighborhoods. In this 15-minute presentation, we will review the methods used to assess tree canopy cover along with key challenges practitioners face: distinguishing tree cover from other vegetation, handling seasonal variation, and ensuring consistency across repeated assessments over time. Finally, we will look at how cities in King County use tree canopy cover data to inform urban forest management.\n\nAbout the speaker: Joshua Morris is Conservation Director at Birds Connect Seattle. Joshua served on Seattle’s Urban Forestry Commission from 2019 to 2025 where he co-developed commission recommendations on updating tree protection ordinances, strengthening urban forestry policies in the City's Comprehensive Plan, improving tracking of urban forest expenditures in the City budget, and more.\n\nThis presentation is part of the Understory Lunch and Learn Series, an initiative of the Tree Equity Network https://www.seattleparksfoundation.org/community-partners/tree-equity-network/ offering accessible, concise information and resources on urban forest management, policy, and advocacy. Birds Connect Seattle and Seattle Parks Foundation co-lead the networks.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1860/1782415800000",
+    "status": "",
+    "categories": [
+      "Conservation",
+      "Lecture"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a10d624bf50ac3e01818e30/scaled_1024.jpg",
+    "image": "/src/assets/events/6e4b189b7cb9.jpg"
+  },
+  {
     "id": "04c24ca5cf7b",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1706/29707320/0/0",
     "title": "In-Person Classes: Birding by Ear, Tackling the Tricky Ones",
@@ -2078,6 +2100,28 @@
     },
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/703d2f7e4c26.jpg"
+  },
+  {
+    "id": "09372404f2ed",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1859/29796600/0/0",
+    "title": "Beers for Birds Trivia night at 4B's Tavern",
+    "start": "2026-08-26T19:00:00-07:00",
+    "end": "2026-08-26T21:00:00-07:00",
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Join the Birds Connect Seattle NextGen Council for more bird trivia! This month's event will take place at 4B's Tavern in Fremont.\n\nThis venue is 21+ and has a full kitchen, featuring their weekly Wednesday Steak Night.\n\nBird expertise not necessary to have a great time.",
+    "location": "4B's Tavern,4300 NW Leary Wy, Seattle, WA 98107, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1859/1787796000000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/691b7e617442f61edee9c8bf/scaled_1024.png",
+    "image": "/src/assets/events/09372404f2ed.png"
   },
   {
     "id": "b0ee62078a3e",
