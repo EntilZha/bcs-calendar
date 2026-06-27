@@ -23,31 +23,6 @@
     "image": "/src/assets/events/4bb72c5985a0.jpg"
   },
   {
-    "id": "6d7a6d09d656",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29663880/0/0",
-    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
-    "start": "2026-05-26T15:00:00-07:00",
-    "end": "2026-05-26T18:00:00-07:00",
-    "startDate": "2026-05-26",
-    "endDate": "2026-05-26",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2026 Bird Watching & Puffin Cruises out of Edmonds. These three-hour tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight.\n\nSummer 2026 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:00 p.m.)\n\n  * May 19, 26\n  * June 2, 9, 16, 23, 30\n  * July 14, 28\n  * August 11, 25\n  * September 1\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions directly to them.\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
-    "location": "Port of Edmonds,459 Admiral Way, Edmonds, WA 98020, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1813/1779832800000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Partner"
-    ],
-    "registration": {
-      "label": "Buy Your Ticket",
-      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
-    },
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
-    "image": "/src/assets/events/6d7a6d09d656.jpg"
-  },
-  {
     "id": "f6a784aadc6f",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29665155/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1780,6 +1755,29 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
     "image": "/src/assets/events/7196b3f43cf9.jpg"
+  },
+  {
+    "id": "5ca31ae9d665",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1674/29764920/0/0",
+    "title": "Neighborhood Bird Outing: Evening Photography at Seward Park with NextGen",
+    "start": "2026-08-04T19:00:00-07:00",
+    "end": "2026-08-04T21:00:00-07:00",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-04",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) 425-681-6252, Pedro Rodriguez (he/him)\n\nMeeting Point: Meeting Point: Meet outside of the Seward Park Audubon Center, 5902 Lake Washington Blvd S., Seattle\n\nBike Parking: Bike parking adjacent to Audubon Center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails and sets of stairs), approx. 3 miles walking.\n\nJoin NextGen Council members Jordan & Pedro for an evening of bird photography at Seward Park.\n\nSeward Park is a 300-acre gem in south Seattle, with a variety of habitats including old growth forest, open woodlands, and shorelines. An incredible diversity of birds is able to call this place home for at least a portion of the year. Over 100 species have been spotted in the park, of which 40 are waterfowl. Anyone interested in birds is welcome – the trip leader will have extra pairs of binoculars for folks who need to borrow them or you can borrow them from the BCS storefront in Westlake. We hope to encounter a mix of passerines, raptors, and waterfowl. Our route will cover 2-3 miles. Dress for weather; bring binoculars, water & snacks.\n\nThis walk will also connect beginning and intermediate photographers interested in birds and other wildlife. Walk leaders Pedro & Jordan will be available for tips and to help troubleshoot. Digital SLRs are recommended, but phone cameras work too! Please bring your own photography equipment (cameras are not required to participate in this event).",
+    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1674/1785895200000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "NextGen",
+      "Bird-Outing"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3eeb18a37c3d79880c153b/scaled_512.jpg",
+    "image": "/src/assets/events/5ca31ae9d665.jpg"
   },
   {
     "id": "b6578d215cf1",
