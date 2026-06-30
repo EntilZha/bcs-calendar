@@ -1741,6 +1741,28 @@
     "image": "/src/assets/events/5ca31ae9d665.jpg"
   },
   {
+    "id": "be76ede1d99f",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1883/29768610/0/0",
+    "title": "Partner Event: Birding and Habitat Restoration",
+    "start": "2026-08-07T08:30:00-07:00",
+    "end": "2026-08-07T11:00:00-07:00",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://seattle.greencitypartnerships.org/event/44300/\n\nDate/Time: Friday, August 7, 8:30-11am\n\nLocation: Meet at the main entrance to Schmitz Preserve Park at the corner of SW Admiral Way and SW Stevens St in West Seattle.\n\nMeeting Location Map https://www.google.com/maps/search/?api=1&query=47.57767944674356,-122.4021130687866\n\nBirds Connect Seattle will be spending about an hour meandering through Schmitz Preserve Park bird-watching. Then we will pull ivy alongside the trail for about 45 minutes before looping around to enjoy the birds as we walk out of the park.\n\nAll ages OK\n\nWhat to Bring\n\nWear sturdy shoes and clothes that can get wet and dirty. Bring snacks and drinks as needed. Gloves and tools will be supplied to you.\n\nWhere to Park\n\nThere is easy parking along SW Admiral Way. SW Stevens St also has easy parking but there are Stinging Nettles alongside the road so be careful of those.\n\nContact\n\nHeather Scott\n\nheather.scott6@icloud.com mailto:heather.scott6@icloud.com",
+    "location": "Schmitz Park Reserve,5551 SW Admiral Wy, Seattle, WA 98116",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1883/1786116600000",
+    "status": "",
+    "categories": [
+      "Conservation",
+      "Partner"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a42b4f6a37c3d79883e66c2/scaled_1024.jpg",
+    "image": "/src/assets/events/be76ede1d99f.jpg"
+  },
+  {
     "id": "b6578d215cf1",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1869/29770050/0/0",
     "title": "Partner Event: Habitat Restoration Work Party with Mountains to Sound Greenway",
@@ -2542,14 +2564,14 @@
   {
     "id": "dde5c280fde0",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1825/29838330/0/0",
-    "title": "Community Speaker Series - Birdbrains Book Talk with Susan Rich, Stephanie Delaney, and others",
+    "title": "Community Speaker Series - Birdbrains: A Lyrical Evening with Susan Rich, Stephaney Delaney, and others",
     "start": "2026-09-24T18:30:00-07:00",
     "end": "2026-09-24T20:00:00-07:00",
     "startDate": "2026-09-24",
     "endDate": "2026-09-24",
     "allDay": false,
     "multiDay": false,
-    "description": "Registration coming soon\n\nDate: Thursday, September 24, 6:30om\n\nLocation: Birds Connect Seattle (616 Olive Way)\n\nBirdbrains: A Lyrical Guide to Washington State Birds is a one-of-a-kind Washington State bird guide. The anthology includes original pen and ink sumi-e paintings by artist Hiroko Seki, bird fact notes, and short poems/stories/memoir. Poems/prose are bird-focused rather than human centered. The bird notes include information about song, call, mating rituals, habitat, migration, climate, dark comedy, and fun facts.\n\nJoin us for an evening of conversation and poetry from several contributors to this anthology, including editor Susan Rich, bird bio author Stephanie Delaney, and several contributing poets.",
+    "description": "Registration coming soon\n\nDate: Thursday, September 24, 6:30pm\n\nLocation: Birds Connect Seattle (616 Olive Way)\n\nBirdbrains: A Lyrical Guide to Washington State Birds https://birdsconnectsea.myshopify.com/products/birdbrains-a-lyrical-guide-to-washington-state-birds?_pos=1&_sid=d791ce236&_ss=r is a one-of-a-kind Washington State bird guide. The anthology includes original pen and ink sumi-e paintings by artist Hiroko Seki, bird fact notes, and short poems/stories/memoir. Poems/prose are bird-focused rather than human centered. The bird notes include information about song, call, mating rituals, habitat, migration, climate, dark comedy, and fun facts.\n\nJoin us for an evening of conversation and poetry from several contributors to this anthology, including editor Susan Rich, bird bio author Stephanie Delaney, and several contributing poets.\n\nPurchase your copy of the book here https://birdsconnectsea.myshopify.com/products/birdbrains-a-lyrical-guide-to-washington-state-birds?_pos=1&_sid=d791ce236&_ss=r .",
     "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1825/1790299800000",
     "status": "",
