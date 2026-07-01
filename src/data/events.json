@@ -1,28 +1,5 @@
 [
   {
-    "id": "4bb72c5985a0",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1730/29632740/0/0",
-    "title": "Winged Wonders: A Celebration of Birds and Conservation - Art Exhibit",
-    "start": "2026-05-05",
-    "end": "2026-05-30",
-    "startDate": "2026-05-05",
-    "endDate": "2026-05-30",
-    "allDay": true,
-    "multiDay": true,
-    "description": "The Winged Wonders art show will celebrate local, up-and-coming or amateur artists who are inspired by birds. Birds Connect Seattle will display the art in our exhibit area for members of the community to experience, enjoy, and purchase.\n\nBirds and nature inspire and inform in a unique and powerful way, and have attracted artists for centuries. From painters and photographers immersing themselves in the outdoors to capture the birds they're seeing, to musicians and filmmakers using audio and video of birds in their works, birdinspired art is everywhere.\n\nConservation can also inspire artistic expression. Recycling and reclamation of materials can add an additional layer of conservation messaging to a piece of bird-inspired art. Art, in turn, also inspires conservation. Powerful artistic images can lead viewers to action. It can spur conversations about emerging threats to birds and tells unique stories.\n\nExhibition Details and Key dates\n\nAll pieces on display will be available for purchase throughout the exhibition during Birds Connect Seattle's open hours (Tuesday – Saturday, 10:00 a.m. – 5:00 p.m.). 40% of sales will go to Birds Connect Seattle, and 60% paid by check to the artist. All pieces that are sold will remain on display through the end of the show and will be available for pick up by purchaser after June 1. Pieces will not be shipped.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1730/1777964400000",
-    "status": "",
-    "categories": [
-      "Art",
-      "Conservation",
-      "Exhibit"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/699cbae3e4dbd34ea217b1a6/scaled_1024.jpg",
-    "image": "/src/assets/events/4bb72c5985a0.jpg"
-  },
-  {
     "id": "042ba86ebe3b",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1754/29667300/0/0",
     "title": "Partner Event: Wenas Audubon Campout",
@@ -271,28 +248,6 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5cf153d0df82fe21c35bd088/scaled_640.jpg",
     "image": "/src/assets/events/438e4d41ea78.jpg"
-  },
-  {
-    "id": "92f8a712c6c9",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1820/29679180/0/0",
-    "title": "Field Trip: Billy Frank Jr. Nisqually National Wildlife Refuge",
-    "start": "2026-06-06T06:00:00-07:00",
-    "end": "2026-06-06T13:30:00-07:00",
-    "startDate": "2026-06-06",
-    "endDate": "2026-06-06",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/nisquallyjune2026\n\nLeader: Kathy Kaplan(she/her) and Cynthia Putnam (she/her)\n\nMeet: 6 AM Green Lake (Ravenna) P&R. South side of North lot near 65th St.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~3 miles walking\n\n*NOTE: There will be TWO field trips meeting at the Park and Ride on June 6th at 6am. Please be sure that you connect with the correct group!*\n\nBilly Frank Jr. Nisqually National Wildlife Refuge includes a combination of estuaries, tide flats, freshwater marshes, woodlands, and grasslands. The Nisqually Delta is a major non-coastal resting and feeding area for migrating birds and there are few places in the region better for observing them. We will walk the forest and barn trails and go as far out on the boardwalk as we care to go. This event involves several miles of walking on good, flat trails with restroom opportunities at the start and mid-way. We’ll spend about 3-3.5 hours in the field. Pack snacks, lunch and water. Dress for wind and rain. Carpool costs: $84/car, shared equally by passengers. Bring layers, rain gear, water and snacks. Return 12:30 – 1:30PM, depending on traffic.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1820/1780750800000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/92f8a712c6c9.jpg"
   },
   {
     "id": "35908a74fc84",
@@ -1216,6 +1171,28 @@
     "image": "/src/assets/events/ba1d49d79ff0.jpg"
   },
   {
+    "id": "37c751d6325c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29715555/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-07-01T12:15:00-07:00",
+    "end": "2026-07-01T12:45:00-07:00",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-01",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1782933300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/37c751d6325c.jpg"
+  },
+  {
     "id": "afce7314e370",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1858/29718180/0/0",
     "title": "Neighborhood Bird Outing: Marymoor Park DOG FRIENDLY",
@@ -1304,6 +1281,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/cf75d2ba9bbf.jpg"
+  },
+  {
+    "id": "427cf25b49c7",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29725635/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-07-08T12:15:00-07:00",
+    "end": "2026-07-08T12:45:00-07:00",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-08",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1783538100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/427cf25b49c7.jpg"
   },
   {
     "id": "1fbcaf98cfc4",
@@ -1421,6 +1420,28 @@
     "image": "/src/assets/events/ed3c0b836fdc.jpg"
   },
   {
+    "id": "c3b50759d3f7",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29735715/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-07-15T12:15:00-07:00",
+    "end": "2026-07-15T12:45:00-07:00",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-15",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1784142900000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/c3b50759d3f7.jpg"
+  },
+  {
     "id": "5ab9ba935740",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1824/29737530/0/0",
     "title": "Author Talk with Pam McGaffin - Shade of Wings",
@@ -1487,6 +1508,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/43557430bf57.jpg"
+  },
+  {
+    "id": "e4fadef7cf57",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29745795/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-07-22T12:15:00-07:00",
+    "end": "2026-07-22T12:45:00-07:00",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1784747700000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/e4fadef7cf57.jpg"
   },
   {
     "id": "85e9935b1385",
@@ -1650,6 +1693,28 @@
     "image": "/src/assets/events/26bfa0df8ad6.jpg"
   },
   {
+    "id": "76d55b374995",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29755875/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-07-29T12:15:00-07:00",
+    "end": "2026-07-29T12:45:00-07:00",
+    "startDate": "2026-07-29",
+    "endDate": "2026-07-29",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1785352500000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/76d55b374995.jpg"
+  },
+  {
     "id": "c7cb62dbc8ee",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1647/29760000/0/0",
     "title": "Neighborhood Bird Outing: BIPOC Birding & Potluck at Juanita Bay Park",
@@ -1741,6 +1806,28 @@
     "image": "/src/assets/events/5ca31ae9d665.jpg"
   },
   {
+    "id": "4ba06720b7c8",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29765955/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-08-05T12:15:00-07:00",
+    "end": "2026-08-05T12:45:00-07:00",
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-05",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1785957300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/4ba06720b7c8.jpg"
+  },
+  {
     "id": "be76ede1d99f",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1883/29768610/0/0",
     "title": "Partner Event: Birding and Habitat Restoration",
@@ -1772,7 +1859,7 @@
     "endDate": "2026-08-08",
     "allDay": false,
     "multiDay": false,
-    "description": "Registration link coming soon.\n\nJoin Mountains to Sound Greenway and Birds Connect Seattle for a birding and restoration work party.\n\nDate/Time: Saturday, August 8, 8:30-noon\n\nLocation: South of Lake Washington Boulevard Park (corner of S Alaska Street and Lake Washington Boulevard)\n\nParking and access info: Lake WA Boulevard itself will be closed to vehicle traffic on weekends through the summer, though parking will remain accessible via side streets. Volunteers are encouraged to park here https://www.google.com/maps/place/Parking+lot,+Seattle,+WA+98118/@47.5617472,-122.2677775,182m/data=!3m1!1e3!4m6!3m5!1s0x54906a1616227a6d:0x96133f4af4383fdf!8m2!3d47.5619304!4d-122.2672943!16s%2Fg%2F11gh65_28c!5m1!1e3?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D , which will be accessible on weekends via 53rd Ave S.\n\nThe event will begin with a short bird outing from 8:30-9am, then switch to a restoration work party, removing invasive species from the site. MtSG will provide all tools, gloves, and other necessary materials.",
+    "description": "LEARN MORE AND REGISTER https://mtsgreenway.org/event/lake-washington-blvd-restoration-and-bird-walk-with-birds-connect-seattle/\n\nJoin Mountains to Sound Greenway and Birds Connect Seattle for a birding and restoration work party.\n\nDate/Time: Saturday, August 8, 8:30-noon\n\nLocation: South of Lake Washington Boulevard Park (corner of S Alaska Street and Lake Washington Boulevard)\n\nParking and access info: Lake WA Boulevard itself will be closed to vehicle traffic on weekends through the summer, though parking will remain accessible via side streets. Volunteers are encouraged to park here https://www.google.com/maps/place/Parking+lot,+Seattle,+WA+98118/@47.5617472,-122.2677775,182m/data=!3m1!1e3!4m6!3m5!1s0x54906a1616227a6d:0x96133f4af4383fdf!8m2!3d47.5619304!4d-122.2672943!16s%2Fg%2F11gh65_28c!5m1!1e3?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D , which will be accessible on weekends via 53rd Ave S.\n\nThe event will begin with a short bird outing from 8:30-9am, then switch to a restoration work party, removing invasive species from the site. MtSG will provide all tools, gloves, and other necessary materials.",
     "location": "Lake Washington Boulevard,5499 S Alaska St, Seattle, WA 98118, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1869/1786203000000",
     "status": "",
@@ -1782,8 +1869,8 @@
       "Bird-Outing"
     ],
     "registration": null,
-    "imageUrl": null,
-    "image": null
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a445217892b27f8db34fffa/scaled_1024.jpg",
+    "image": "/src/assets/events/b6578d215cf1.jpg"
   },
   {
     "id": "cd1c949f33da",
@@ -1881,6 +1968,50 @@
     "image": "/src/assets/events/343b6beac732.jpg"
   },
   {
+    "id": "d71f8a585b5a",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1884/29775720/0/0",
+    "title": "Field Trip: August 12, 2026 Whidbey Island",
+    "start": "2026-08-12T07:00:00-07:00",
+    "end": "2026-08-12T16:00:00-07:00",
+    "startDate": "2026-08-12",
+    "endDate": "2026-08-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to REGISTER. https://secure.birdsconnectsea.org/a/augustwhidbey2026\n\nLeaders: Neil Zimmerman (he/him)\n(206-200-6700 day of only)\nand Roniq Bartanen (she/her)\n\nMeet: 7:00 AM Greenlake P&R, north side of 65th under I-5\n\nLimit: 10\n\nNo mask requirements.\n\nTrip accessibility: 2 (moderate; steady but able to maintain a conversation), C (hiking trails with gentle rolling hills )\n\nWe are going to explore the north end of Whidbey Island then work our way south. Stops will include Deception Pass SP, Dugualla Bay, Fort Ebey SP and the beach at the Keystone Ferry Terminal. There are always interesting birds. Pigeon Guillemots, Rhinoceros Auklets, Cormorants and Black Oystercatchers are usually seen. At the end of the day, depending on the Clinton ferry traffic, we will either ride the ferry to Mukilteo or drive back north to get on I-5. Bring money for carpooling and possibly the ferry cost. Carpooling costs are divided by the passengers, and the ferry is usually divided by all occupants-- bring cash. Bring a lunch, snacks and liquids. Dress in layers, the temperatures can be chilly next to the water. The scenery on Whidbey Island is always spectacular. We will have a fantastic summer day exploring this beautiful place.",
+    "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1884/1786543200000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
+    "image": "/src/assets/events/d71f8a585b5a.jpg"
+  },
+  {
+    "id": "9c670aeead2e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29776035/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-08-12T12:15:00-07:00",
+    "end": "2026-08-12T12:45:00-07:00",
+    "startDate": "2026-08-12",
+    "endDate": "2026-08-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1786562100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/9c670aeead2e.jpg"
+  },
+  {
     "id": "b4375c51869c",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1517/29777730/0/0",
     "title": "Drop-In Social Hour",
@@ -1970,6 +2101,28 @@
     "image": "/src/assets/events/98383b9137a1.jpg"
   },
   {
+    "id": "4dd2720640eb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29786115/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-08-19T12:15:00-07:00",
+    "end": "2026-08-19T12:45:00-07:00",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1787166900000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/4dd2720640eb.jpg"
+  },
+  {
     "id": "8ef96c2ca321",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29787960/0/0",
     "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
@@ -1990,6 +2143,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
     "image": "/src/assets/events/8ef96c2ca321.jpg"
+  },
+  {
+    "id": "da6386e9ca0f",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1820/29790120/0/0",
+    "title": "Field Trip: August 22, 2026 Cedar River Mouth Scope and Sit",
+    "start": "2026-08-22T07:00:00-07:00",
+    "end": "2026-08-22T10:00:00-07:00",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to REGISTER. https://secure.birdsconnectsea.org/a/cedarriveraug26\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth\n\nLimit: 10\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)",
+    "location": "1060 Nishiwaki Ln, Renton, WA 98057, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1820/1787407200000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/da6386e9ca0f.jpg"
   },
   {
     "id": "7047a2877e6d",
@@ -2037,6 +2212,28 @@
     },
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/703d2f7e4c26.jpg"
+  },
+  {
+    "id": "74710d6141ce",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29796195/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-08-26T12:15:00-07:00",
+    "end": "2026-08-26T12:45:00-07:00",
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1787771700000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/74710d6141ce.jpg"
   },
   {
     "id": "09372404f2ed",
@@ -2245,6 +2442,28 @@
     "image": "/src/assets/events/a57a9f8b9980.jpg"
   },
   {
+    "id": "f101cef1e1aa",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29806275/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-09-02T12:15:00-07:00",
+    "end": "2026-09-02T12:45:00-07:00",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-02",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1788376500000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/f101cef1e1aa.jpg"
+  },
+  {
     "id": "ad752ede8bbe",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1839/29811810/0/0",
     "title": "Neighborhood Bird Outing: Birds and Habitat – Along Arboretum Creek",
@@ -2332,6 +2551,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62be043fd0e49e303cda9540/scaled_1024.jpg",
     "image": "/src/assets/events/1397fe1444cd.jpg"
+  },
+  {
+    "id": "47ae69bc6a32",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29816355/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-09-09T12:15:00-07:00",
+    "end": "2026-09-09T12:45:00-07:00",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-09",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1788981300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/47ae69bc6a32.jpg"
   },
   {
     "id": "ea33b7c1a361",
@@ -2472,6 +2713,28 @@
     "image": "/src/assets/events/9d58a45abd57.jpg"
   },
   {
+    "id": "816b3d67503b",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29826435/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-09-16T12:15:00-07:00",
+    "end": "2026-09-16T12:45:00-07:00",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-16",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1789586100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/816b3d67503b.jpg"
+  },
+  {
     "id": "0352093e7bbf",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1732/29826810/0/0",
     "title": "NextGen Wingspan Game Night @ Bizarre Brewing",
@@ -2562,6 +2825,28 @@
     "image": "/src/assets/events/ebbf35117bbb.jpg"
   },
   {
+    "id": "d86be9ae46cd",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29836515/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-09-23T12:15:00-07:00",
+    "end": "2026-09-23T12:45:00-07:00",
+    "startDate": "2026-09-23",
+    "endDate": "2026-09-23",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1790190900000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/d86be9ae46cd.jpg"
+  },
+  {
     "id": "dde5c280fde0",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1825/29838330/0/0",
     "title": "Community Speaker Series - Birdbrains: A Lyrical Evening with Susan Rich, Stephaney Delaney, and others",
@@ -2629,6 +2914,50 @@
     "image": "/src/assets/events/6b31acdf254b.jpg"
   },
   {
+    "id": "cf0508f25a1f",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29846595/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-09-30T12:15:00-07:00",
+    "end": "2026-09-30T12:45:00-07:00",
+    "startDate": "2026-09-30",
+    "endDate": "2026-09-30",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1790795700000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/cf0508f25a1f.jpg"
+  },
+  {
+    "id": "572298946544",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29856675/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-10-07T12:15:00-07:00",
+    "end": "2026-10-07T12:45:00-07:00",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1791400500000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/572298946544.jpg"
+  },
+  {
     "id": "a339c6595af2",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1872/29857920/0/0",
     "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
@@ -2650,6 +2979,116 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/a339c6595af2.jpg"
+  },
+  {
+    "id": "8d6ffe1df5dd",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29866755/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-10-14T12:15:00-07:00",
+    "end": "2026-10-14T12:45:00-07:00",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1792005300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/8d6ffe1df5dd.jpg"
+  },
+  {
+    "id": "941f9db3bdef",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29876835/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-10-21T12:15:00-07:00",
+    "end": "2026-10-21T12:45:00-07:00",
+    "startDate": "2026-10-21",
+    "endDate": "2026-10-21",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1792610100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/941f9db3bdef.jpg"
+  },
+  {
+    "id": "c739ea001261",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29886915/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-10-28T12:15:00-07:00",
+    "end": "2026-10-28T12:45:00-07:00",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-28",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1793214900000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/c739ea001261.jpg"
+  },
+  {
+    "id": "367b88b0aa99",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29897055/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-11-04T12:15:00-08:00",
+    "end": "2026-11-04T12:45:00-08:00",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-04",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1793823300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/367b88b0aa99.jpg"
+  },
+  {
+    "id": "698012dc00b2",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29907135/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-11-11T12:15:00-08:00",
+    "end": "2026-11-11T12:45:00-08:00",
+    "startDate": "2026-11-11",
+    "endDate": "2026-11-11",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1794428100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/698012dc00b2.jpg"
   },
   {
     "id": "f0c2591ea2f1",
@@ -2675,6 +3114,94 @@
     "image": "/src/assets/events/f0c2591ea2f1.jpg"
   },
   {
+    "id": "85c68114e38c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29917215/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-11-18T12:15:00-08:00",
+    "end": "2026-11-18T12:45:00-08:00",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1795032900000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/85c68114e38c.jpg"
+  },
+  {
+    "id": "b5735f17fb4d",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29927295/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-11-25T12:15:00-08:00",
+    "end": "2026-11-25T12:45:00-08:00",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1795637700000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/b5735f17fb4d.jpg"
+  },
+  {
+    "id": "57757e33179a",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29937375/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-12-02T12:15:00-08:00",
+    "end": "2026-12-02T12:45:00-08:00",
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-02",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1796242500000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/57757e33179a.jpg"
+  },
+  {
+    "id": "998f7aad8ef0",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29947455/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-12-09T12:15:00-08:00",
+    "end": "2026-12-09T12:45:00-08:00",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1796847300000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/998f7aad8ef0.jpg"
+  },
+  {
     "id": "1f8a97977b89",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1874/29948700/0/0",
     "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
@@ -2696,6 +3223,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/1f8a97977b89.jpg"
+  },
+  {
+    "id": "6b0492f29a25",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29957535/0/0",
+    "title": "Birds of Seattle Lunch and Learn",
+    "start": "2026-12-16T12:15:00-08:00",
+    "end": "2026-12-16T12:45:00-08:00",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1797452100000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
+    "image": "/src/assets/events/6b0492f29a25.jpg"
   },
   {
     "id": "755195a2379e",

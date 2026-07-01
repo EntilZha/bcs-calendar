@@ -1,10 +1,9 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-06-30T03:40:01.279244-07:00",
-  "eventCount": 123,
+  "crawledAt": "2026-07-01T03:46:50.552853-07:00",
+  "eventCount": 148,
   "rawCategories": [
-    "Art",
     "Bird-Outing",
     "Bird-University",
     "Birds-Connect-Seattle",
