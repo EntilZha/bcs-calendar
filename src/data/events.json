@@ -1,27 +1,5 @@
 [
   {
-    "id": "042ba86ebe3b",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1754/29667300/0/0",
-    "title": "Partner Event: Wenas Audubon Campout",
-    "start": "2026-05-29",
-    "end": "2026-06-01",
-    "startDate": "2026-05-29",
-    "endDate": "2026-06-01",
-    "allDay": true,
-    "multiDay": true,
-    "description": "Every spring, Washington State’s Audubon Chapters, wildlife lovers, and their friends gather in the Wenas Valley, located on the east slope of the Cascade Mountains between Ellensburg and Yakima. With a variety of natural history and recreation opportunities, the Wenas Valley is a beautiful area that supports a fascinating assortment of spring flora and fauna, and offers the spiritual fulfillment of simply being outdoors in the spring. Everyone, whether members of Audubon chapters or not, is welcome to join this gathering.\n\nLearn More https://wenasaudubon.org/?ms=aud-email-engagement&utm_source=ea&utm_medium=email&utm_campaign=engagement&emci=7add3ad8-a421-f111-9a48-000d3a14b640&emdi=55909881-0823-f111-9a48-000d3a14b640&ceid=4001008 .\n\nThis event is organized by volunteers, and information will be posted on the Wenas website https://wenasaudubon.org/?ms=aud-email-engagement&utm_source=ea&utm_medium=email&utm_campaign=engagement&emci=7add3ad8-a421-f111-9a48-000d3a14b640&emdi=55909881-0823-f111-9a48-000d3a14b640&ceid=4001008 . Please direct any event questions there.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1754/1780038000000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Partner"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd7796b5a6eb2d37539c3d/scaled_1024.jpg",
-    "image": "/src/assets/events/042ba86ebe3b.jpg"
-  },
-  {
     "id": "71266c95deb9",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1755/29671620/0/0",
     "title": "Member Appreciation Week 2026",
