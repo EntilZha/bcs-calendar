@@ -22,54 +22,6 @@
     "image": "/src/assets/events/71266c95deb9.jpg"
   },
   {
-    "id": "a986c08eb28c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29673960/0/0",
-    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
-    "start": "2026-06-02T15:00:00-07:00",
-    "end": "2026-06-02T18:00:00-07:00",
-    "startDate": "2026-06-02",
-    "endDate": "2026-06-02",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2026 Bird Watching & Puffin Cruises out of Edmonds. These three-hour tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight.\n\nSummer 2026 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:00 p.m.)\n\n  * May 19, 26\n  * June 2, 9, 16, 23, 30\n  * July 14, 28\n  * August 11, 25\n  * September 1\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions directly to them.\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
-    "location": "Port of Edmonds,459 Admiral Way, Edmonds, WA 98020, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1813/1780437600000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Partner"
-    ],
-    "registration": {
-      "label": "Buy Your Ticket",
-      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
-    },
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
-    "image": "/src/assets/events/a986c08eb28c.jpg"
-  },
-  {
-    "id": "e3ef81d1ad73",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1798/29674200/0/0",
-    "title": "Neighborhood Bird Outing: NextGen: Evening Birding at Lincoln Park (for birders <40)",
-    "start": "2026-06-02T19:00:00-07:00",
-    "end": "2026-06-02T21:00:00-07:00",
-    "startDate": "2026-06-02",
-    "endDate": "2026-06-02",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) and Pedro Rodriguez (he/him)\n\nMeeting Point: Lincoln Park 8600 Fauntleroy Way SW, Seattle, WA 98136, USA. Meeting Point: Main Parking Lot, off Fauntleroy Way between SW Kenyon Pl. and SW Rose St. Look for the sign with the park map.\n\nTrip accessibility: 1B-1C. Mix of paved, dirt, and gravel paths. Stairs and steep trail between the waterfront trail and woodland trail. 2-3 miles walking on gravel and dirt trails with some elevation gain. Please bring headlamps or flashlights if needed, as this walk will finish around sunset.\n\nJoin NextGen Council for a unique Evening Neighborhood Bird Outing at the gem that is Lincoln Park in West Seattle. We will be exploring the park and waterfront in the evening, with sunset around 9pm!\n\nThis park is a premier birding hotspot with over 160 species reported, featuring a mix of forest, beach, and Sound habitats. We will take our time listening and looking at birds, and practicing our sound identification skills. With a mix of woodlands, open areas, and saltwater shoreline, Lincoln Park is a great place to look for birds. We’ll keep an eye out for waterfowl and seabirds on Puget Sound; and resident species like wrens, sparrows, chickadees, kinglets, warblers and raptors. We’ll be walking at a gentle pace for about three miles, and will cover the waterfront as well as the forest. No dogs, please.\n\nIt is often chilly walking along Puget Sound, so participants are encouraged to bring layers and check the weather forecast prior to the walk.\n\nThis walk is geared specifically for Young Adults under 40. Birders of all experience levels are welcome.\n\nParking: Large parking lot for cars with ADA parking. Near several bus routes and the ferry terminal.\n\nBathrooms: Several public restrooms along our route, including the north and south playgrounds, the Colman Pool area, and along the shoreline walking paths.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1798/1780452000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "NextGen"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17e44ddf82fe60aa87e2a7/scaled_1024.jpg",
-    "image": "/src/assets/events/e3ef81d1ad73.jpg"
-  },
-  {
     "id": "9e58370a7fde",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1770/29675010/0/0",
     "title": "Neighborhood Bird Outing: Union Bay Natural Area",
