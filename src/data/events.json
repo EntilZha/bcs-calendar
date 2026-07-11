@@ -1,30 +1,5 @@
 [
   {
-    "id": "664a51751078",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29684040/0/0",
-    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
-    "start": "2026-06-09T15:00:00-07:00",
-    "end": "2026-06-09T18:00:00-07:00",
-    "startDate": "2026-06-09",
-    "endDate": "2026-06-09",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2026 Bird Watching & Puffin Cruises out of Edmonds. These three-hour tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight.\n\nSummer 2026 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:00 p.m.)\n\n  * May 19, 26\n  * June 2, 9, 16, 23, 30\n  * July 14, 28\n  * August 11, 25\n  * September 1\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions directly to them.\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
-    "location": "Port of Edmonds,459 Admiral Way, Edmonds, WA 98020, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1813/1781042400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Partner"
-    ],
-    "registration": {
-      "label": "Buy Your Ticket",
-      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
-    },
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
-    "image": "/src/assets/events/664a51751078.jpg"
-  },
-  {
     "id": "9af3dc0ad4f5",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29685315/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1702,7 +1677,7 @@
     "endDate": "2026-08-22",
     "allDay": false,
     "multiDay": false,
-    "description": "Click here to REGISTER. https://secure.birdsconnectsea.org/a/cedarriveraug26\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth\n\nLimit: 10\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)",
+    "description": "Click here to REGISTER. https://secure.birdsconnectsea.org/a/cedarriveraug26\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth\n\nLimit: 10\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)\n\nJoin us at Cedar River Mouth in Renton, WA to appreciate the wonders of fall migration in the PNW! This will be a sit-and-scope style trip with very minimal walking, and will be heavily focused on gulls, shorebirds, and the often-complex ID challenges that they can pose. The list of possible species is long and includes shorebirds such as Western, Semipalmated, Baird's, Least, and Spotted Sandpipers, as well as Semipalmated Plovers, Killdeer, and Long-billed Dowitcher. Additionally, Glaucous-winged, Ring-billed, Short-billed, and California Gulls are all possible.\n\nParticipants are encouraged to bring their own spotting scopes, binoculars, and cameras if they have them, however leaders will also provide optics for participants to use as needed. Birders of all levels are welcome.",
     "location": "1060 Nishiwaki Ln, Renton, WA 98057, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1820/1787407200000",
     "status": "",
