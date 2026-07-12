@@ -1,49 +1,5 @@
 [
   {
-    "id": "9af3dc0ad4f5",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29685315/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-06-10T12:15:00-07:00",
-    "end": "2026-06-10T12:45:00-07:00",
-    "startDate": "2026-06-10",
-    "endDate": "2026-06-10",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1781118900000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/9af3dc0ad4f5.jpg"
-  },
-  {
-    "id": "345e2a975fca",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1806/29685720/0/0",
-    "title": "Online Class Series + Optional Field Trip: Warblers of Washington, Jewels of the Air with Connie Sidles",
-    "start": "2026-06-10T19:00:00-07:00",
-    "end": "2026-06-10T20:30:00-07:00",
-    "startDate": "2026-06-10",
-    "endDate": "2026-06-10",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/warblerjewels2026\n\nOnline Classes: Wednesdays, June 3 and 10 from 7:00-8:30pm\n\nOptional Field Trip: Sunday, June 14\n\nEarly summer is upon us, and each day sees more nesting behavior by the neotropical migrants who have come here from the South to breed. Perhaps the most beautiful of the migrants - both in feathers and song - are the wood warblers. Join master birder Connie Sidles as she shows you how to find and identify these quick-moving bursts of color as they forage for insects and raise their young. Washington has hosted a full three dozen warblers over the years. In two classes. Connie will cover 12 of the most common. Come and be delighted. The optional field trip along the I-90 corridor to Cle Elum and the Ellensburg area is limited to 18 people on a first-come, first signup basis.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1806/1781143200000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/63ffe72357875e3c9c43e3ad/scaled_640.jpg",
-    "image": "/src/assets/events/345e2a975fca.jpg"
-  },
-  {
     "id": "1467f8bf2fc9",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1794/29686500/0/0",
     "title": "**Cancelled** Neighborhood Bird Outing: Union Bay Natural Area",
