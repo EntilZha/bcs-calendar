@@ -1,49 +1,5 @@
 [
   {
-    "id": "1467f8bf2fc9",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1794/29686500/0/0",
-    "title": "**Cancelled** Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-06-11T08:00:00-07:00",
-    "end": "2026-06-11T11:00:00-07:00",
-    "startDate": "2026-06-11",
-    "endDate": "2026-06-11",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cinny Burrell and David Selk\n\nMeeting Point: 8:00 AM Meet near the Center for Urban Horticulture, at the kiosk near the entrance to the natural area.\n\nBike Parking: Some bike parking.\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), distance ~2 miles walking\n\nMasks Optional\n\nWe will tour the Montlake Fill and adjoining waterways looking for nesting songbirds and waterfowl. We will be walking gravel trails that may be muddy.\nBring binoculars, wear sturdy walking shoes, and dress in layers. Bring water/snacks if you wish.",
-    "location": "Union Bay Natural Area,3501 NE 41st St, Seattle, WA 98195, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1794/1781190000000",
-    "status": "CANCELLED",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bf9e9db5a6eb2d37b256b1/scaled_1024.jpg",
-    "image": "/src/assets/events/1467f8bf2fc9.jpg"
-  },
-  {
-    "id": "15d4ce42ddaf",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1517/29687010/0/0",
-    "title": "Drop-In Social Hour",
-    "start": "2026-06-11T16:30:00-07:00",
-    "end": "2026-06-11T17:30:00-07:00",
-    "startDate": "2026-06-11",
-    "endDate": "2026-06-11",
-    "allDay": false,
-    "multiDay": false,
-    "description": "June's social hour theme is Hummingbirds and Origami\n\nStop by for some social time and a guided activity based around a rotating theme like art creation, conservation, or binoculars 101. Happens the second Thursday of every month. No RSVP required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1517/1781220600000",
-    "status": "",
-    "categories": [
-      "Events",
-      "Drop-in"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/665a2e0727682325a402423e/scaled_1024.jpg",
-    "image": "/src/assets/events/15d4ce42ddaf.jpg"
-  },
-  {
     "id": "bd3f0e6f2afa",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1786/29688000/0/0",
     "title": "Neighborhood Bird Outing: Green Lake",
