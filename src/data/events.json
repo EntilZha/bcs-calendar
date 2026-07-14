@@ -1,27 +1,5 @@
 [
   {
-    "id": "bd3f0e6f2afa",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1786/29688000/0/0",
-    "title": "Neighborhood Bird Outing: Green Lake",
-    "start": "2026-06-12T09:00:00-07:00",
-    "end": "2026-06-12T13:00:00-07:00",
-    "startDate": "2026-06-12",
-    "endDate": "2026-06-12",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Roniq Bartanen (she/her)\n\nMeeting Point: Green lake Boathouse in front of the café. 7351 East Green Lake Dr. N, Seattle, WA 98115. Green Lake café hours: Dependent on season\n\nBike Parking: A small bike rack is available near the coffee shop\n\nTrip Accessibility: 1( leisurely pace), A ( paved and level), ~ 2.8 miles walking total loop\n\nDid you know Green Lake is a rich and diverse urban birding habitat? Over 175 species of birds have been seen at this eBird hot spot! During our outing we will explore migratory bird species as well as the many birds seen here all year long. All levels of birding experience and ages as well as families are welcome.\n\nGreen Lake monthly bird outings are inclusive of all ages, gender pronouns, sexual orientations, races, cultures, abilities, ethnicity and socioeconomic status. All participants are free to attend the outing for as long as they like. Our pace will be slow and easy as we navigate 2.8 miles of level terrain.\n\nDress appropriately for the weather and please leave dogs at home so as to not scare our feathered friends.\n\nA small parking lot is available and gets crowded, please leave time to park. Nearby street parking is also available. Green Lake is bus accessible with buses #62 and #45. A small bike rack is near the Café.\n\nThe trail is ADA accessible; all abilities and mobilities are welcome! Restrooms and drinking fountains are available at the nearby Green Lake Community Center Building and at various locations along the trail.\n\nPhoto Credit: Roniq Bartanen",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1786/1781280000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958292c97af2cfcb93ca3/scaled_384.jpg",
-    "image": "/src/assets/events/bd3f0e6f2afa.jpg"
-  },
-  {
     "id": "63c4469cfd31",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1803/29689440/0/0",
     "title": "Neighborhood Bird Outing: Carkeek Park",
@@ -1148,6 +1126,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/76d55b374995.jpg"
+  },
+  {
+    "id": "359e3688d08c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1885/29757330/0/0",
+    "title": "Online Lunch and Learn: King County's Multi-Faceted Approach to Investing in our Tree Canopy with Joanna Nelson de Flores",
+    "start": "2026-07-30T12:30:00-07:00",
+    "end": "2026-07-30T13:00:00-07:00",
+    "startDate": "2026-07-30",
+    "endDate": "2026-07-30",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://docs.google.com/forms/d/e/1FAIpQLSe5-iTJZZlCDgK_LTWDAqt8lL4qJgmFYaxHXcELboN4kltgBQ/viewform?usp=send_form\n\nThis 20-minute presentation will explore King County's approach for growing tree canopy and strengthening climate resilience, which includes a Guide to Developing Effective Urban Tree Regulations, 30-Year Forest Plan, Strategic Climate Action Plan, and Extreme Heat Mitigation Strategy.\n\nAbout the speaker: Joanna Nelson de Flores has spent 17 years building local relationships and working to increase and enhance urban tree canopy across the Puget Sound Region. As the Urban Forestry Program Manager for the Water and Land Resources Division of King County DNRP, Joanna builds urban forestry programming that will have long-term impacts on our region's climate resilience and the health and well-being of all that call this place home.\n\nThe Understory Lunch and Learn Series is a Tree Equity Network initiative offering accessible, concise information and resources on urban forest management, policy, and advocacy. The Tree Equity Network is co-led by Birds Connect Seattle and Seattle Parks Foundation.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1885/1785439800000",
+    "status": "",
+    "categories": [
+      "Conservation",
+      "Lecture"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a10d624bf50ac3e01818e30/scaled_1024.jpg",
+    "image": "/src/assets/events/359e3688d08c.jpg"
   },
   {
     "id": "c7cb62dbc8ee",
