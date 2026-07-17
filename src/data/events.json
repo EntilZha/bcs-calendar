@@ -1,28 +1,5 @@
 [
   {
-    "id": "e4db21ae3d9c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1744/29692740/0/0",
-    "title": "American Red Cross Adult & Pediatric CPR/AED/First Aid Course",
-    "start": "2026-06-15T16:00:00-07:00",
-    "end": "2026-06-15T18:00:00-07:00",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Birds Connect Seattle (BCS) offers free American Red Cross Adult and Pediatric CPR/AED/First Aid courses for current BCS volunteers. The certification is valid for two years. Our next course is scheduled for Monday, June 15 from 4:00-6:00pm at North Seattle College. You will need to complete about four hours of online learning prior to the in-person session.\n\nIf you’d like to participate, please email Christine Scheele (christines@birdsconnectsea.org) mailto:(christines@birdsconnectsea.org for registration instructions.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1744/1781564400000",
-    "status": "",
-    "categories": [
-      "Education",
-      "Volunteer",
-      "Volunteer-Training"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/68dd638d22a0d722d9744a2e/scaled_1024.jpg",
-    "image": "/src/assets/events/e4db21ae3d9c.jpg"
-  },
-  {
     "id": "2ff6f8df70b7",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29694120/0/0",
     "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
@@ -1134,6 +1111,50 @@
     "image": "/src/assets/events/5ca31ae9d665.jpg"
   },
   {
+    "id": "925a46b59308",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1888/29764920/0/0",
+    "title": "Partner Event: Showing of WILD INSIDE",
+    "start": "2026-08-04T19:00:00-07:00",
+    "end": "2026-08-04T20:30:00-07:00",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-04",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Don’t miss WILD INSIDE, showing August 4 for International Owl Awareness Day! 🦉It’s the new documentary from Penny Lane, about an owl named Flaco who escapes the Central Park Zoo and sets off on a magical adventure through the island of Manhattan.\n\nOur Community Engagement volunteers will be there with information Birds Connect Seattle. Showtimes, tickets, and trailer at FlacoDocumentary.com http://flacodocumentary.com .",
+    "location": "SIFF Cinema Uptown,511 Queen Anne Ave N, Seattle, WA 98109, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1888/1785895200000",
+    "status": "",
+    "categories": [
+      "Partner",
+      "Conservation"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a5932b36b88f283209d2506/scaled_1024.jpg",
+    "image": "/src/assets/events/925a46b59308.jpg"
+  },
+  {
+    "id": "d578623d0135",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1886/29765820/0/0",
+    "title": "Neighborhood Bird Outing: Magnuson Park",
+    "start": "2026-08-05T10:00:00-07:00",
+    "end": "2026-08-05T12:00:00-07:00",
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-05",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of lot E-5, on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and wander the park. This can be a very slow time of year for birding, so we’ll be happy with anything that flies or hops. The Osprey may have fledged by now, but we should still see the young somewhere in park. This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
+    "location": "Magnuson Park 7400 Sand Point Way NE, Seattle, WA 98115,6500 Sand Point Way NE, Seattle, WA 98115, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1886/1785949200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67cf7fd3fcc1f95b1553a4e8/scaled_384.jpg",
+    "image": "/src/assets/events/d578623d0135.jpg"
+  },
+  {
     "id": "4ba06720b7c8",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29765955/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1834,6 +1855,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6851a4deebd73c1be23e8f6a/scaled_512.jpg",
     "image": "/src/assets/events/31fac9807329.jpg"
+  },
+  {
+    "id": "cfb274bc0ca3",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1887/29813340/0/0",
+    "title": "Neighborhood Bird Outing: Magnuson Park",
+    "start": "2026-09-07T10:00:00-07:00",
+    "end": "2026-09-07T12:00:00-07:00",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of lot E-5, on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and wander the park. This can be a very slow time of year for birding, so we’ll be happy with anything that flies or hops. The Osprey may have fledged by now, but we should still see the young somewhere in park. This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
+    "location": "Magnuson Park 7400 Sand Point Way NE, Seattle, WA 98115,6500 Sand Point Way NE, Seattle, WA 98115, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1887/1788800400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67cf7fd3fcc1f95b1553a4e8/scaled_384.jpg",
+    "image": "/src/assets/events/cfb274bc0ca3.jpg"
   },
   {
     "id": "356007994a0f",
