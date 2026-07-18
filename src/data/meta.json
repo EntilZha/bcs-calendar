@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-07-17T04:06:22.461593-07:00",
-  "eventCount": 120,
+  "crawledAt": "2026-07-18T03:46:55.284303-07:00",
+  "eventCount": 119,
   "rawCategories": [
     "Bird-Outing",
     "Bird-University",
