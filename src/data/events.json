@@ -1,49 +1,5 @@
 [
   {
-    "id": "248466037196",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29695395/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-06-17T12:15:00-07:00",
-    "end": "2026-06-17T12:45:00-07:00",
-    "startDate": "2026-06-17",
-    "endDate": "2026-06-17",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1781723700000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/248466037196.jpg"
-  },
-  {
-    "id": "f091562ab6a4",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1815/29695770/0/0",
-    "title": "NextGen Wingspan Night at Bizarre Brewing",
-    "start": "2026-06-17T18:30:00-07:00",
-    "end": "2026-06-17T21:00:00-07:00",
-    "startDate": "2026-06-17",
-    "endDate": "2026-06-17",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/nextgen-wingspan-game-night-june2026-bizarre\n\nDate/Time: Wednesday. June 17th 6:30-9pm\nLocation: Bizarre Brewing 4441 26TH AVE W SEATTLE, WA 98199\n\nJoin Birds Connect Seattle's NextGen Council for an evening of board game fun, at one of our favorite breweries - Bizarre Brewing!\n\nThis event is hosted by NextGen, but gamers of all ages are welcome to register and attend. We will set up the board games and split into groups from ~6:30-6:45pm, and start playing right around 6:45/7pm so we wrap up by 9pm (when the brewery closes).\n\n\nWingspan is a massively popular, competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, Ana Maria Martinez, and Martha Clare.\n\nIn the game (as in real life), you are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife habitats. Each bird extends a chain of powerful combinations in one of your habitats (actions). Beginners are welcome!\n\nWhen you arrive, please look for the table tents with our event name on them (Birds Connect Seattle Board Game Night) or ask one of the friendly beertenders for assistance. If you own the Wingspan board game, please bring it to the event, we will need some extra sets of the game and any expansion packs!\n\nBizarre Brewing: The taproom is all ages and well-behaved, leashed dog friendly. The taproom has two all-gender ADA restrooms. Outside food is welcome. Bizarre also offers snacks for purchase including: Umami Kushi giant hot pretzel twist w/mustard, Damoori Kitchen pita chips + hummus, Bavarian Meats landjaeger, Beecher’s Cheese cheese sticks, Cougar Mountain cookies, and Tim's chips. Alcoholic and non-alcoholic drink options available. Ample street parking nearby.\n\nPlease Note: This event has limited slots, and you must RSVP. If the event is full, please signup for the waitlist, and you will be moved up as people update their RSVPs.",
-    "location": "Bizarre Brewing,4441 26TH AVE W SEATTLE, WA 98199",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1815/1781746200000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "NextGen"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6584e73e8dc0a53adddffeb7/scaled_896.jpg",
-    "image": "/src/assets/events/f091562ab6a4.jpg"
-  },
-  {
     "id": "1ca012d3e2bb",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1706/29697240/0/0",
     "title": "In-Person Classes: Birding by Ear, Tackling the Tricky Ones",
