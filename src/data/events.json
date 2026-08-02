@@ -1,49 +1,5 @@
 [
   {
-    "id": "ba1d49d79ff0",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1844/29715330/0/0",
-    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-07-01T08:30:00-07:00",
-    "end": "2026-07-01T10:30:00-07:00",
-    "startDate": "2026-07-01",
-    "endDate": "2026-07-01",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: no\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's Hawk, belted kingfisher, and Savannah Sparrow. Spring migration will be in full swing with warblers, vireos, and tanagers singing. We will focus on developing birding by ear skills to help everyone with identifying these colorful visitors from the tropics. All are welcome from beginners to advanced birders; I will have something for everyone! Bring your birding questions and I will do my best share answers.",
-    "location": "Union Bay Natural Area,3501 NE 41st St, Seattle, WA 98195, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1844/1782919800000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a17513fbf50ac3e011fac7f/scaled_1024.jpg",
-    "image": "/src/assets/events/ba1d49d79ff0.jpg"
-  },
-  {
-    "id": "37c751d6325c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29715555/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-07-01T12:15:00-07:00",
-    "end": "2026-07-01T12:45:00-07:00",
-    "startDate": "2026-07-01",
-    "endDate": "2026-07-01",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1782933300000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/37c751d6325c.jpg"
-  },
-  {
     "id": "afce7314e370",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1858/29718180/0/0",
     "title": "Neighborhood Bird Outing: Marymoor Park DOG FRIENDLY",
