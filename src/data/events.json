@@ -1,27 +1,5 @@
 [
   {
-    "id": "afce7314e370",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1858/29718180/0/0",
-    "title": "Neighborhood Bird Outing: Marymoor Park DOG FRIENDLY",
-    "start": "2026-07-03T08:00:00-07:00",
-    "end": "2026-07-03T11:00:00-07:00",
-    "startDate": "2026-07-03",
-    "endDate": "2026-07-03",
-    "allDay": false,
-    "multiDay": false,
-    "description": "*Note that meeting time has been updated to 8am*\n\nNeighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\n\nLeaders: Kathy Kaplan (she/her)\n\nMeeting Point: 8am at Parking Lot C\n\nBike Parking: Yes, bike rack\n\nTrip Accessibility: Trip Accessibility: 1 (leisurely pace), B (soft ground, sand, gravel, dirt roads), ~3 miles walking\n\nNo mask requirements\n\n\nJoin us as we go birding on the Eastside at Marymoor Park! And yes, you read that right: we are offering dog friendly neighborhood outings!\n\nWell behaved dogs welcome on leash while on trails and off leash as applicable during the off leash dog park section. Please leave dogs at home if they're not friendly or just too excitable towards people, dogs or birds.\n\nCome bird with us in a relaxed setting before the July 4th holiday gets started and fireworks start popping off, scaring off dogs and birds and people alike!\n\nWe will walk a large loop around the park, covering a diverse range of habitats including meadows, woods, marsh, the north end of Lake Sammamish, the Sammamish River, and community garden. Birders of all levels and ages are welcome. Note that about half this walk is in the off-leash dog area. We’ll spend about ~3 hours in the field. Bring layers, rain gear, water and snacks. Done around 10:15am or so.",
-    "location": "Marymoor Park,Parking Lot C",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1858/1783090800000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a32d4a2afff871fa5caf9cd/scaled_1024.jpg",
-    "image": "/src/assets/events/afce7314e370.jpg"
-  },
-  {
     "id": "d70c67039295",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1840/29721090/0/0",
     "title": "Neighborhood Bird Outing: Birds and Habitat – Along Arboretum Creek",
@@ -612,29 +590,6 @@
     "image": "/src/assets/events/7196b3f43cf9.jpg"
   },
   {
-    "id": "5ca31ae9d665",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1674/29764920/0/0",
-    "title": "Neighborhood Bird Outing: Evening Photography at Seward Park with NextGen",
-    "start": "2026-08-04T19:00:00-07:00",
-    "end": "2026-08-04T21:00:00-07:00",
-    "startDate": "2026-08-04",
-    "endDate": "2026-08-04",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) 425-681-6252, Pedro Rodriguez (he/him)\n\nMeeting Point: Meeting Point: Meet outside of the Seward Park Audubon Center, 5902 Lake Washington Blvd S., Seattle\n\nBike Parking: Bike parking adjacent to Audubon Center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails and sets of stairs), approx. 3 miles walking.\n\nJoin NextGen Council members Jordan & Pedro for an evening of bird photography at Seward Park.\n\nSeward Park is a 300-acre gem in south Seattle, with a variety of habitats including old growth forest, open woodlands, and shorelines. An incredible diversity of birds is able to call this place home for at least a portion of the year. Over 100 species have been spotted in the park, of which 40 are waterfowl. Anyone interested in birds is welcome – the trip leader will have extra pairs of binoculars for folks who need to borrow them or you can borrow them from the BCS storefront in Westlake. We hope to encounter a mix of passerines, raptors, and waterfowl. Our route will cover 2-3 miles. Dress for weather; bring binoculars, water & snacks.\n\nThis walk will also connect beginning and intermediate photographers interested in birds and other wildlife. Walk leaders Pedro & Jordan will be available for tips and to help troubleshoot. Digital SLRs are recommended, but phone cameras work too! Please bring your own photography equipment (cameras are not required to participate in this event).",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1674/1785895200000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "NextGen",
-      "Bird-Outing"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3eeb18a37c3d79880c153b/scaled_512.jpg",
-    "image": "/src/assets/events/5ca31ae9d665.jpg"
-  },
-  {
     "id": "925a46b59308",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1888/29764920/0/0",
     "title": "Partner Event: Showing of WILD INSIDE",
@@ -1085,6 +1040,29 @@
     },
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/703d2f7e4c26.jpg"
+  },
+  {
+    "id": "878a5c74504c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1674/29795160/0/0",
+    "title": "**Rescheduled** Neighborhood Bird Outing: Evening Photography at Seward Park with NextGen",
+    "start": "2026-08-25T19:00:00-07:00",
+    "end": "2026-08-25T21:00:00-07:00",
+    "startDate": "2026-08-25",
+    "endDate": "2026-08-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) 425-681-6252, Pedro Rodriguez (he/him)\n\nMeeting Point: Meeting Point: Meet outside of the Seward Park Audubon Center, 5902 Lake Washington Blvd S., Seattle\n\nBike Parking: Bike parking adjacent to Audubon Center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails and sets of stairs), approx. 3 miles walking.\n\nJoin NextGen Council members Jordan & Pedro for an evening of bird photography at Seward Park.\n\nSeward Park is a 300-acre gem in south Seattle, with a variety of habitats including old growth forest, open woodlands, and shorelines. An incredible diversity of birds is able to call this place home for at least a portion of the year. Over 100 species have been spotted in the park, of which 40 are waterfowl. Anyone interested in birds is welcome – the trip leader will have extra pairs of binoculars for folks who need to borrow them or you can borrow them from the BCS storefront in Westlake. We hope to encounter a mix of passerines, raptors, and waterfowl. Our route will cover 2-3 miles. Dress for weather; bring binoculars, water & snacks.\n\nThis walk will also connect beginning and intermediate photographers interested in birds and other wildlife. Walk leaders Pedro & Jordan will be available for tips and to help troubleshoot. Digital SLRs are recommended, but phone cameras work too! Please bring your own photography equipment (cameras are not required to participate in this event).",
+    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1674/1787709600000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "NextGen",
+      "Bird-Outing"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3eeb18a37c3d79880c153b/scaled_512.jpg",
+    "image": "/src/assets/events/878a5c74504c.jpg"
   },
   {
     "id": "74710d6141ce",
