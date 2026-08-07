@@ -1,7 +1,7 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-08-06T04:41:58.444092-07:00",
+  "crawledAt": "2026-08-07T03:26:50.698569-07:00",
   "eventCount": 100,
   "rawCategories": [
     "Bird-Outing",
@@ -16,10 +16,12 @@
     "Events",
     "Field-Trips",
     "Fund-Our-Mission",
+    "HQ",
     "Lecture",
     "NextGen",
     "Partner",
     "Retail",
-    "Youth"
+    "Youth",
+    "at-BCS-Headquarters"
   ]
 }
