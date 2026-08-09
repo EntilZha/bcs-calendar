@@ -24,52 +24,6 @@
     "image": "/src/assets/events/94ac9b7fb65c.jpg"
   },
   {
-    "id": "cf75d2ba9bbf",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1849/29725260/0/0",
-    "title": "Field Trip: Big Four Ices Caves Trail",
-    "start": "2026-07-08T06:00:00-07:00",
-    "end": "2026-07-08T16:00:00-07:00",
-    "startDate": "2026-07-08",
-    "endDate": "2026-07-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "This trip is at capacity. Click here to register for the WAITLIST https://secure.birdsconnectsea.org/a/bigfourjuly2026 .\n\nLeaders: Neil Zimmerman (he/him) (206 200 6700 day of only) and Roniq Bartanen (she/her)\n\n6:00 AM Greenlake P&R, north side of 65th under I-5\n\nLimit: 10\n\nTrip accessibility: 1B (leisurely pace on soft ground, sand, gravel, dirt roads)\n\nWith its diverse habitat, the Big Four area is one of the best bird-watching locales in the North Cascades. The trail is unique because it allows birdwatchers to pass almost effortlessly from lowland marsh, meadow, and river habitats through classic forests, into the Alpine Zone. The birding can be exceptional, expect to see a variety of birds in the picnic and marsh area, including Red-breasted Sapsuckers, Vaux's Swifts, Willow Flycatchers, Common Yellowthroats, Yellow Warblers, and Warbling Vireos. American Dippers, Common Mergansers, Harlequin Ducks, and Spotted Sandpipers can be seen on the river. In recent years, this location has attracted breeding American Redstarts. This is one of the most westerly nesting locations in the country. Return to P&R at 4:00pm.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1849/1783515600000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/cf75d2ba9bbf.jpg"
-  },
-  {
-    "id": "427cf25b49c7",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29725635/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-07-08T12:15:00-07:00",
-    "end": "2026-07-08T12:45:00-07:00",
-    "startDate": "2026-07-08",
-    "endDate": "2026-07-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1783538100000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education",
-      "HQ",
-      "at-BCS-Headquarters"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/427cf25b49c7.jpg"
-  },
-  {
     "id": "1fbcaf98cfc4",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1517/29727330/0/0",
     "title": "Drop-In Social Hour - Learn How to Play Wingspan",
