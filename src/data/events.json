@@ -848,6 +848,28 @@
     "image": "/src/assets/events/878a5c74504c.jpg"
   },
   {
+    "id": "4c4eef731aca",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1892/29795160/0/0",
+    "title": "Partner Event: Lone Crow Lager Release Party and Listers Screening",
+    "start": "2026-08-25T19:00:00-07:00",
+    "end": "2026-08-25T21:00:00-07:00",
+    "startDate": "2026-08-25",
+    "endDate": "2026-08-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Join us for a Pint Night at Flying Bike Cooperative Brewery on August 25th from 7–9 p.m. as we celebrate the launch of a new collaborative brew: the Lone Crow Lager.\n\nBirds Connect Seattle NextGen members will be there tabling starting at 7pm, and then there will be a screening of everyone's favorite birding documentary, \"Listers,\" starting at 7:30pm.\n\nCome raise a glass with us! For every pint sold on August 25, $1 will support Birds Connect Seattle, no registration required.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1892/1787709600000",
+    "status": "",
+    "categories": [
+      "Partner",
+      "NextGen"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a83552f8746b1611a48e652/scaled_1024.jpg",
+    "image": "/src/assets/events/4c4eef731aca.jpg"
+  },
+  {
     "id": "74710d6141ce",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29796195/0/0",
     "title": "Birds of Seattle Lunch and Learn",
