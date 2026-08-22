@@ -1717,6 +1717,25 @@
     "image": "/src/assets/events/8d6ffe1df5dd.jpg"
   },
   {
+    "id": "a1a6c2b847de",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1893/29868570/0/0",
+    "title": "Community Speaker Series: Owls of Seattle with Ed Dominguez",
+    "start": "2026-10-15T18:30:00-07:00",
+    "end": "2026-10-15T20:00:00-07:00",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/speakerseries-owlsinseattle-dominguez\n\nDate/Time: Thursday, October 15, 2026, 6:30pm\n\nLocation: Birds Connect Seattle (616 Olive Way)\n\nSeattle is home to several species of owls. These mysterious birds have sparked the imagination of humans for millennia. We will explore the myth, folklore, and science of these hunter of the night. Discover where they can be found, how they are successful as nocturnal predators, and their importance to us in a variety of ways.\n\nThis in-person event will not be live-streamed or recorded.\n\nTicket fees help support Birds Connect Seattle's mission to advocate and organize for cities where people and birds thrive. Tickets are non-refundable.\n\nEd Dominguez is a Pacific Northwest Naturalist, who has been an educator and outdoor leader for over 30 years. For many years he was best known for his role as Lead Naturalist at the Seward Park Audubon Center in Seattle. After retiring from that role in 2025, Ed has continued his commitment to educating and spreading love for the natural world by leading private tours, offering speaking engagements and volunteering with Birds Connect Seattle. You can find him leading monthly walks at Union Bay Natural Area, as well as helping guide our Birding Vacations program. Ed is a natural born teacher, who wants to inspire folks to get outdoors and engage their curiosity about the natural world. Spending time with Ed, you'll expand your understanding of many different topics, such as conservation, local owls, botany, geology and natural history.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1893/1792114200000",
+    "status": "",
+    "categories": [],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a88c90f558fb1b2fd9d954c/scaled_768.jpg",
+    "image": "/src/assets/events/a1a6c2b847de.jpg"
+  },
+  {
     "id": "941f9db3bdef",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29876835/0/0",
     "title": "Birds of Seattle Lunch and Learn",
