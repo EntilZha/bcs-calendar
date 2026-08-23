@@ -1,53 +1,5 @@
 [
   {
-    "id": "94ac9b7fb65c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1830/29724900/0/0",
-    "title": "Summer Membership Drive: Andrew's Story",
-    "start": "2026-07-08",
-    "end": "2026-07-22",
-    "startDate": "2026-07-08",
-    "endDate": "2026-07-22",
-    "allDay": true,
-    "multiDay": true,
-    "description": "Donate in support of the next generation of bird enthusiasts.\n\nBirds Connect Seattle’s Summer Membership Drive celebrates the joy, curiosity, and connection that birds inspire across generations.\n\nBoard member Andrew Larsen recently shared a story https://birdsconnectsea.org/2025/04/01/birding-across-generations-andrews-story/ about his four-year-old nephew proudly naming birds like Dark-eyed Juncos, Black-capped Chickadees, and hummingbirds—a reminder that birding is about so much more than identifying species. It creates moments of wonder, connection, and stewardship that can last a lifetime, and bring generations closer together.\n\nYour support helps make these experiences possible for young people across our region through Nature Camp, Young Birders, school programs, field trips, and hands-on environmental education.\n\nJoin us in inspiring the next generation of bird lovers and conservationists.\n\nDonate Today https://secure.birdsconnectsea.org/W2n_j1-J3UW_Oci--0BK2A2",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1830/1783494000000",
-    "status": "",
-    "categories": [
-      "Fund-Our-Mission"
-    ],
-    "registration": {
-      "label": "Donate Today",
-      "url": "https://secure.birdsconnectsea.org/W2n_j1-J3UW_Oci--0BK2A2"
-    },
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a0cc3473c748041fabe2e17/scaled_1024.jpg",
-    "image": "/src/assets/events/94ac9b7fb65c.jpg"
-  },
-  {
-    "id": "e4fadef7cf57",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29745795/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-07-22T12:15:00-07:00",
-    "end": "2026-07-22T12:45:00-07:00",
-    "startDate": "2026-07-22",
-    "endDate": "2026-07-22",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle for a little lunch and learn all about birds!\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1784747700000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education",
-      "HQ",
-      "at-BCS-Headquarters"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/e4fadef7cf57.jpg"
-  },
-  {
     "id": "85e9935b1385",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1861/29749890/0/0",
     "title": "Neighborhood Bird Outing: Ballard Locks",
