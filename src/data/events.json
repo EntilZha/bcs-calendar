@@ -1,29 +1,5 @@
 [
   {
-    "id": "89b7be4d57e2",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1841/29751360/0/0",
-    "title": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park (for young adults <40)",
-    "start": "2026-07-26T09:00:00-07:00",
-    "end": "2026-07-26T11:00:00-07:00",
-    "startDate": "2026-07-26",
-    "endDate": "2026-07-26",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park (for young adults <40)\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her), Denning Gillespie (they/them) and Jules Stanley (she/her) - NextGen Council Members\n\nMeeting Point: 9:00am - 11:00am, Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in the parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: No bike racks available at the park. There are small trees where one could secure a bike.\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nHello fellow Queer Birders! Juanita bay is one of my (Casey’s) favorite birding spots, and is considered one of the birding hotspots of the East side of Lake Washington. This park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks.\n\nWe will be staying in relatively close proximity to the car park, with plenty of turn around points along the way. Bathrooms are easily accessible the whole trip.\n\nThis walk is geared specifically for anyone who identifies as LGBTQIA+ (Allies are of course welcome too!!) and young adults (under 40). Any level of birding experience is welcome.",
-    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1841/1785081600000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in",
-      "NextGen"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/89b7be4d57e2.jpg"
-  },
-  {
     "id": "d0557a656abd",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29754600/0/0",
     "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
@@ -782,7 +758,7 @@
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29800170/1/0",
     "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
     "start": "2026-08-29T06:30:00-07:00",
-    "end": "2026-08-29T08:00:00-07:00",
+    "end": "2026-08-29T18:00:00-07:00",
     "startDate": "2026-08-29",
     "endDate": "2026-08-29",
     "allDay": false,
@@ -1259,6 +1235,28 @@
     "image": "/src/assets/events/9d58a45abd57.jpg"
   },
   {
+    "id": "ae830bbd05bb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1894/29823990/0/0",
+    "title": "Partner Event: SAL Presents Alexis Nikole Nelson aka Black Forager",
+    "start": "2026-09-14T19:30:00-07:00",
+    "end": "2026-09-14T21:00:00-07:00",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://lectures.org/event/alexis-nikole-nelson/\n\nDate/Time: Monday, September 15, 7:30pm (doors open at 6pm)\n\nLocation: Town Hall Seattle—The Great Hall (1119 8th Ave Seattle, WA 98101)\n\nOn MON, SEP 14, Seattle Arts & Lectures presents a conversation with the internet’s favorite forager, Alexis Nikole Nelson – known to millions as Black Forager. Join us to celebrate the publication of Happy Snacking, Don’t Die! a one-of-a-kind collection of recipes and foraging wisdom that teaches you how to turn common plants, flowers, and fungi into yummy, plant-based meals.\n\nWe are thrilled to be a community partner of this event and to offer a 10% off in-person or streaming tickets at all levels, except Pay What You Can. To redeem your discount, please type the code SALNelson10 at checkout. The code expires one week from the in-person event, the last date to purchase streaming tickets.\n\nThis is a partner event organized by Seattle Arts and Lectures. Please reach out to boxoffice@lectures.org mailto:boxoffice@lectures.org with questions about this event.",
+    "location": "Town Hall Seattle—The Great Hall,1119 8th Ave, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1894/1789439400000",
+    "status": "",
+    "categories": [
+      "Partner",
+      "Lecture"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a8f1b47983d7a6a0cd74c83/scaled_1024.jpg",
+    "image": "/src/assets/events/ae830bbd05bb.jpg"
+  },
+  {
     "id": "816b3d67503b",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29826435/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1412,7 +1410,8 @@
     "status": "",
     "categories": [
       "Book",
-      "HQ"
+      "HQ",
+      "Speaker-Series"
     ],
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a064f6464f49cafacdea2b1/scaled_256.jpg",
@@ -1615,7 +1614,11 @@
     "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1893/1792114200000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "HQ",
+      "Lecture",
+      "Speaker-Series"
+    ],
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a88c90f558fb1b2fd9d954c/scaled_768.jpg",
     "image": "/src/assets/events/a1a6c2b847de.jpg"
