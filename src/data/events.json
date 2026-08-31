@@ -1,27 +1,5 @@
 [
   {
-    "id": "359e3688d08c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1885/29757330/0/0",
-    "title": "Online Lunch and Learn: King County's Multi-Faceted Approach to Investing in our Tree Canopy with Joanna Nelson de Flores",
-    "start": "2026-07-30T12:30:00-07:00",
-    "end": "2026-07-30T13:00:00-07:00",
-    "startDate": "2026-07-30",
-    "endDate": "2026-07-30",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://docs.google.com/forms/d/e/1FAIpQLSe5-iTJZZlCDgK_LTWDAqt8lL4qJgmFYaxHXcELboN4kltgBQ/viewform?usp=send_form\n\nThis 20-minute presentation will explore King County's approach for growing tree canopy and strengthening climate resilience, which includes a Guide to Developing Effective Urban Tree Regulations, 30-Year Forest Plan, Strategic Climate Action Plan, and Extreme Heat Mitigation Strategy.\n\nAbout the speaker: Joanna Nelson de Flores has spent 17 years building local relationships and working to increase and enhance urban tree canopy across the Puget Sound Region. As the Urban Forestry Program Manager for the Water and Land Resources Division of King County DNRP, Joanna builds urban forestry programming that will have long-term impacts on our region's climate resilience and the health and well-being of all that call this place home.\n\nThe Understory Lunch and Learn Series is a Tree Equity Network initiative offering accessible, concise information and resources on urban forest management, policy, and advocacy. The Tree Equity Network is co-led by Birds Connect Seattle and Seattle Parks Foundation.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1885/1785439800000",
-    "status": "",
-    "categories": [
-      "Conservation",
-      "Lecture"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a10d624bf50ac3e01818e30/scaled_1024.jpg",
-    "image": "/src/assets/events/359e3688d08c.jpg"
-  },
-  {
     "id": "c7cb62dbc8ee",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1647/29760000/0/0",
     "title": "Neighborhood Bird Outing: BIPOC Birding & Potluck at Juanita Bay Park",
@@ -1230,6 +1208,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/e2d1fc68ecdc.jpg"
+  },
+  {
+    "id": "8b1d80556d5c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1901/29830440/0/0",
+    "title": "Field Trip: September 19, 2026 Cedar River Mouth Scope and Sit",
+    "start": "2026-09-19T07:00:00-07:00",
+    "end": "2026-09-19T10:00:00-07:00",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/cedarriversept19\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth parking lot. (Enter \"Renton Rowing Center\" into Google Maps--this is the approximate location folks will walk to. Meet in the parking lot just before this point.)\n\nLimit: 15\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)\n\nJoin us at Cedar River Mouth in Renton, WA to appreciate the wonders of fall migration in the PNW! This will be a sit-and-scope style trip with very minimal walking, and will be heavily focused on gulls, shorebirds, and the often-complex ID challenges that they can pose. The list of possible species is long and includes shorebirds such as Western, Semipalmated, Baird's, Least, and Spotted Sandpipers, as well as Semipalmated Plovers, Killdeer, and Long-billed Dowitcher. Additionally, Glaucous-winged, Ring-billed, Short-billed, and California Gulls are all possible.\n\nParticipants are encouraged to bring their own spotting scopes, binoculars, and cameras if they have them, however leaders will also provide optics for participants to use as needed. Birders of all levels are welcome.",
+    "location": "1060 Nishiwaki Ln, Renton, WA 98057, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1901/1789826400000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/8b1d80556d5c.jpg"
   },
   {
     "id": "e6ef7875d097",
