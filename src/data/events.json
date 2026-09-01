@@ -1026,6 +1026,52 @@
     "image": "/src/assets/events/0bdb01762529.jpg"
   },
   {
+    "id": "f2211dfac42e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1902/29820630/0/0",
+    "title": "Free In-Store Program: Seagulls Aren’t Real - and other Shorebirds",
+    "start": "2026-09-12T11:30:00-07:00",
+    "end": "2026-09-12T12:00:00-07:00",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "There are over 50 different species of gulls worldwide, but none of them are named \"seagull\", and many live near inland lakes, fields, and city landfills rather than the sea.\n\nJoin us to learn about the gulls and other shorebirds of the Puget Sound region, adaptations that help these birds thrive, and why scientists track them as vital signs about the health of Puget Sound.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1902/1789237800000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/66a8110d117e3a71e7faff4b/scaled_640.jpg",
+    "image": "/src/assets/events/f2211dfac42e.jpg"
+  },
+  {
+    "id": "8ab0afbd2eeb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1903/29820780/0/0",
+    "title": "Free In-Store Program: Pollinator Garden Study - Wildflowers and Hummingbirds",
+    "start": "2026-09-12T14:00:00-07:00",
+    "end": "2026-09-12T14:30:00-07:00",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Add wildlife-friendly plants to your space. Whether you have a balcony, backyard, or garden in a public right-of way, you can attract and support hummingbirds and other birds through your plant choices and garden maintenance techniques.\n\nJoin Naturalist Lilith Meng for this is a free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1903/1789246800000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/63ffe90b57875e3c9c43e542/scaled_640.jpg",
+    "image": "/src/assets/events/8ab0afbd2eeb.jpg"
+  },
+  {
     "id": "58848f825aab",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1736/29821800/1/0",
     "title": "BIRD UNIVERSITY Online Class - Bird by Ear: Laying the Foundation for a Lifetime of Listening with Whitney Neufeld-Kaiser",
@@ -1255,6 +1301,52 @@
     "image": "/src/assets/events/e6ef7875d097.jpg"
   },
   {
+    "id": "ab3c2c2ef146",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1904/29830710/0/0",
+    "title": "Free In-Store Program: Corvids! Ravens,Crows, Jays, Oh my!",
+    "start": "2026-09-19T11:30:00-07:00",
+    "end": "2026-09-19T12:00:00-07:00",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Corvids are among the smartest of birds! They can mimic a car alarm, pass knowledge along to the next generation, and work together to protect one another. This session will focus on crows, ravens, jays, and magpies.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1904/1789842600000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62f320256bc4cb12ac76157c/scaled_896.jpg",
+    "image": "/src/assets/events/ab3c2c2ef146.jpg"
+  },
+  {
+    "id": "2a90435e1964",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1905/29830860/0/0",
+    "title": "Free In-Store Program: Backyard Birding - Pinecone Bird Feeders",
+    "start": "2026-09-19T14:00:00-07:00",
+    "end": "2026-09-19T14:30:00-07:00",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Fall is a time of transition in the natural world and birds are on the move. Territories have broken down and mixed feeding flocks are forming. This session will focus on common backyard birds including: Black Cap Chickadee, Dark-eyed Junco, American Robin, House Finch, Pine Siskin, and Townsend’s Warbler. Stick around to make a bird-feeder to attract birds to your space.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1905/1789851600000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6802a263dc957f1e4eab68c0/scaled_384.jpg",
+    "image": "/src/assets/events/2a90435e1964.jpg"
+  },
+  {
     "id": "ebbf35117bbb",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1837/29832000/0/0",
     "title": "Neighborhood Bird Outing: Union Bay Natural Area",
@@ -1345,6 +1437,52 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a078f8b64f49cafac71511b/scaled_1024.jpg",
     "image": "/src/assets/events/d8eaaa127a0c.jpg"
+  },
+  {
+    "id": "2e8a3a0c744c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1906/29840790/0/0",
+    "title": "Free In-Store Program: What’s that Knocking - Forest Dependent Birds",
+    "start": "2026-09-26T11:30:00-07:00",
+    "end": "2026-09-26T12:00:00-07:00",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "allDay": false,
+    "multiDay": false,
+    "description": "A woodpecker drills on trees (and sometimes your chimney cap, utility pole, wooden siding, metal roof) for several reasons: for communication, to find food, or to excavate a nesting area.\n\nOur area is home to several woodpecker species, thanks in part to our diverse tree canopy. Each species has distinct beak and tongue anatomy, diet, and size, which in turn, result in different tree drilling methods.\n\nIf you enjoy seeing woodpeckers in your neighborhood, thank the trees—both living and dead—that provide habitat to sustain them. This session will focus on birds that rely upon our local trees for their habitat and food: Pileated Woodpeckers, Red-Breasted Sapsucker, Downy Woodpecker, Brown Creeper, Red-Breasted Nuthatch, and Northern Flicker.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1906/1790447400000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6744fcfd91481c12f62b32d2/scaled_1024.jpg",
+    "image": "/src/assets/events/2e8a3a0c744c.jpg"
+  },
+  {
+    "id": "e320dc849e95",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1907/29840940/0/0",
+    "title": "Free In-Store Program: Save Birds from Window Collisions - DIY Window Collision Deterrents",
+    "start": "2026-09-26T14:00:00-07:00",
+    "end": "2026-09-26T14:30:00-07:00",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds often behave as if they cannot see glass. They may mistake reflections of trees, sky, or open space for real habitat. Or they may try to fly through transparent corners or parallel windows that create the illusion of a clear flight path. All told, collisions with windows kill more than one billion birds every year in the United States. Many more will suffer painful injuries. The good news is that we can all take steps to make our homes and neighborhoods.\n\nThere are many proven ways to prevent collisions. Applying decals, films, cords, or markers to the outside of windows can break up reflections and eliminate the illusion of open space. Bird-window collision markers, decals, and films are widely available in a range of patterns and designs to suit any style or budget. They can be installed by professionals or applied yourself. Even low-cost DIY options—like using a white bar of soap to streak your windows—make a difference.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1907/1790456400000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Drop-in",
+      "Education"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/66b6ad9cbf11871529175ece/scaled_1024.jpg",
+    "image": "/src/assets/events/e320dc849e95.jpg"
   },
   {
     "id": "6717d4af42ce",
