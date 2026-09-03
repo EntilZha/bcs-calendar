@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-09-02T06:47:53.368552-07:00",
-  "eventCount": 93,
+  "crawledAt": "2026-09-03T06:47:01.263320-07:00",
+  "eventCount": 95,
   "rawCategories": [
     "Bird-Outing",
     "Bird-University",
@@ -19,7 +19,10 @@
     "Lecture",
     "NextGen",
     "Partner",
+    "Recommended",
+    "Science",
     "Speaker-Series",
+    "Volunteer",
     "at-BCS-Headquarters"
   ]
 }
