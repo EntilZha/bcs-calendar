@@ -1,27 +1,5 @@
 [
   {
-    "id": "925a46b59308",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1888/29764920/0/0",
-    "title": "Partner Event: Showing of WILD INSIDE",
-    "start": "2026-08-04T19:00:00-07:00",
-    "end": "2026-08-04T20:30:00-07:00",
-    "startDate": "2026-08-04",
-    "endDate": "2026-08-04",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Don’t miss WILD INSIDE, showing August 4 for International Owl Awareness Day! 🦉It’s the new documentary from Penny Lane, about an owl named Flaco who escapes the Central Park Zoo and sets off on a magical adventure through the island of Manhattan.\n\nOur Community Engagement volunteers will be there with information Birds Connect Seattle. Showtimes, tickets, and trailer at FlacoDocumentary.com http://flacodocumentary.com .",
-    "location": "SIFF Cinema Uptown,511 Queen Anne Ave N, Seattle, WA 98109, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1888/1785895200000",
-    "status": "",
-    "categories": [
-      "Partner",
-      "Conservation"
-    ],
-    "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a5932b36b88f283209d2506/scaled_1024.jpg",
-    "image": "/src/assets/events/925a46b59308.jpg"
-  },
-  {
     "id": "d578623d0135",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1886/29765820/0/0",
     "title": "Neighborhood Bird Outing: Magnuson Park",
@@ -1599,7 +1577,7 @@
   {
     "id": "f8fce65cd5a7",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1896/29862180/0/0",
-    "title": "Field Trip: Westcrest Park in Highland Park, Seattle",
+    "title": "Field Trip: Practice Birding by Ear in Westcrest Park",
     "start": "2026-10-11T08:00:00-07:00",
     "end": "2026-10-11T11:00:00-07:00",
     "startDate": "2026-10-11",
