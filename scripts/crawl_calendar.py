@@ -35,9 +35,42 @@ from zoneinfo import ZoneInfo
 
 import requests
 from icalendar import Calendar
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ICS_URL = "https://tockify.com/api/feeds/ics/birds.connect.sea"
 CALENDAR_NAME = "birds.connect.sea"
+
+# A real browser User-Agent: Tockify's edge intermittently returns 403 to the
+# default "python-requests/x.y" UA (bot/rate-limit protection), which has flaked
+# CI builds. A normal UA plus retries below makes the crawl robust.
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
+
+def make_session() -> requests.Session:
+    """Session with a browser UA and automatic retry/backoff on the statuses
+    Tockify throws under load (403/429) and transient server errors (5xx)."""
+    session = requests.Session()
+    session.headers.update(
+        {"User-Agent": USER_AGENT, "Accept": "*/*"}
+    )
+    retry = Retry(
+        total=4,
+        backoff_factor=1.5,  # ~0s, 1.5s, 3s, 6s between attempts
+        status_forcelist=(403, 429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["GET"]),
+        respect_retry_after_header=True,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+SESSION = make_session()
 SEATTLE = ZoneInfo("America/Los_Angeles")
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -154,7 +187,7 @@ _BAD_HEADER_PREFIXES = ("X-PUBLISHED-TTL", "REFRESH-INTERVAL")
 
 
 def fetch_ics() -> str:
-    resp = requests.get(ICS_URL, timeout=30)
+    resp = SESSION.get(ICS_URL, timeout=30)
     resp.raise_for_status()
     return resp.text
 
@@ -182,7 +215,7 @@ def download_images(events: list[dict], force: bool) -> int:
         if dest.exists() and not force:
             continue
         try:
-            r = requests.get(url, timeout=30)
+            r = SESSION.get(url, timeout=30)
             r.raise_for_status()
             dest.write_bytes(r.content)
             downloaded += 1
