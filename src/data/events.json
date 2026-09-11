@@ -912,7 +912,7 @@
       "Children"
     ],
     "registration": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
     "image": "/src/assets/events/9d58a45abd57.jpg"
   },
   {
@@ -1783,6 +1783,28 @@
     "registration": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/85c68114e38c.jpg"
+  },
+  {
+    "id": "d621c5c63779",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1913/29919030/0/0",
+    "title": "NextGen Wingspan Game Night @ Old Stove Ship Canal",
+    "start": "2026-11-19T18:30:00-08:00",
+    "end": "2026-11-19T21:00:00-08:00",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/nextgen-wingspan-november2026-oldstove\n\nDate/Time: Thursday, November 19, 6:30-9 p.m.\n\nLocation: Old Stove Brewing - Ship Canal (600 W Nickerson St, Seattle, WA 98119)\n\nJoin Birds Connect Seattle's NextGen Council for an evening of board game fun! We have tables reserved for 40 attendees at Old Stove Ship Canal. The brewery has food (taco & beer food truck!) and beverages (beer, cocktails, wine, cider, and non-alcoholic drinks) for sale, but no outside food or drink allowed.\n\nThis location is family friendly, dogs are allowed. This event is hosted by NextGen, but gamers of all ages are welcome to register and attend. We will set up the board games and split into groups from ~6:30-6:45pm, and start playing right around 6:45/7pm so we wrap up by 9pm.\n\nWingspan is a massively popular, competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez. In the game (as in real life), you are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife habitats. Each bird extends a chain of powerful combinations in one of your habitats (actions). When you arrive, please look for the table tents with our event name on them (Birds Connect Seattle Board Game Night) or ask one of the friendly beertenders for assistance. Also, if you own the Wingspan board game, please bring it to the event, we will need some extra sets of the game and any expansion packs!\n\nPlease Note: Limited to 40 attendees. This event has limited slots, and you must register. If the event is full, please signup for the waitlist, and you will be moved up as people update their RSVPs.\n\nVISIT THE TAPROOM AT SHIP CANAL\nJoin us at the 49er Taproom in the Ship Canal Maritime District. Eat, drink, share stories around the stove and admire the authentic beer memorabilia scattered through our space. Street parking and bus routes nearby. Bike parking on-site, please bring a lock.\n\n\nDirections and menus: https://www.oldstove.com/shipcanal https://www.oldstove.com/shipcanal",
+    "location": "Old Stove Ship Canal,600 W Nickerson St, Seattle, WA 98119, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1913/1795141800000",
+    "status": "",
+    "categories": [
+      "Events",
+      "NextGen"
+    ],
+    "registration": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3d5bf3a37c3d798897a2f3/scaled_896.jpg",
+    "image": "/src/assets/events/d621c5c63779.jpg"
   },
   {
     "id": "b5735f17fb4d",
