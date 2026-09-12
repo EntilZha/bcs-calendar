@@ -19,6 +19,18 @@ const MODES = [
 const NAV_LINK =
   "inline-flex min-h-11 items-center justify-center rounded-full px-3 text-sm font-semibold text-sage transition hover:bg-white/10 hover:text-white active:scale-95 md:min-h-touch md:px-4 md:text-base 2xl:min-h-touch-lg 2xl:px-6 2xl:text-k-ui";
 
+/** Filter pills, sized a step below the header controls. They are a longer,
+ *  growing list, so they trade a little size for fitting on one line — with
+ *  room for a couple more before the row has to scroll. */
+/*
+ * Smaller than the day content on purpose. Event text is read across the shop
+ * at ~1.5 m and needs the 31px floor; a filter is scanned and then tapped, and
+ * you are at arm's length by the time you touch it. So controls can sit well
+ * under the reading size without hurting anything.
+ */
+const FILTER_PILL =
+  "inline-flex shrink-0 min-h-11 items-center justify-center rounded-full px-3.5 text-sm font-semibold transition active:scale-95 md:px-4 md:text-base 2xl:min-h-touch 2xl:px-4 2xl:text-xl";
+
 const CONTROL =
   "inline-flex min-h-11 items-center justify-center rounded-full px-3.5 text-sm font-semibold transition active:scale-95 md:min-h-touch md:px-5 md:text-lg 2xl:min-h-touch-lg 2xl:px-7 2xl:text-k-ui";
 
@@ -139,7 +151,12 @@ export function KioskFilterRow({
   return (
     // Single-select, not multi-select: two simultaneously-active chips is a
     // state a passing visitor cannot reason about.
-    <div className="-mx-1 flex shrink-0 gap-2 overflow-x-auto px-1 pb-1 lg:flex-wrap lg:overflow-visible 2xl:gap-3">
+    //
+    // Never wraps, at any width. A second row of pills costs the day columns
+    // real height, and the wrap point moves every time a filter is added or
+    // renamed. One scrolling line behaves the same everywhere and absorbs new
+    // filters without reflowing the page.
+    <div className="-mx-1 flex shrink-0 flex-nowrap gap-2 overflow-x-auto px-1 pb-1 2xl:gap-2.5">
       {KIOSK_FILTERS.map((filter) => {
         const active = state.filterId === filter.id;
         return (
@@ -148,7 +165,7 @@ export function KioskFilterRow({
             type="button"
             onClick={() => dispatch({ type: "setFilter", id: filter.id })}
             aria-pressed={active}
-            className={`${CONTROL} shrink-0 ${
+            className={`${FILTER_PILL} ${
               active
                 ? "bg-brand text-white"
                 : "bg-white text-brand ring-1 ring-black/10"
