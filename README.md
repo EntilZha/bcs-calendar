@@ -83,8 +83,13 @@ event so a visitor can carry it to their phone.
   this?". Out: anything already **at capacity**, multi-session **courses**,
   anything **online**, and **members-only** events. Everything else is in —
   including partner events and field trips that still have room. 84 of 101
-  events at the time of writing. To move that line, edit `isJoinable`; it is the
-  one function that decides.
+  events at the time of writing. It is labelled **Recommended** in the UI; the
+  predicate keeps the name `isJoinable` because that is what it computes. To
+  move that line, edit `isJoinable`; it is the one function that decides.
+
+  Note there is also a raw Tockify tag called `Recommended` (currently on one
+  event). It has nothing to do with this filter — tagging an event `Recommended`
+  in Tockify will not promote it here.
   - "At capacity" matches only a statement of fact (*"This trip is at
     capacity"*), never the conditional boilerplate — the Wingspan nights say
     *"if the event is full, please signup for the waitlist"*, and a bare mention

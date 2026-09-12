@@ -331,7 +331,10 @@ export interface KioskFilter {
 }
 
 export const KIOSK_FILTERS: KioskFilter[] = [
-  { id: "open", label: "Still Open", match: isJoinable },
+  // Label is a curation claim, deliberately: "Still Open" foregrounded scarcity,
+  // which only applies to the handful of events that take registration at all.
+  // The predicate stays named for what it actually computes.
+  { id: "recommended", label: "Recommended", match: isJoinable },
   { id: "instore", label: "At the Store", match: isInStore },
   {
     id: "outings",
@@ -358,4 +361,4 @@ export const KIOSK_FILTERS: KioskFilter[] = [
   { id: "all", label: "Everything", match: () => true },
 ];
 
-export const DEFAULT_KIOSK_FILTER_ID = "open";
+export const DEFAULT_KIOSK_FILTER_ID = "recommended";
