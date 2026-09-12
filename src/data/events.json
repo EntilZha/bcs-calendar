@@ -21,6 +21,9 @@
       "label": "Buy Your Ticket",
       "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
     },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/343b6beac732.jpg"
   },
@@ -42,7 +45,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/augustwhidbey2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/augustwhidbey2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
     "image": "/src/assets/events/d71f8a585b5a.jpg"
   },
@@ -67,6 +76,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/9c670aeead2e.jpg"
   },
@@ -90,6 +102,9 @@
       "HQ"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/b4375c51869c.jpg"
   },
@@ -111,7 +126,13 @@
       "Classes",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
     "image": "/src/assets/events/fdf80a81981b.jpg"
   },
@@ -134,6 +155,9 @@
       "Birds-Connect-Seattle"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958292c97af2cfcb93ca3/scaled_384.jpg",
     "image": "/src/assets/events/28bbd95c132e.jpg"
   },
@@ -157,6 +181,9 @@
       "Children"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/725a8ae2a219.jpg"
   },
@@ -181,6 +208,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/4dd2720640eb.jpg"
   },
@@ -202,7 +232,13 @@
       "Classes",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
     "image": "/src/assets/events/8ef96c2ca321.jpg"
   },
@@ -224,7 +260,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/cedarriveraug26"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/cedarriveraug26",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/da6386e9ca0f.jpg"
   },
@@ -247,6 +289,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
     "image": "/src/assets/events/7047a2877e6d.jpg"
   },
@@ -272,6 +317,9 @@
       "label": "Buy Your Ticket",
       "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
     },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/703d2f7e4c26.jpg"
   },
@@ -295,6 +343,9 @@
       "Bird-Outing"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": "rescheduled",
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3eeb18a37c3d79880c153b/scaled_512.jpg",
     "image": "/src/assets/events/878a5c74504c.jpg"
   },
@@ -317,6 +368,9 @@
       "NextGen"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a83552f8746b1611a48e652/scaled_1024.jpg",
     "image": "/src/assets/events/4c4eef731aca.jpg"
   },
@@ -341,6 +395,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/74710d6141ce.jpg"
   },
@@ -363,6 +420,9 @@
       "NextGen"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/691b7e617442f61edee9c8bf/scaled_1024.png",
     "image": "/src/assets/events/09372404f2ed.png"
   },
@@ -384,7 +444,13 @@
       "Classes",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
     "image": "/src/assets/events/b0ee62078a3e.jpg"
   },
@@ -406,7 +472,13 @@
       "Classes",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
     "image": "/src/assets/events/b4af5ef21281.jpg"
   },
@@ -430,6 +502,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a078f8b64f49cafac71511b/scaled_1024.jpg",
     "image": "/src/assets/events/dd0e84d95c1c.jpg"
   },
@@ -453,6 +528,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
     "image": "/src/assets/events/4444facf7149.jpg"
   },
@@ -477,6 +555,9 @@
       "Birds-Connect-Seattle"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/5b30098ff8c0.jpg"
   },
@@ -502,6 +583,9 @@
       "label": "Buy Your Ticket",
       "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
     },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
     "image": "/src/assets/events/500ac88ba7e7.jpg"
   },
@@ -524,7 +608,13 @@
       "Birds-Connect-Seattle",
       "Bird-University"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/birdu_bbe2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/birdu_bbe2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62be043fd0e49e303cda9540/scaled_1024.jpg",
     "image": "/src/assets/events/fe8da023dfb9.jpg"
   },
@@ -547,6 +637,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a17513fbf50ac3e011fac7f/scaled_1024.jpg",
     "image": "/src/assets/events/a57a9f8b9980.jpg"
   },
@@ -571,6 +664,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/f101cef1e1aa.jpg"
   },
@@ -592,7 +688,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/bipocseptember2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/bipocseptember2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67042b83205890162e63678f/scaled_1024.jpg",
     "image": "/src/assets/events/5684ea60ec19.jpg"
   },
@@ -615,6 +717,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
     "image": "/src/assets/events/ad752ede8bbe.jpg"
   },
@@ -637,6 +742,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6851a4deebd73c1be23e8f6a/scaled_512.jpg",
     "image": "/src/assets/events/31fac9807329.jpg"
   },
@@ -659,6 +767,9 @@
       "Birds-Connect-Seattle"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67cf7fd3fcc1f95b1553a4e8/scaled_384.jpg",
     "image": "/src/assets/events/cfb274bc0ca3.jpg"
   },
@@ -681,6 +792,9 @@
       "Birds-Connect-Seattle"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bf9e9db5a6eb2d37b256b1/scaled_1024.jpg",
     "image": "/src/assets/events/356007994a0f.jpg"
   },
@@ -703,7 +817,13 @@
       "Birds-Connect-Seattle",
       "Bird-University"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/birdu_bbe2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/birdu_bbe2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62be043fd0e49e303cda9540/scaled_1024.jpg",
     "image": "/src/assets/events/1397fe1444cd.jpg"
   },
@@ -728,6 +848,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/47ae69bc6a32.jpg"
   },
@@ -751,6 +874,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/ea33b7c1a361.jpg"
   },
@@ -773,6 +899,9 @@
       "Birds-Connect-Seattle"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958292c97af2cfcb93ca3/scaled_384.jpg",
     "image": "/src/assets/events/0bdb01762529.jpg"
   },
@@ -796,6 +925,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/66a8110d117e3a71e7faff4b/scaled_640.jpg",
     "image": "/src/assets/events/f2211dfac42e.jpg"
   },
@@ -819,6 +951,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/63ffe90b57875e3c9c43e542/scaled_640.jpg",
     "image": "/src/assets/events/8ab0afbd2eeb.jpg"
   },
@@ -841,7 +976,13 @@
       "Birds-Connect-Seattle",
       "Bird-University"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/birdu_bbe2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/birdu_bbe2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62be043fd0e49e303cda9540/scaled_1024.jpg",
     "image": "/src/assets/events/58848f825aab.jpg"
   },
@@ -866,6 +1007,9 @@
       "NextGen"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/e006157435d1.jpg"
   },
@@ -889,6 +1033,9 @@
       "NextGen"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697956242c97af2cfcb93bca/scaled_384.jpg",
     "image": "/src/assets/events/d7f7348979bb.jpg"
   },
@@ -912,6 +1059,9 @@
       "Children"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
     "image": "/src/assets/events/9d58a45abd57.jpg"
   },
@@ -934,6 +1084,9 @@
       "Lecture"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a8f1b47983d7a6a0cd74c83/scaled_1024.jpg",
     "image": "/src/assets/events/ae830bbd05bb.jpg"
   },
@@ -958,6 +1111,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/816b3d67503b.jpg"
   },
@@ -979,7 +1135,13 @@
       "Events",
       "NextGen"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nextgen-wingspan-game-night-september2026-bizarre"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nextgen-wingspan-game-night-september2026-bizarre",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3d5bf3a37c3d798897a2f3/scaled_896.jpg",
     "image": "/src/assets/events/0352093e7bbf.jpg"
   },
@@ -1003,6 +1165,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/e2d1fc68ecdc.jpg"
   },
@@ -1024,7 +1189,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/cedarriversept19"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/cedarriversept19",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/8b1d80556d5c.jpg"
   },
@@ -1048,6 +1219,9 @@
       "NextGen"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6979565b2c97af2cfcb93bcc/scaled_384.jpg",
     "image": "/src/assets/events/e6ef7875d097.jpg"
   },
@@ -1071,6 +1245,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62f320256bc4cb12ac76157c/scaled_896.jpg",
     "image": "/src/assets/events/ab3c2c2ef146.jpg"
   },
@@ -1094,6 +1271,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6802a263dc957f1e4eab68c0/scaled_384.jpg",
     "image": "/src/assets/events/2a90435e1964.jpg"
   },
@@ -1116,6 +1296,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
     "image": "/src/assets/events/ebbf35117bbb.jpg"
   },
@@ -1140,6 +1323,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/d86be9ae46cd.jpg"
   },
@@ -1162,7 +1348,13 @@
       "HQ",
       "Speaker-Series"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/speakerseries-birdbrains-lyrical-guide"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/speakerseries-birdbrains-lyrical-guide",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a064f6464f49cafacdea2b1/scaled_256.jpg",
     "image": "/src/assets/events/dde5c280fde0.jpg"
   },
@@ -1186,6 +1378,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a078f8b64f49cafac71511b/scaled_1024.jpg",
     "image": "/src/assets/events/d8eaaa127a0c.jpg"
   },
@@ -1209,6 +1404,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6744fcfd91481c12f62b32d2/scaled_1024.jpg",
     "image": "/src/assets/events/2e8a3a0c744c.jpg"
   },
@@ -1232,6 +1430,9 @@
       "Education"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/66b6ad9cbf11871529175ece/scaled_1024.jpg",
     "image": "/src/assets/events/e320dc849e95.jpg"
   },
@@ -1253,7 +1454,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nisquallysept2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nisquallysept2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/6717d4af42ce.jpg"
   },
@@ -1276,6 +1483,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958cf2c97af2cfcb93cd7/scaled_384.jpg",
     "image": "/src/assets/events/6b31acdf254b.jpg"
   },
@@ -1300,6 +1510,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/cf0508f25a1f.jpg"
   },
@@ -1322,6 +1535,9 @@
       "Member-Event"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a99df1888c0f34940bdbabc/scaled_640.jpg",
     "image": "/src/assets/events/8dc92145c61e.jpg"
   },
@@ -1346,6 +1562,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/572298946544.jpg"
   },
@@ -1369,6 +1588,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/a339c6595af2.jpg"
   },
@@ -1389,7 +1611,13 @@
     "categories": [
       "Field-Trips"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/bvorcas26"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/bvorcas26",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a6d482f7f09c36e0faa0fd3/scaled_1024.jpg",
     "image": "/src/assets/events/c50387841402.jpg"
   },
@@ -1411,7 +1639,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nisquallyoct2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nisquallyoct2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/fe423ff6612c.jpg"
   },
@@ -1433,9 +1667,42 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/oct26westcrest"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/oct26westcrest",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/f8fce65cd5a7.jpg"
+  },
+  {
+    "id": "d7089f4d1c31",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1764/29862240/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area + Burke Gilman Brewing (for young adults <40)",
+    "start": "2026-10-11T09:00:00-07:00",
+    "end": "2026-10-11T11:00:00-07:00",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outing: Union Bay Natural Area + Burke Gilman Brewing (for young adults <40)\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Next Gen Council Members: Jordan Juranke (she/her), Emi Nye (she/her), Casey Herrick (she/her) and Anthony Pangelinan (he/him)\n\nMeeting Point: 9am at the Center for Urban Horticulture parking lot E16, off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st\n\nBike Parking: Yes; bike rack in back of building, bring a lock.\n\nTrip Accessibility:1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nCar Parking: Yes, parking in the lot is free on Sundays.\n\nBathrooms: There are bathrooms at the Center for Urban Horticulture only if they are open. We cannot guarantee access to bathrooms during this walk.\n\nBirders of all levels, especially beginners are welcome. Please bring binoculars, we will have a couple extra pairs. Binoculars are also available to rent from the Birds Connect Seattle storefront in Westlake.\n\nWe will enjoy the park from 9-11:30am, with an optional after-walk hangout at nearby Burke Gilman Brewing around 12pm (brewery is all ages, alcoholic and non-alcoholic options for purchase, outside food ok, El Camión food truck nearby).\n\nPlease try to arrive by the listed time for introductions. If late, look for a group of people holding binoculars! Join us for drinks afterwards at Burke Gilman Brewing. Rain or shine, please bring rain gear. Please leave dogs at home. Bird photography encouraged.\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include wood ducks, Bald Eagles, Gadwalls, Pied Billed Grebes, Great Blue Heron, Green Heron, Belted Kingfisher, and more! Come practice your duck identification with us!",
+    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1764/1791734400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa48af1c21023da95619d5f/scaled_1024.jpg",
+    "image": "/src/assets/events/d7089f4d1c31.jpg"
   },
   {
     "id": "8d6ffe1df5dd",
@@ -1458,6 +1725,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/8d6ffe1df5dd.jpg"
   },
@@ -1481,6 +1751,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/798162975d04.jpg"
   },
@@ -1503,7 +1776,13 @@
       "Lecture",
       "Speaker-Series"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/speakerseries-owlsinseattle-dominguez"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/speakerseries-owlsinseattle-dominguez",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a88c90f558fb1b2fd9d954c/scaled_768.jpg",
     "image": "/src/assets/events/a1a6c2b847de.jpg"
   },
@@ -1525,9 +1804,67 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/bipocmarymooroct26"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/bipocmarymooroct26",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67042b83205890162e63678f/scaled_1024.jpg",
     "image": "/src/assets/events/3eefcadaf6c2.jpg"
+  },
+  {
+    "id": "95b8823a8b66",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1915/29872320/0/0",
+    "title": "Neighborhood Bird Outing: LGBTQIA+ Birders at the Arboretum",
+    "start": "2026-10-18T09:00:00-07:00",
+    "end": "2026-10-18T11:00:00-07:00",
+    "startDate": "2026-10-18",
+    "endDate": "2026-10-18",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outing: Neighborhood Bird Outing: LGBTQIA+ Birders at the Arboretum\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her), Jules Stanley (she/her) and Denning Gillespie (they/them)- NextGen Council Members\n\nMeeting Point: Outside the Arboretum Foundation building on the North side of the park. 9am start\n\nBike Parking: Yes\n\nTrip Accessibility:1 (leisurely, many stops to observe), B (soft ground, sand, gravel, dirt roads and some board-walks), ~1.5 miles walking with minimal elevation gain.\n\n\nHello fellow Queer Birders! Our path will be on the north side of the Arboretum starting at the Arboretum Foundation building and heading past Duck Bay and onto Foster Island, and possibly further onto Marsh Island depending on our pace. There will be lots of chances to see waterfowl, and some wooded areas in between to see lots of different bird species.\n\nThis walk is geared specifically for anyone who identifies as LGBTQIA+ and any level of birding experience is welcome.",
+    "location": "Arboretum Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1915/1792339200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69be035ab5a6eb2d374f1826/scaled_1024.jpg",
+    "image": "/src/assets/events/95b8823a8b66.jpg"
+  },
+  {
+    "id": "cd2f7190de9f",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1914/29873850/0/0",
+    "title": "Planning for the Future: Making a Gift for Birds Through Your Will",
+    "start": "2026-10-19T10:30:00-07:00",
+    "end": "2026-10-19T11:30:00-07:00",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Have you ever thought about how you can support the causes you care about for generations to come? Join Birds Connect Seattle for a casual presentation and conversation about wills, estate planning, and the many ways you can include charitable giving in your plans.\n\nYou'll learn the basics of making a gift to Birds Connect Seattle through your will, including different types of bequests, sample language you can share with your attorney, and answers to common questions. We'll also talk about how Legacy Circle members are helping ensure that birds, habitat, and thriving communities remain part of Seattle's future.\n\nThis is an educational event and you don't need to have an estate plan to participate. Whether you're just getting started, updating an existing will, or already have a plan in place, you'll leave with useful information and resources to help you take the next step.\n\nWe'll provide pastries, coffee, and plenty of time for questions and conversation.\n\nRSVP to attend: secure.birdsconnectsea.org/a/plannedgivingpresentationoct26 https://secure.birdsconnectsea.org/a/plannedgivingpresentationoct26\n\nCan't attend? Email our Development Director, Carol Roll at carolr@birdsconnectsea.org mailto:carolr@birdsconnectsea.org to receive a copy of the presentation sent to you.",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1914/1792431000000",
+    "status": "",
+    "categories": [],
+    "registration": {
+      "label": "RSVP to Attend",
+      "url": "https://secure.birdsconnectsea.org/a/plannedgivingpresentationoct26"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/plannedgivingpresentationoct26",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa449edc21023da9502229d/scaled_768.jpg",
+    "image": "/src/assets/events/cd2f7190de9f.jpg"
   },
   {
     "id": "c23a6807c157",
@@ -1547,7 +1884,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/oct2026juanitabay"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/oct2026juanitabay",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
     "image": "/src/assets/events/c23a6807c157.jpg"
   },
@@ -1572,6 +1915,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/941f9db3bdef.jpg"
   },
@@ -1593,7 +1939,13 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/skagitoct2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/skagitoct2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
     "image": "/src/assets/events/87cf501161af.jpg"
   },
@@ -1616,7 +1968,13 @@
       "Birds-Connect-Seattle",
       "NextGen"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nisquallyoct242026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nisquallyoct242026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/5e0a9ad7fbea.jpg"
   },
@@ -1638,7 +1996,13 @@
       "Classes",
       "Education"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/mobilesketching2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/mobilesketching2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a99e3d688c0f34940e8edc1/scaled_768.jpg",
     "image": "/src/assets/events/61c493678762.jpg"
   },
@@ -1663,6 +2027,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/c739ea001261.jpg"
   },
@@ -1687,6 +2054,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/367b88b0aa99.jpg"
   },
@@ -1711,6 +2081,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/698012dc00b2.jpg"
   },
@@ -1734,6 +2107,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/2e4c211674e2.jpg"
   },
@@ -1757,8 +2133,38 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/f0c2591ea2f1.jpg"
+  },
+  {
+    "id": "b53b123b5494",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1841/29911260/0/0",
+    "title": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park",
+    "start": "2026-11-14T09:00:00-08:00",
+    "end": "2026-11-14T11:00:00-08:00",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her), Denning Gillespie (they/them) and Jules Stanley (she/her) - NextGen Council Members\n\nMeeting Point: 9:00am - 11:00am, Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in the parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: No bike racks available at the park. There are small trees where one could secure a bike.\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nHello fellow Queer Birders! Get ready for weird duck season! This park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks.\n\nWe will be staying in relatively close proximity to the car park, with plenty of turn around points along the way. Bathrooms are easily accessible the whole trip.\n\nThis walk is geared specifically for everyone who identifies as LGBTQIA+ and of any level of birding experience is welcome.",
+    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1841/1794675600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa485fcc21023da9533fa75/scaled_1024.jpg",
+    "image": "/src/assets/events/b53b123b5494.jpg"
   },
   {
     "id": "85c68114e38c",
@@ -1781,6 +2187,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/85c68114e38c.jpg"
   },
@@ -1802,7 +2211,13 @@
       "Events",
       "NextGen"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nextgen-wingspan-november2026-oldstove"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nextgen-wingspan-november2026-oldstove",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3d5bf3a37c3d798897a2f3/scaled_896.jpg",
     "image": "/src/assets/events/d621c5c63779.jpg"
   },
@@ -1827,6 +2242,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/b5735f17fb4d.jpg"
   },
@@ -1851,6 +2269,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/57757e33179a.jpg"
   },
@@ -1872,7 +2293,13 @@
       "Classes",
       "Education"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/ducks2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/ducks2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/630fe7c3f2df9e47c7eb6ae7/scaled_1024.jpg",
     "image": "/src/assets/events/97d19a3cb5b6.jpg"
   },
@@ -1897,6 +2324,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/998f7aad8ef0.jpg"
   },
@@ -1920,6 +2350,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/b3f0bb5c0bb6.jpg"
   },
@@ -1943,6 +2376,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/1f8a97977b89.jpg"
   },
@@ -1964,7 +2400,13 @@
       "Classes",
       "Education"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/ducks2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/ducks2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/630fe7c3f2df9e47c7eb6ae7/scaled_1024.jpg",
     "image": "/src/assets/events/1eb21286abb7.jpg"
   },
@@ -1986,9 +2428,40 @@
       "Classes",
       "Education"
     ],
-    "registration": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/ducks2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/ducks2026",
+    "registrationRequired": true,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/630fe7c3f2df9e47c7eb6ae7/scaled_1024.jpg",
     "image": "/src/assets/events/dfd9103da754.jpg"
+  },
+  {
+    "id": "21297fd8ef48",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1916/29953020/0/0",
+    "title": "Neighborhood Bird Outing: LGBTQIA+ Birding at Marymoor Park",
+    "start": "2026-12-13T09:00:00-08:00",
+    "end": "2026-12-13T11:00:00-08:00",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Casey Herrick (she/her), Denning Gillespie (they/them), and Jules Stanley (she/her) - NextGen Council Members\n\nMeeting Point: Marymoor Park Parking Lot G. 6046 West Lake Sammamish Parkway Northeast, Redmond, Washington 98052. $1 to park.\n\nBike Parking: Yes, next to the start of the trail. (they're heron shaped!)\n\nTrip Accessibility: 1 (leisurely pace), B (soft ground, dirt). We will walk at a leisurely pace on mostly flat terrain and cover a distance of around ~2 miles. There are bathrooms at the start and midway through our walk.\n\nHello fellow Queer Birders! We will be birding this time at Marymoor Park. Considered one of the birding hotspots of the East side, Marymoor Park features views of Lake Sammamish, the Sammamish river trail, and a diverse population of birds. Our path will take us through an Audubon Bird Loop trail, which is mostly gravel roads with some paved paths and boardwalks as well. Our path will take us into the off leash dog park at Marymoor, so prepare to be in the presence of dogs.\n\nThis walk is geared specifically for everyone who identifies as LGBTQIA+ and of any level of birding experience is welcome.",
+    "location": "Marymoor Park Lot G,6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1916/1797181200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697956242c97af2cfcb93bca/scaled_384.jpg",
+    "image": "/src/assets/events/21297fd8ef48.jpg"
   },
   {
     "id": "6b0492f29a25",
@@ -2011,6 +2484,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/6b0492f29a25.jpg"
   },
@@ -2035,6 +2511,9 @@
       "Volunteer"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17d9fedf82fe60aa879bff/scaled_1024.jpg",
     "image": "/src/assets/events/6f1f7020b44a.jpg"
   },
@@ -2058,6 +2537,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/755195a2379e.jpg"
   },
@@ -2081,6 +2563,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/92f23f1920ad.jpg"
   },
@@ -2104,6 +2589,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/a4f199f922c7.jpg"
   },
@@ -2127,6 +2615,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/dc959f4d01cb.jpg"
   },
@@ -2150,6 +2641,9 @@
       "at-BCS-Headquarters"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
     "image": "/src/assets/events/91d8723957d6.jpg"
   },
@@ -2173,6 +2667,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/c80c40b5557d.jpg"
   },
@@ -2196,6 +2693,9 @@
       "Drop-in"
     ],
     "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/8e5e77a8fe9a.jpg"
   }

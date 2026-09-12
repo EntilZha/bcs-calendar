@@ -62,9 +62,53 @@ uv run scripts/sanity_check.py
 | `scripts/sanity_check.py` | Headless-browser scrape of the live agenda, diffed against `events.json` |
 | `src/data/events.json` / `meta.json` | Generated event data + crawl metadata |
 | `src/assets/events/` | Downloaded featured images (bundled by Astro) |
-| `src/config/categories.ts` | Raw Tockify tags → curated event-type facets |
+| `src/config/categories.ts` | Raw Tockify tags → curated event-type facets, plus the event-kind predicates |
 | `src/components/CalendarApp.tsx` | The calendar UI (agenda, month, filters, search) |
 | `src/pages/index.astro`, `src/layouts/Layout.astro` | Page shell + branding |
+| `src/pages/today.astro`, `src/layouts/KioskLayout.astro` | The in-store display (see below) |
+| `src/components/kiosk/` | In-store display components |
+| `src/lib/eventTime.ts` | Day bucketing, the 3-day window, and the ticking clock |
+| `src/lib/kioskReducer.ts` | In-store display state (filter, window, open event) |
+
+## The in-store display (`/today/`)
+
+A second view designed to be parked on the shop's touchscreen, so visitors can
+see what they could walk into today without asking at the counter. Large type
+readable from a couple of metres, touch-sized controls, and a QR code on each
+event so a visitor can carry it to their phone.
+
+- **Defaults to what a visitor can actually attend.** `isWalkIn` in
+  `src/config/categories.ts` selects drop-ins, Neighborhood Bird Outings and
+  in-store programs, plus events that take registration only to cap room size
+  (Wingspan game nights, Community Speaker Series). It excludes field trips,
+  online classes, ticketed partner events and members-only events. Everything
+  stays reachable — tap **Everything**. To change where that line falls, edit
+  `isWalkIn`; it is the one function that decides.
+- **Kids & Teens and Young Adults are separate filters.** `Children`/`Youth` are
+  actual children's programmes; `NextGen` is the young-adult council, whose events
+  are often in taprooms. Conflating them would send a parent looking for a
+  children's activity to a brewery game night.
+- **Every upcoming day that has events, in one swipeable row.** Empty days are
+  skipped, and events that have already finished are dropped, so the screen never
+  advertises something a visitor has missed. Anything in progress is badged
+  *Happening now*. Three days fit at kiosk width, two on an iPad, one on a phone,
+  and the next column is always partly visible so it is obvious the row scrolls.
+- **The page itself never scrolls.** A day pushed below the fold is a day nobody
+  sees, so the track is pinned to the viewport and each day column scrolls its own
+  events. Panning is native overflow scrolling — touch swipe, trackpad and
+  shift-wheel all work — with arrows as a second, more obvious affordance.
+- **Returns to the default view** after 90 seconds untouched (with a 10-second
+  warning), and has an always-visible **Start over** button.
+- **Previewing another moment:** in `npm run dev` only, `?now=<ISO>` freezes the
+  clock — e.g. `/today/?now=2026-09-13T09:00:00-07:00` to see a Sunday. The
+  parameter is compiled out of production builds.
+
+Two constraints worth knowing before editing it. The page must render nothing
+date-dependent until after hydration (`useNowMs` returns `null` first) because a
+display can run a build that is weeks old, and a stale date baked into the static
+HTML would be shown as fact. And it deliberately does not use `src/lib/filterStore.ts`
+or mount `NavShortcuts` — a nav shortcut would navigate the shop display to the
+dense desktop calendar with no way back.
 
 ## Refreshing the data
 

@@ -1,0 +1,53 @@
+---
+// Chrome for the in-store display.
+//
+// A separate layout rather than a flag on Layout.astro for two reasons that
+// cannot be expressed as a prop:
+//
+//   1. The viewport must be zoom-locked here, and must NOT be on the phone-facing
+//      /event/<id>/ pages the QR codes lead to.
+//   2. Layout.astro mounts NavShortcuts, whose links navigate away when not on
+//      the home page. A visitor tapping "Field Trips" on the shop display would
+//      be dumped onto the dense desktop calendar with no way back.
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Upcoming Events — Birds Connect Seattle",
+  description =
+    "Drop-in events, bird outings, and in-store programs coming up at Birds Connect Seattle.",
+} = Astro.props;
+
+const base = import.meta.env.BASE_URL;
+---
+
+<!doctype html>
+<html lang="en" class="h-dvh overflow-hidden">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Zoom-locked: a pinch on a shared wall screen leaves it stranded at 3x
+         for the next visitor, and this page's own type is already 34px+. -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/png" href={`${base}bcs-favicon.png`} />
+    <link rel="preconnect" href="https://rsms.me/" />
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <title>{title}</title>
+  </head>
+  <!-- Fixed to the viewport: the display must never scroll as a page, because a
+       day pushed below the fold is a day no visitor sees. Each day column
+       scrolls its own events instead. -->
+  <body class="kiosk h-dvh overflow-hidden flex flex-col antialiased">
+    <!-- The branding bar is rendered by the island, so the mode toggle and
+         Start over can sit in it rather than costing the day columns a whole
+         row of vertical space. -->
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,15 @@
+---
+import KioskLayout from "../layouts/KioskLayout.astro";
+import KioskApp from "../components/kiosk/KioskApp.tsx";
+
+// Fallback origin for the QR codes. The component prefers window.location.origin
+// so a scan works from localhost or Netlify too; this only covers a render where
+// window does not exist.
+const buildOrigin = Astro.site
+  ? new URL(import.meta.env.BASE_URL, Astro.site).origin
+  : "";
+---
+
+<KioskLayout>
+  <KioskApp buildOrigin={buildOrigin} base={import.meta.env.BASE_URL} client:load />
+</KioskLayout>

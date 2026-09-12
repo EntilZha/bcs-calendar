@@ -15,6 +15,7 @@ import {
   linkify,
   parseDayKey,
   timeLabel,
+  titleFlagOf,
   todayKey,
 } from "./eventUI";
 import {
@@ -162,7 +163,7 @@ function EventCard({
   const [open, setOpen] = useState(false);
   const facetIds = facetIdsForEvent(ev);
   const img = eventImage(ev);
-  const cancelled = ev.status === "CANCELLED" || /cancelled/i.test(ev.title);
+  const flag = titleFlagOf(ev);
 
   const preview =
     ev.description.length > 220 && !open
@@ -198,9 +199,15 @@ function EventCard({
       <div className="min-w-0 flex-1 pr-8 sm:pr-24">
           <p className="text-sm font-medium text-leaf">{timeLabel(ev)}</p>
           <h3 className="font-semibold leading-snug text-brand">
-            {cancelled && (
-              <span className="mr-1 rounded bg-red-100 px-1.5 py-0.5 text-xs font-bold text-red-700 align-middle">
-                Cancelled
+            {flag && (
+              <span
+                className={`mr-1 rounded px-1.5 py-0.5 text-xs font-bold align-middle ${
+                  flag === "cancelled"
+                    ? "bg-red-100 text-red-700"
+                    : "bg-amber-100 text-amber-800"
+                }`}
+              >
+                {flag === "cancelled" ? "Cancelled" : "Rescheduled"}
               </span>
             )}
             <a

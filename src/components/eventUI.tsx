@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { FACET_BY_ID, facetIdsForEvent } from "../config/categories";
 import { toggleBookmark, useIsBookmarked } from "../lib/bookmarks";
+import { SEATTLE_TZ } from "../lib/eventTime";
 
 export interface CalEvent {
   id: string;
@@ -21,6 +22,13 @@ export interface CalEvent {
   registration: { label: string; url: string } | null;
   image: string | null;
   imageUrl: string | null;
+  // Derived by the crawler from the description prose. Optional so that a
+  // checkout with an older events.json still typechecks.
+  registrationUrl?: string | null;
+  /** Tri-state: null means the feed says nothing either way. */
+  registrationRequired?: boolean | null;
+  /** "cancelled" | "rescheduled", parsed from a "**...**" title prefix. */
+  titleFlag?: string | null;
 }
 
 // Bundle the downloaded featured images through Vite so they get hashed,
@@ -44,7 +52,10 @@ export function eventImage(ev: CalEvent): string | null {
 // matches the organization regardless of the viewer's zone.
 // ---------------------------------------------------------------------------
 
-export const SEATTLE_TZ = "America/Los_Angeles";
+// Defined in lib/eventTime so the pure time helpers don't have to depend on
+// this module (which runs Vite's import.meta.glob at load time). Re-exported
+// here because this is where callers have always imported it from.
+export { SEATTLE_TZ };
 
 export function todayKey(): string {
   return new Intl.DateTimeFormat("en-CA", {
@@ -94,8 +105,28 @@ export function timeLabel(ev: CalEvent): string {
   return start;
 }
 
+// Organizers mark a changed event by wrapping a word in asterisks at the front
+// of the title, e.g. "**Rescheduled** Neighborhood Bird Outing: ...". Strip it
+// from the display title and surface it as a badge instead — left in place it
+// renders as literal asterisks, which is especially glaring in kiosk type.
+const TITLE_FLAG_RE = /\*+\s*(cancel(?:led|ed)|rescheduled)\s*\*+/i;
+
 export function cleanTitle(title: string): string {
-  return title.replace(/\*+\s*cancelled\s*\*+/i, "").trim();
+  return title.replace(TITLE_FLAG_RE, "").trim();
+}
+
+export type TitleFlag = "cancelled" | "rescheduled" | null;
+
+/** Prefers the crawler's derived `titleFlag`, falling back to the raw title so
+ *  this keeps working against an older events.json. */
+export function titleFlagOf(ev: CalEvent): TitleFlag {
+  if (ev.titleFlag === "cancelled" || ev.titleFlag === "rescheduled") {
+    return ev.titleFlag;
+  }
+  if (ev.status.toUpperCase() === "CANCELLED") return "cancelled";
+  const match = TITLE_FLAG_RE.exec(ev.title);
+  if (!match) return null;
+  return match[1].toLowerCase().startsWith("cancel") ? "cancelled" : "rescheduled";
 }
 
 // Root-relative path to an event's own page (for use in href).
@@ -107,6 +138,16 @@ export function eventPagePath(id: string): string {
 // live origin when running in the browser. Used for shareable "Copy Link".
 export function eventPageUrl(id: string): string {
   const origin = typeof window !== "undefined" ? window.location.origin : "";
+  return `${origin}${eventPagePath(id)}`;
+}
+
+/** Absolute URL guaranteed to carry an origin, for encoding into a QR code
+ *  (a relative path would be unscannable). Prefers the live origin so a QR
+ *  works from localhost, Netlify, or Pages alike; `fallbackOrigin` covers the
+ *  build-time case where `window` does not exist. */
+export function canonicalEventUrl(id: string, fallbackOrigin = ""): string {
+  const origin =
+    typeof window !== "undefined" ? window.location.origin : fallbackOrigin;
   return `${origin}${eventPagePath(id)}`;
 }
 

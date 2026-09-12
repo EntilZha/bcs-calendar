@@ -19,11 +19,19 @@ export interface Facet {
   dot: string;
 }
 
-/** The fields a custom rule can match against (a subset of an event). */
+/** The fields a custom rule can match against (a subset of an event).
+ *
+ * `location` and the registration fields are optional so that every existing
+ * caller — all of which pass a full `CalEvent` — keeps compiling, while rules
+ * that need a venue or a registration signal can still ask for one.
+ */
 export interface TaggableEvent {
   categories: string[];
   title: string;
   description: string;
+  location?: string;
+  /** Tri-state, derived by the crawler: null means the feed is silent. */
+  registrationRequired?: boolean | null;
 }
 
 // ---------------------------------------------------------------------------
@@ -123,6 +131,88 @@ export const TAG_FACETS: TagFacet[] = [
   },
 ];
 
+/** Case-insensitive keyword test over an event's title + description. */
+function mentions(ev: TaggableEvent, keyword: string): boolean {
+  return new RegExp(keyword, "i").test(`${ev.title} ${ev.description}`);
+}
+
+// ---------------------------------------------------------------------------
+// Event kind predicates
+//
+// These answer "what sort of thing is this?" independently of the chip UI, so
+// both the calendar's facets and the in-store display can share one definition.
+// They exist because Tockify's tags alone are not trustworthy enough — see the
+// individual notes.
+// ---------------------------------------------------------------------------
+
+/** Title-anchored, and tolerant of a "**Rescheduled**" prefix and the
+ *  "Children's" variant. Needed because 6 Neighborhood Bird Outings are missing
+ *  the `Drop-in` tag in the feed even though they are drop-in walks. */
+const NBO_TITLE_RE =
+  /^\s*(?:\*+[^*]*\*+\s*)?(?:children'?s\s+)?neighborhood\s+bird\s+outing\b/i;
+
+export function isNeighborhoodOuting(ev: TaggableEvent): boolean {
+  return NBO_TITLE_RE.test(ev.title);
+}
+
+export function isDropIn(ev: TaggableEvent): boolean {
+  return ev.categories.includes("Drop-in") || isNeighborhoodOuting(ev);
+}
+
+export function isFieldTrip(ev: TaggableEvent): boolean {
+  return ev.categories.includes("Field-Trips");
+}
+
+/** Online-ness only ever appears in the title, never in the tags. Test for
+ *  "in-person" FIRST: "In-Person Class: Mobile Sketching..." would otherwise
+ *  fall through to a title that happens to mention online sessions. */
+export function isOnline(ev: TaggableEvent): boolean {
+  if (/\bin-?person\b/i.test(ev.title)) return false;
+  if (ev.categories.includes("Bird-University")) return true;
+  return /\bonline\b/i.test(ev.title);
+}
+
+/** At 616 Olive Wy. Tag-first, because several headquarters events ship with an
+ *  empty `location`. */
+export function isInStore(ev: TaggableEvent): boolean {
+  return (
+    ev.categories.includes("HQ") ||
+    ev.categories.includes("at-BCS-Headquarters") ||
+    /616\s+Olive/i.test(ev.location ?? "")
+  );
+}
+
+/** The NextGen council runs events aimed at young adults (one title scopes it
+ *  as "<40"). Emphatically NOT a children's programme — these are often held in
+ *  taprooms — so it must never be folded in with Kids & Teens. */
+export function isNextGen(ev: TaggableEvent): boolean {
+  return ev.categories.includes("NextGen") || mentions(ev, "NextGen");
+}
+
+/** Registration exists only to cap how many people fit in the room — anyone is
+ *  welcome to sign up (Wingspan game nights, Community Speaker Series). A class
+ *  is excluded: those are taught courses with a roster, not an open room. */
+export function isRegisteredButOpen(ev: TaggableEvent): boolean {
+  if (ev.registrationRequired !== true) return false;
+  return !ev.categories.includes("Classes") && !isFieldTrip(ev);
+}
+
+/**
+ * The in-store display's default: something a visitor standing in the shop
+ * today could actually turn up to.
+ *
+ * Excluded rather than merely deprioritized: field trips (pre-paid, carpooled,
+ * routinely at capacity), anything online, ticketed third-party `Partner`
+ * events, and members-only events. All of them stay one tap away behind the
+ * "Everything" filter — this is a default, not a restriction.
+ */
+export function isWalkIn(ev: TaggableEvent): boolean {
+  if (isFieldTrip(ev) || isOnline(ev)) return false;
+  if (ev.categories.includes("Partner")) return false;
+  if (ev.categories.includes("Member-Event")) return false;
+  return isDropIn(ev) || isRegisteredButOpen(ev);
+}
+
 // ---------------------------------------------------------------------------
 // 2. Manually-defined custom facets — add your own here
 // ---------------------------------------------------------------------------
@@ -132,22 +222,27 @@ interface CustomFacet extends Facet {
   match: (ev: TaggableEvent) => boolean;
 }
 
-/** Case-insensitive keyword test over an event's title + description. */
-function mentions(ev: TaggableEvent, keyword: string): boolean {
-  return new RegExp(keyword, "i").test(`${ev.title} ${ev.description}`);
-}
-
 export const CUSTOM_FACETS: CustomFacet[] = [
   {
     id: "neighborhood-walks",
     label: "Neighborhood Walks",
     chip: "bg-yellow-100 text-yellow-900 ring-yellow-300",
     dot: "bg-yellow-500",
-    // Neighborhood walks are tagged in Tockify as both a Bird Outing and a
-    // Drop-in event.
+    // Usually tagged in Tockify as both a Bird Outing and a Drop-in event, but
+    // 6 of them are missing the Drop-in tag, so trust the title as well.
     match: (ev) =>
-      ev.categories.includes("Bird-Outing") &&
-      ev.categories.includes("Drop-in"),
+      isNeighborhoodOuting(ev) ||
+      (ev.categories.includes("Bird-Outing") &&
+        ev.categories.includes("Drop-in")),
+  },
+  {
+    id: "in-store",
+    label: "At the Store",
+    chip: "bg-stone-200 text-stone-900 ring-stone-400",
+    dot: "bg-stone-600",
+    // The HQ / at-BCS-Headquarters tags map to no facet otherwise, so there was
+    // previously no way to filter down to "things happening at 616 Olive".
+    match: isInStore,
   },
   {
     id: "nextgen",
@@ -155,7 +250,7 @@ export const CUSTOM_FACETS: CustomFacet[] = [
     chip: "bg-blue-100 text-blue-900 ring-blue-300",
     dot: "bg-blue-500",
     // The NextGen category, or any event that mentions "NextGen".
-    match: (ev) => ev.categories.includes("NextGen") || mentions(ev, "NextGen"),
+    match: isNextGen,
   },
 ];
 
@@ -186,3 +281,47 @@ export function facetIdsForEvent(ev: TaggableEvent): string[] {
 export const FACET_BY_ID: Record<string, Facet> = Object.fromEntries(
   FACETS.map((f) => [f.id, f]),
 );
+
+// ---------------------------------------------------------------------------
+// In-store display filters
+//
+// A separate, shorter list from FACETS: these are single-select and sized for a
+// wall screen, so the vocabulary has to be blunt and the labels short. "Walk In"
+// is the default and "Everything" is the escape hatch to the full calendar.
+// ---------------------------------------------------------------------------
+
+export interface KioskFilter {
+  id: string;
+  /** Keep these to one or two words — they render as 64px-tall pills. */
+  label: string;
+  match: (ev: TaggableEvent) => boolean;
+}
+
+export const KIOSK_FILTERS: KioskFilter[] = [
+  { id: "walkin", label: "Walk In", match: isWalkIn },
+  { id: "instore", label: "At the Store", match: isInStore },
+  {
+    id: "outings",
+    label: "Bird Outings",
+    match: (ev) => ev.categories.includes("Bird-Outing"),
+  },
+  {
+    id: "youth",
+    label: "Kids & Teens",
+    // Children and Youth only. NextGen is a young-adult programme and gets its
+    // own filter below — a visitor looking for something to bring a child to
+    // must not be shown a game night in a brewery.
+    match: (ev) =>
+      ["Children", "Youth"].some((t) => ev.categories.includes(t)),
+  },
+  { id: "nextgen", label: "Young Adults", match: isNextGen },
+  {
+    id: "classes",
+    label: "Classes",
+    match: (ev) => ev.categories.includes("Classes"),
+  },
+  { id: "trips", label: "Field Trips", match: isFieldTrip },
+  { id: "all", label: "Everything", match: () => true },
+];
+
+export const DEFAULT_KIOSK_FILTER_ID = "walkin";

@@ -15,6 +15,10 @@ const {
 // BASE_URL is "/" locally and "/bcs-calendar/" on GitHub Pages; prefix public
 // assets and internal links so they resolve under the project-site base path.
 const base = import.meta.env.BASE_URL;
+
+// Active state for the page links. Static routes know their own path at build
+// time, so this needs no client JS.
+const isToday = Astro.url.pathname.replace(/\/$/, "").endsWith("/today");
 ---
 
 <!doctype html>
@@ -48,13 +52,31 @@ const base = import.meta.env.BASE_URL;
             <span class="block text-sage text-xs sm:text-sm">Events Calendar</span>
           </div>
         </a>
-        <a
-          href="https://birdsconnectsea.org/calendar/"
-          target="_blank"
-          rel="noopener"
-          class="hidden sm:inline-block text-xs text-sage hover:text-pop transition-colors"
-          >View on BCS Website &rarr;</a
-        >
+        <div class="flex items-center gap-3 shrink-0">
+          {/* Plain link, deliberately outside the NavShortcuts island: that
+              component's shortcuts are filters, and mixing a page navigation
+              into its union would put routing logic inside a filter control. */}
+          <a
+            href={`${base}today/`}
+            aria-current={isToday ? "page" : undefined}
+            class:list={[
+              "rounded-full px-3 py-1 text-xs font-semibold transition",
+              isToday
+                ? "bg-pop text-brand"
+                : "bg-white/10 text-sage hover:bg-white/20 hover:text-white",
+            ]}>Upcoming Events</a
+          >
+          <!-- Not hidden on small screens: these pages are the destination of
+               the in-store QR codes, so a phone is the most likely viewport and
+               the one that most needs a way through to the main site. -->
+          <a
+            href="https://birdsconnectsea.org/"
+            target="_blank"
+            rel="noopener"
+            class="text-xs text-sage hover:text-pop transition-colors"
+            >BCS Website &rarr;</a
+          >
+        </div>
       </div>
       <nav class="mx-auto max-w-6xl px-4 pb-2">
         <NavShortcuts client:load />

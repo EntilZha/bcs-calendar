@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -118,6 +119,66 @@ def get_promotion(comp) -> dict | None:
     return {"label": label, "url": url}
 
 
+# ---------------------------------------------------------------------------
+# Derived registration / status signals
+#
+# Tockify's structured promotion button is set on only a handful of events, so
+# the real registration signal lives in the description prose. These two facts
+# are stable across the feed and never co-occur, which gives a clean tri-state:
+#
+#   * a link into BCS's own registration system  -> registration required
+#   * an explicit "no pre-registration required" -> registration not required
+#   * neither                                    -> unknown
+#
+# Only secure.birdsconnectsea.org counts. Third-party ticket links (e.g. the
+# Puget Sound Express cruise) are sales pages for someone else's paid trip, not
+# BCS registrations, and must not be mistaken for one.
+# ---------------------------------------------------------------------------
+
+BCS_REG_URL_RE = re.compile(
+    r"https?://secure\.birdsconnectsea\.org/a/[A-Za-z0-9_\-]+"
+)
+NO_REG_RE = re.compile(
+    r"no\s+pre-?\s?registration(?:\s+is)?\s+required"
+    r"|registration\s+is\s+not\s+required"
+    r"|no\s+registration\s+(?:is\s+)?required",
+    re.I,
+)
+# Organizers flag changes by wrapping a marker in asterisks at the front of the
+# title, e.g. "**Rescheduled** Neighborhood Bird Outing: ...". STATUS is never
+# set in this feed, so this is the only signal that an event has changed.
+TITLE_FLAG_RE = re.compile(r"^\s*\*+\s*(cancel(?:led|ed)|rescheduled)\s*\*+", re.I)
+
+
+def derive_registration(
+    description: str, promotion: dict | None
+) -> tuple[str | None, bool | None]:
+    """Return (registration_url, registration_required).
+
+    `registration_required` is deliberately tri-state: None means the feed says
+    nothing either way, which is different from a confident False.
+    """
+    match = BCS_REG_URL_RE.search(description or "")
+    if match:
+        return match.group(0), True
+    if promotion:
+        # A third-party ticket link. It tells us where to buy, but nothing
+        # reliable about whether BCS wants a registration.
+        return promotion["url"], None
+    if NO_REG_RE.search(description or ""):
+        return None, False
+    return None, None
+
+
+def derive_title_flag(title: str) -> str | None:
+    """"cancelled" / "rescheduled" parsed from a "**...**" title prefix."""
+    match = TITLE_FLAG_RE.match(title or "")
+    if not match:
+        return None
+    flag = match.group(1).lower()
+    return "cancelled" if flag.startswith("cancel") else "rescheduled"
+
+
 def normalize_dt(value) -> tuple[str, str, bool]:
     """Return (iso, date_str, all_day) for a DTSTART/DTEND value.
 
@@ -159,6 +220,15 @@ def parse_event(comp) -> dict | None:
 
     image_url = str(comp.get("X-TKF-FEATURED-IMAGE") or "").strip() or None
 
+    description = str(comp.get("DESCRIPTION") or "").strip()
+    promotion = get_promotion(comp)
+    reg_url, reg_required = derive_registration(description, promotion)
+    # Surface a derived link through the existing `registration` field too, so
+    # the calendar's Register button works on every registerable event rather
+    # than only the few Tockify happens to tag.
+    if promotion is None and reg_url:
+        promotion = {"label": "Register", "url": reg_url}
+
     return {
         "id": eid,
         "uid": uid,
@@ -169,12 +239,15 @@ def parse_event(comp) -> dict | None:
         "endDate": end_date or start_date,
         "allDay": all_day,
         "multiDay": bool(end_date and end_date != start_date),
-        "description": str(comp.get("DESCRIPTION") or "").strip(),
+        "description": description,
         "location": str(comp.get("LOCATION") or "").strip(),
         "detailUrl": str(comp.get("URL") or "").strip(),
         "status": str(comp.get("STATUS") or "").strip(),
         "categories": get_categories(comp),
-        "registration": get_promotion(comp),
+        "registration": promotion,
+        "registrationUrl": reg_url,
+        "registrationRequired": reg_required,
+        "titleFlag": derive_title_flag(summary),
         "imageUrl": image_url,   # remote source; replaced with local path below
         "image": None,           # local bundled path (set by download_images)
     }
@@ -261,6 +334,15 @@ def main() -> None:
         "crawledAt": datetime.now(SEATTLE).isoformat(),
         "eventCount": len(events),
         "rawCategories": all_categories,
+        "registrationRequiredCount": sum(
+            1 for ev in events if ev["registrationRequired"] is True
+        ),
+        "noRegistrationCount": sum(
+            1 for ev in events if ev["registrationRequired"] is False
+        ),
+        "unknownRegistrationCount": sum(
+            1 for ev in events if ev["registrationRequired"] is None
+        ),
     }
     (DATA_DIR / "meta.json").write_text(
         json.dumps(meta, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
