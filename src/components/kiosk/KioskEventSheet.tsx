@@ -10,6 +10,7 @@ import {
 } from "../eventUI";
 import { QrCode } from "./QrCode";
 import { venueLabel } from "./KioskEventCard";
+import { isAtCapacity } from "../../config/categories";
 import { dayHeading } from "../eventUI";
 
 /**
@@ -89,12 +90,17 @@ export function KioskEventSheet({
                   Rescheduled — check the date
                 </span>
               )}
-              {ev.registrationRequired === false && (
+              {isAtCapacity(ev) && (
+                <span className="rounded-full bg-amber-100 px-4 py-1.5 font-bold text-amber-900 2xl:text-k-meta">
+                  This one is full — you can join the waitlist
+                </span>
+              )}
+              {!isAtCapacity(ev) && ev.registrationRequired === false && (
                 <span className="rounded-full bg-white px-4 py-1.5 font-bold text-brand ring-1 ring-brand/30 2xl:text-k-meta">
                   No sign-up needed — just turn up
                 </span>
               )}
-              {ev.registrationRequired === true && (
+              {!isAtCapacity(ev) && ev.registrationRequired === true && (
                 <span className="rounded-full bg-brand px-4 py-1.5 font-bold text-white 2xl:text-k-meta">
                   Sign up to save a spot
                 </span>

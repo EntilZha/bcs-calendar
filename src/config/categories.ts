@@ -189,28 +189,61 @@ export function isNextGen(ev: TaggableEvent): boolean {
   return ev.categories.includes("NextGen") || mentions(ev, "NextGen");
 }
 
-/** Registration exists only to cap how many people fit in the room — anyone is
- *  welcome to sign up (Wingspan game nights, Community Speaker Series). A class
- *  is excluded: those are taught courses with a roster, not an open room. */
-export function isRegisteredButOpen(ev: TaggableEvent): boolean {
-  if (ev.registrationRequired !== true) return false;
-  return !ev.categories.includes("Classes") && !isFieldTrip(ev);
+/** Run with someone else — a brewery, a charter boat, another non-profit.
+ *  Still worth telling a visitor about; just not a BCS-run event. */
+export function isPartner(ev: TaggableEvent): boolean {
+  return ev.categories.includes("Partner");
 }
 
 /**
- * The in-store display's default: something a visitor standing in the shop
- * today could actually turn up to.
+ * Already full, so pointing a visitor at it would waste their time.
  *
- * Excluded rather than merely deprioritized: field trips (pre-paid, carpooled,
- * routinely at capacity), anything online, ticketed third-party `Partner`
- * events, and members-only events. All of them stay one tap away behind the
- * "Everything" filter — this is a default, not a restriction.
+ * Matches only an actual statement of fact ("This trip is at capacity"), never
+ * the conditional boilerplate — the Wingspan nights say "if the event is full,
+ * please signup for the waitlist", which is a contingency, not a closure.
+ * Likewise a bare mention of "waitlist" means nothing on its own.
  */
-export function isWalkIn(ev: TaggableEvent): boolean {
-  if (isFieldTrip(ev) || isOnline(ev)) return false;
-  if (ev.categories.includes("Partner")) return false;
-  if (ev.categories.includes("Member-Event")) return false;
-  return isDropIn(ev) || isRegisteredButOpen(ev);
+const AT_CAPACITY_RE = /\bat capacity\b/i;
+
+export function isAtCapacity(ev: TaggableEvent): boolean {
+  return AT_CAPACITY_RE.test(ev.description ?? "");
+}
+
+/**
+ * A taught course you enrol in, not an event you attend.
+ *
+ * Three of the four `Classes` series run across several dates (Bird by Ear over
+ * three evenings, Shorebirds over four), so each row is one session of a course
+ * someone signed up for weeks ago. Turning up to session two is not a thing a
+ * visitor can do. Contrast the Lunch and Learn, which also repeats 19 times but
+ * where every instance stands alone — that is why this keys on the tag rather
+ * than on whether the series repeats.
+ */
+export function isCourse(ev: TaggableEvent): boolean {
+  return ev.categories.includes("Classes");
+}
+
+export function isMembersOnly(ev: TaggableEvent): boolean {
+  return ev.categories.includes("Member-Event");
+}
+
+/**
+ * The in-store display's default: anything a visitor could still get to.
+ *
+ * Framed as exclusions rather than as a list of blessed categories, because the
+ * question a visitor is really asking is "can I go to this?", not "what type of
+ * event is this?". A field trip with places left is a perfectly good answer to
+ * give someone at the counter; the same trip once it is full is not.
+ *
+ * Out: anything already at capacity, multi-session courses, anything online
+ * (you do not attend it from the shop), and members-only events. Everything
+ * else — including partner events and field trips with room — is in. All of it
+ * stays one tap away under "Everything"; this is a default, not a restriction.
+ */
+export function isJoinable(ev: TaggableEvent): boolean {
+  return (
+    !isAtCapacity(ev) && !isCourse(ev) && !isOnline(ev) && !isMembersOnly(ev)
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -298,7 +331,7 @@ export interface KioskFilter {
 }
 
 export const KIOSK_FILTERS: KioskFilter[] = [
-  { id: "walkin", label: "Walk In", match: isWalkIn },
+  { id: "open", label: "Still Open", match: isJoinable },
   { id: "instore", label: "At the Store", match: isInStore },
   {
     id: "outings",
@@ -321,7 +354,8 @@ export const KIOSK_FILTERS: KioskFilter[] = [
     match: (ev) => ev.categories.includes("Classes"),
   },
   { id: "trips", label: "Field Trips", match: isFieldTrip },
+  { id: "partner", label: "With Partners", match: isPartner },
   { id: "all", label: "Everything", match: () => true },
 ];
 
-export const DEFAULT_KIOSK_FILTER_ID = "walkin";
+export const DEFAULT_KIOSK_FILTER_ID = "open";

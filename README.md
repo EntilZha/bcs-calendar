@@ -77,13 +77,25 @@ see what they could walk into today without asking at the counter. Large type
 readable from a couple of metres, touch-sized controls, and a QR code on each
 event so a visitor can carry it to their phone.
 
-- **Defaults to what a visitor can actually attend.** `isWalkIn` in
-  `src/config/categories.ts` selects drop-ins, Neighborhood Bird Outings and
-  in-store programs, plus events that take registration only to cap room size
-  (Wingspan game nights, Community Speaker Series). It excludes field trips,
-  online classes, ticketed partner events and members-only events. Everything
-  stays reachable — tap **Everything**. To change where that line falls, edit
-  `isWalkIn`; it is the one function that decides.
+- **Defaults to what a visitor can actually get to.** `isJoinable` in
+  `src/config/categories.ts` is framed as exclusions, because the question a
+  visitor is really asking is "can I go to this?", not "what type of event is
+  this?". Out: anything already **at capacity**, multi-session **courses**,
+  anything **online**, and **members-only** events. Everything else is in —
+  including partner events and field trips that still have room. 84 of 101
+  events at the time of writing. To move that line, edit `isJoinable`; it is the
+  one function that decides.
+  - "At capacity" matches only a statement of fact (*"This trip is at
+    capacity"*), never the conditional boilerplate — the Wingspan nights say
+    *"if the event is full, please signup for the waitlist"*, and a bare mention
+    of "waitlist" means nothing on its own.
+  - A course is the `Classes` tag. Three of the four series run over several
+    dates, so each row is one session of something enrolled in weeks ago.
+    Contrast the Lunch and Learn, which also repeats 19 times but where every
+    instance stands alone — hence keying on the tag, not on whether it repeats.
+  - Full events are not merely hidden: under **Field Trips** or **Everything**
+    they carry a "Full — waitlist only" badge, so nobody plans around a trip
+    they cannot get on.
 - **Kids & Teens and Young Adults are separate filters.** `Children`/`Youth` are
   actual children's programmes; `NextGen` is the young-adult council, whose events
   are often in taprooms. Conflating them would send a parent looking for a

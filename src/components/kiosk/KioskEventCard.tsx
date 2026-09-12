@@ -6,7 +6,7 @@ import {
   titleFlagOf,
 } from "../eventUI";
 import { isHappeningNow, startsSoon } from "../../lib/eventTime";
-import { isInStore } from "../../config/categories";
+import { isAtCapacity, isInStore } from "../../config/categories";
 
 /** Twenty-nine events share one very long headquarters location string whose
  *  street address is no use to somebody already standing in the shop. Everything
@@ -94,11 +94,20 @@ export function KioskEventCard({
           {flag === "rescheduled" && <Badge tone="warn">Rescheduled</Badge>}
           {live && <Badge tone="now">Happening now</Badge>}
           {soon && <Badge tone="soon">Starting soon</Badge>}
-          {ev.registrationRequired === false && (
-            <Badge tone="free">Just turn up</Badge>
-          )}
-          {ev.registrationRequired === true && (
-            <Badge tone="rsvp">Sign up to save a spot</Badge>
+          {/* Hidden from the default view, but reachable under Field Trips or
+              Everything — so say plainly that it is full rather than letting
+              someone plan around a trip they cannot get on. */}
+          {isAtCapacity(ev) ? (
+            <Badge tone="warn">Full — waitlist only</Badge>
+          ) : (
+            <>
+              {ev.registrationRequired === false && (
+                <Badge tone="free">Just turn up</Badge>
+              )}
+              {ev.registrationRequired === true && (
+                <Badge tone="rsvp">Sign up to save a spot</Badge>
+              )}
+            </>
           )}
         </div>
       </div>
