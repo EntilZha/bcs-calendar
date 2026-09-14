@@ -1,59 +1,5 @@
 [
   {
-    "id": "b4375c51869c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1517/29777730/0/0",
-    "title": "Drop-In Social Hour - Learn How to Play Wingspan",
-    "start": "2026-08-13T16:30:00-07:00",
-    "end": "2026-08-13T17:30:00-07:00",
-    "startDate": "2026-08-13",
-    "endDate": "2026-08-13",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Stop by for some social time and a guided activity based around a rotating theme like art creation, conservation, or binoculars 101. Happens the second Thursday of every month. No RSVP required.\n\nThis month's theme: Board Games! We'll have several birdy game options to choose from, including the very popular Wingspan!",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1517/1786663800000",
-    "status": "",
-    "categories": [
-      "Events",
-      "Drop-in",
-      "HQ"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": null,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
-    "image": "/src/assets/events/b4375c51869c.jpg"
-  },
-  {
-    "id": "fdf80a81981b",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1855/29777880/0/0",
-    "title": "Online Class Series + Optional Field Trip: Shorebirds with David Droppers",
-    "start": "2026-08-13T19:00:00-07:00",
-    "end": "2026-08-13T20:30:00-07:00",
-    "startDate": "2026-08-13",
-    "endDate": "2026-08-13",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026\n\nShorebirds are not popular with beginning birders because they're so similar, so variable, and such a challenge. Shorebirds are popular with experts for the exact same reasons! So don't be intimidated by these fascinating, and frankly cute, group of birds that grace our shores (and other habitats) for brief periods of the year. We'll focus on identification, but more so, teach you tricks that willl make tackling shorebirds much less intimidating. A field trip to the coast during shorebird migration will help solidify what we learn in class. Move from beginner to expert so you can get excited about shorebird season!\n\nFIELD TRIP: We'll travel to the coast, seeking different habitats to find different shorebirds. Our main event will be Bottle Beach as the tide comes in, but we'll also visit marinas, rocky dikes, and other locations from Bottle Beach to Tokeland. There will be an announcement a couple of days before the trip outlining details, particularly forecast, but plan to bring a lunch and be out for most of the day. We'll meet at the Green Lake Park n Ride at 6:30 AM and carpool from there. Drivers should have a Discover Pass for parking at Bottle Beach.\n\nOnline Classes: Thursdays, August 13, 20, and 27 from 7-8:30pm\n\nField Trip: Saturday, August 29 to Westport (Bottle Beach, Grayland Beach, Tokeland)",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1855/1786672800000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/shorebirdsdroppers2026",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62ba2067d0e49e303cd9589f/scaled_1024.jpg",
-    "image": "/src/assets/events/fdf80a81981b.jpg"
-  },
-  {
     "id": "28bbd95c132e",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1865/29778720/0/0",
     "title": "Neighborhood Bird Outing: Green Lake",
