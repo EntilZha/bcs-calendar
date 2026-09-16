@@ -1,31 +1,5 @@
 [
   {
-    "id": "725a8ae2a219",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1833/29780190/0/0",
-    "title": "Children's Neighborhood Bird Outing: Seward Park",
-    "start": "2026-08-15T09:30:00-07:00",
-    "end": "2026-08-15T10:30:00-07:00",
-    "startDate": "2026-08-15",
-    "endDate": "2026-08-15",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1833/1786811400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Children"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5ccb6c5ddf82fe3306935d2a/scaled_1024.jpg",
-    "image": "/src/assets/events/725a8ae2a219.jpg"
-  },
-  {
     "id": "4dd2720640eb",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29786115/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1897,6 +1871,35 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/c739ea001261.jpg"
+  },
+  {
+    "id": "9ce0c0cdb8ae",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1918/29888730/0/0",
+    "title": "Author Talk: Maria Dolan and Kathryn True - Seattle Field Guide",
+    "start": "2026-10-29T18:30:00-07:00",
+    "end": "2026-10-29T20:00:00-07:00",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/dolan_true_seattlefieldguide\n\nDate/Time: Thursday, October 29, 6:30pm\n\nLocation: Birds Connect Seattle HQ - 616 Olive Way\n\nSpending time outside can boost your attention span, improve your health, and relieve stress. Join Kathryn True and Maria Dolan, naturalists, writers and authors of Seattle Field Guide: Explore Nature in the City, https://birdsconnectsea.myshopify.com/products/seattle-field-guide-explore-nature-in-the-city for a fun and informative presentation about how to connect with nature this fall and winter, without leaving the city. This engaging, accessible, and inspiring guide to 38 nature-filled outings across Seattle is perfect for all ages and experience levels. The authors will share stories and photos from their urban nature quests, and offer inspiration for how to search for the city’s elusive beavers, owls, salmon, mushrooms, and more. Whether you're an experienced naturalist or simply curious about the world outside your door, this event is for you.\n\nThe program will run for 1 hour with a 45 minute presentation and a 15 minute audience Q+A.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1918/1793323800000",
+    "status": "",
+    "categories": [
+      "at-BCS-Headquarters",
+      "Book",
+      "Retail"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/dolan_true_seattlefieldguide"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/dolan_true_seattlefieldguide",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa9bfabc21023da95968e30/scaled_1024.jpg",
+    "image": "/src/assets/events/9ce0c0cdb8ae.jpg"
   },
   {
     "id": "367b88b0aa99",
