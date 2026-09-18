@@ -1381,6 +1381,59 @@
     "image": "/src/assets/events/8dc92145c61e.jpg"
   },
   {
+    "id": "dca72fd986cb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1923/29850660/0/0",
+    "title": "Neighborhood Bird Outing: Lincoln Park",
+    "start": "2026-10-03T08:00:00-07:00",
+    "end": "2026-10-03T10:00:00-07:00",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Penny Bolton (she/her) and Jen Yu (she/her)\n\nMeeting Point: 9am North Parking lot sign board.\n\nBike Parking: bike racks in park\n\nTrip Accessibility: 1B. Mix of paved paths and dirt paths. Stairs and steep trail between the waterfront trail and woodland trail.\n\nLincoln Park in West Seattle is a premier birding hotspot with over 160 species reported, featuring a mix of forest, beach, and Sound habitats. Key sightings include nesting Barred Owls, Downy Woodpeckers, Bald Eagles, Ravens, and marine birds like various Grebes and Gulls. We will take our time listening and looking at birds and learn more about some of the native plants in the park. Our route will be about 1.8 miles and will cover the waterfront as well as the forest. Kids are welcome with an accompanying adult. The leader is happy to have questions from kids and adults! No dogs, please.",
+    "location": "Lincoln Park,8600 Fauntleroy Way SW, Seattle, WA 98136, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1923/1791039600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
+    "image": "/src/assets/events/dca72fd986cb.jpg"
+  },
+  {
+    "id": "12532c9bd143",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1921/29852160/0/0",
+    "title": "Neighborhood Bird Outing: Sammamish River Trail, Redmond",
+    "start": "2026-10-04T09:00:00-07:00",
+    "end": "2026-10-04T11:00:00-07:00",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\n\nLeaders: Kanupria Sanu (she/her) and Andy Huyng (he/him)\n\nMeeting Point: We will meet directly outside the front doors of the Redmond Library (15990 NE 85th St, Redmond), the entrance facing the parking lot. There is a small plaza area there where everyone can gather comfortably before we head across the street to connect to the trail.\n\n  * Trip Accessibility: 1A. Fully paved, flat, and level trail. Total distance will be roughly 1.5 to 2 miles walking at a very gentle, slow pace focused on mindful observation.\n  * Parking: Plenty of free parking is available in the Redmond Library parking lot, including ADA-accessible spots.\n  * Bathrooms: Restrooms are available inside the library during operating hours.\n\n\nJoin us for a Mindful Birding Walk along the Sammamish River Trail!\n\nSlow down, engage your senses, and connect with the local autumn environment on this gentle morning walk. Starting from the Redmond Library, we will quickly connect to the Sammamish River Trail, which offers a beautiful, open riparian habitat transitioning into its October foliage.\n\nThis walk is designed to be a mindful, slow-paced experience where we practice deep listening and observational awareness. The trail is completely paved and flat, making it highly accessible and a wonderful option for birders of all experience levels. Because this habitat blends river ecology with open brush and parkland, we will keep our eyes and ears open for resident and autumn-migrating species. We can expect to see or hear a variety of waterfowl and herons by the water, resident songbirds like song sparrows, black-capped chickadees, and cedar waxwings, as well as raptors hunting overhead as the seasonal shifts settle in.\n\nPlease bring binoculars if you have them, water, and comfortable walking shoes. No dogs, please, to help us keep a quiet and attentive presence for the birds.",
+    "location": "15990 NE 85th St, Redmond, WA 98052, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1921/1791129600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "NextGen",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17e44ddf82fe60aa87e2a7/scaled_1024.jpg",
+    "image": "/src/assets/events/12532c9bd143.jpg"
+  },
+  {
     "id": "572298946544",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29856675/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1542,6 +1595,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa48af1c21023da95619d5f/scaled_1024.jpg",
     "image": "/src/assets/events/d7089f4d1c31.jpg"
+  },
+  {
+    "id": "51615a2b76c1",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1919/29866530/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2026-10-14T08:30:00-07:00",
+    "end": "2026-10-14T10:30:00-07:00",
+    "startDate": "2026-10-14",
+    "endDate": "2026-10-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: no\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl. We will discuss the life cycles of these birds and critical importance of habitat in their survival. Bring any questions that you may have, I will do my best to answer them! all levels of experience welcome.",
+    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1919/1791991800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a17513fbf50ac3e011fac7f/scaled_1024.jpg",
+    "image": "/src/assets/events/51615a2b76c1.jpg"
   },
   {
     "id": "8d6ffe1df5dd",
@@ -2035,6 +2113,31 @@
     "image": "/src/assets/events/b53b123b5494.jpg"
   },
   {
+    "id": "56cf05aa308e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1920/29916990/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2026-11-18T08:30:00-08:00",
+    "end": "2026-11-18T10:30:00-08:00",
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-18",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: no\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl. We will discuss the life cycles of these birds and critical importance of habitat in their survival. Bring any questions that you may have, I will do my best to answer them! all levels of experience welcome.",
+    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1920/1795019400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a17513fbf50ac3e011fac7f/scaled_1024.jpg",
+    "image": "/src/assets/events/56cf05aa308e.jpg"
+  },
+  {
     "id": "85c68114e38c",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29917215/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -2088,6 +2191,33 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a3d5bf3a37c3d798897a2f3/scaled_896.jpg",
     "image": "/src/assets/events/d621c5c63779.jpg"
+  },
+  {
+    "id": "8c28671303eb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1922/29921340/0/0",
+    "title": "Neighborhood Bird Outing: Carkeek Park Scope and Sip (All ages welcome!)",
+    "start": "2026-11-21T09:00:00-08:00",
+    "end": "2026-11-21T11:00:00-08:00",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "allDay": false,
+    "multiDay": false,
+    "description": "This event is open to ALL AGES!\n\nNeighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) and Lindsey Johnson (she/her) NextGen Council members\n\nMeeting Point: Carkeek Park: the parking lot closest to the beach, next to the playground. 950 NW Carkeek Park Rd, Seattle, WA 98177\n\nBike Parking: Outdoor bike racks available, bring a lock\n\nTrip Accessibility: 0, A, flat pavement, optional grass area. No walking. We will be set up near the park benches right next to the ADA parking spots. This bird outing is designed to be intentionally inclusive and accessible for beginner and advanced birders. Strollers and wheelchairs are welcome. Feel free to bring chairs if you like. If you have any questions about the accessibility of the outing, please contact us.\n\nDescription: Join us at the bluff overlooking the beach at Carkeek Park where we will spend a relaxed morning with spotting scopes and coffees surveying the Puget Sound for sea and shore birds. This will be a laid-back morning so feel encouraged to stop in anytime between 9 and 11, bring snacks, beverages, and chairs. We will have scopes and binoculars available but please feel encouraged to bring your own binoculars as well. Restrooms are open at the park.\n\nTarget birds: Cormorants, Brant, Scoter, Murres, Bufflehead, Grebes, Loons, Mergansers, Goldeneye, Auklets, Bald Eagle, and more!",
+    "location": "Parking - Carkeek Park Beach,NW Carkeek Park Rd, Seattle, WA 98177, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1922/1795280400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
+    "image": "/src/assets/events/8c28671303eb.jpg"
   },
   {
     "id": "b5735f17fb4d",
