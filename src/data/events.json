@@ -1283,7 +1283,7 @@
     "endDate": "2026-10-15",
     "allDay": true,
     "multiDay": true,
-    "description": "Protect Washington's Raptors from Poison\n\nOwls, hawks, eagles, and other raptors are being poisoned by the rodents they eat and feed to their young. These deaths are preventable.\n\nYour gift today can help Birds Connect Seattle advocate for statewide restrictions on these deadly poisons, build a coalition of wildlife advocates, and educate our community about how to protect birds of prey.\n\nDonate https://secure.birdsconnectsea.org/dl0vxXGkHkmlzzSZw65O6A2 to protect our local raptors from secondary poisoning.",
+    "description": "Owls, hawks, eagles, and other raptors are being poisoned by the rodents they eat and feed to their young. These deaths are preventable.\n\nYour gift today can help Birds Connect Seattle advocate for statewide restrictions on these deadly poisons, build a coalition of wildlife advocates, and educate our community about how to protect birds of prey.\n\nDonate https://secure.birdsconnectsea.org/dl0vxXGkHkmlzzSZw65O6A2 to protect our local raptors from secondary poisoning.\n\nLearn https://birdsconnectsea.org/2026/09/30/protect-washingtons-raptors-from-poison/ more about the Seward Park owls and how you can help.\n\nGreat Horned Owls | Canva",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1917/1790838000000",
     "status": "",
@@ -1354,7 +1354,7 @@
   {
     "id": "12532c9bd143",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1921/29852160/0/0",
-    "title": "Neighborhood Bird Outing: Sammamish River Trail, Redmond",
+    "title": "Mindful Bird Outing: Sammamish River Trail, Redmond",
     "start": "2026-10-04T09:00:00-07:00",
     "end": "2026-10-04T11:00:00-07:00",
     "startDate": "2026-10-04",
@@ -1727,6 +1727,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa449edc21023da9502229d/scaled_768.jpg",
     "image": "/src/assets/events/cd2f7190de9f.jpg"
+  },
+  {
+    "id": "8088ae4f4527",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1924/29875800/0/0",
+    "title": "Beers for Birds at Flying Bike Cooperative Brewery (and bird costume contest!)",
+    "start": "2026-10-20T19:00:00-07:00",
+    "end": "2026-10-20T21:00:00-07:00",
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Join the Birds Connect Seattle NextGen Council for a special Beers for Birds trivia event at Flying Bike Cooperative Brewery!\n\nThis month, there will be an opportunity to earn extra points via a special bird costume contest. Come dressed in your best birdy outfits!\n\nThis event is all ages.",
+    "location": "Flying Bike Cooperative Brewery,8570 Greenwood Ave N, Seattle, WA 98103, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1924/1792548000000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/691b7e617442f61edee9c8bf/scaled_1024.png",
+    "image": "/src/assets/events/8088ae4f4527.png"
   },
   {
     "id": "c23a6807c157",
