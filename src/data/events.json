@@ -1,58 +1,5 @@
 [
   {
-    "id": "da6386e9ca0f",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1820/29790120/0/0",
-    "title": "Field Trip: August 22, 2026 Cedar River Mouth Scope and Sit",
-    "start": "2026-08-22T07:00:00-07:00",
-    "end": "2026-08-22T10:00:00-07:00",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "allDay": false,
-    "multiDay": false,
-    "description": "This trip is at capacity. Click here to https://secure.birdsconnectsea.org/a/cedarriveraug26 join the WAITLIST. https://secure.birdsconnectsea.org/a/cedarriveraug26\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth parking lot\n\nLimit: 10\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)\n\nJoin us at Cedar River Mouth in Renton, WA to appreciate the wonders of fall migration in the PNW! This will be a sit-and-scope style trip with very minimal walking, and will be heavily focused on gulls, shorebirds, and the often-complex ID challenges that they can pose. The list of possible species is long and includes shorebirds such as Western, Semipalmated, Baird's, Least, and Spotted Sandpipers, as well as Semipalmated Plovers, Killdeer, and Long-billed Dowitcher. Additionally, Glaucous-winged, Ring-billed, Short-billed, and California Gulls are all possible.\n\nParticipants are encouraged to bring their own spotting scopes, binoculars, and cameras if they have them, however leaders will also provide optics for participants to use as needed. Birders of all levels are welcome.",
-    "location": "1060 Nishiwaki Ln, Renton, WA 98057, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1820/1787407200000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/cedarriveraug26"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/cedarriveraug26",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/da6386e9ca0f.jpg"
-  },
-  {
-    "id": "7047a2877e6d",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1836/29790240/0/0",
-    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-08-22T09:00:00-07:00",
-    "end": "2026-08-22T11:00:00-07:00",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include wood duck, savannah sparrow, and osprey, possible birds include common yellowthroat, marsh wren, and Wilson's warbler.",
-    "location": "Union Bay Natural Area,3501 NE 41st St, Seattle, WA 98195, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1836/1787414400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
-    "image": "/src/assets/events/7047a2877e6d.jpg"
-  },
-  {
     "id": "703d2f7e4c26",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1813/29794920/0/0",
     "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
