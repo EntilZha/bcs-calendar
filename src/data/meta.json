@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-09-26T06:49:01.402196-07:00",
-  "eventCount": 142,
+  "crawledAt": "2026-09-27T07:47:41.844382-07:00",
+  "eventCount": 140,
   "rawCategories": [
     "Bird-Outing",
     "Bird-University",
@@ -31,6 +31,6 @@
     "at-BCS-Headquarters"
   ],
   "registrationRequiredCount": 32,
-  "noRegistrationCount": 91,
-  "unknownRegistrationCount": 19
+  "noRegistrationCount": 90,
+  "unknownRegistrationCount": 18
 }
