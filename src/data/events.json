@@ -1,33 +1,5 @@
 [
   {
-    "id": "5684ea60ec19",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1889/29810460/0/0",
-    "title": "Field Trip: BIPOC Bird, Historical Tour ID/Chinatown & Lunch",
-    "start": "2026-09-05T10:00:00-07:00",
-    "end": "2026-09-05T12:00:00-07:00",
-    "startDate": "2026-09-05",
-    "endDate": "2026-09-05",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Click here to register! https://secure.birdsconnectsea.org/a/bipocseptember2026\n\nLeaders: Ian Jan (he/him) and Gina Simmons (she/her)\n\nMeet:10 AM @ Wing Luke Museum (maps.app.goo.gl/e9iHPwsanYFPZVpNA) https://maps.app.goo.gl/e9iHPwsanYFPZVpNA)\n\nLimit: 10\n\nBike Parking: No\n\nTrip Accessibility: 1 (leisurely pace), A (solid pavement, sidewalk, mostly level), 1 mile walking\n\n\nJoin us for a BIPOC (Black, Indigenous, and People of Color)-centered birding outing & historical tour, led by the BCS NextGen Council from 10-11 AM on September 5th in Seattle’s International District/Chinatown. We’ll walk through the streets and alleys of the neighborhood, while stopping for a rest in the Danny Woo Community Garden. Afterward, we’ll grab lunch together at the famous Tai Tung restaurant between 11 AM-12 PM.\n\nWe encourage folks who identify as BIPOC and of any level of birding experience to RSVP for the event. We look forward to seeing y’all there!",
-    "location": "719 S King St, Seattle, WA 98104, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1889/1788627600000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/bipocseptember2026"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/bipocseptember2026",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67042b83205890162e63678f/scaled_1024.jpg",
-    "image": "/src/assets/events/5684ea60ec19.jpg"
-  },
-  {
     "id": "ad752ede8bbe",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1839/29811810/0/0",
     "title": "Neighborhood Bird Outing: Birds and Habitat – Along Arboretum Creek",
@@ -1134,6 +1106,32 @@
     "image": "/src/assets/events/fe423ff6612c.jpg"
   },
   {
+    "id": "1ff5c6bdea5d",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1930/29860830/0/0",
+    "title": "Children's Neighborhood Bird Outing: Seward Park--DATE CHANGE Saturday 10th from Sunday 11th",
+    "start": "2026-10-10T09:30:00-07:00",
+    "end": "2026-10-10T10:30:00-07:00",
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-10",
+    "allDay": false,
+    "multiDay": false,
+    "description": "*Note that this walk was originally scheduled for Sunday October 11th, but has been changed to Saturday October 10th.*\n\nNeighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
+    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1930/1791649800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Children"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
+    "image": "/src/assets/events/1ff5c6bdea5d.jpg"
+  },
+  {
     "id": "f8fce65cd5a7",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1896/29862180/0/0",
     "title": "Field Trip: Practice Birding by Ear in Westcrest Park",
@@ -1187,32 +1185,6 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa48af1c21023da95619d5f/scaled_1024.jpg",
     "image": "/src/assets/events/d7089f4d1c31.jpg"
-  },
-  {
-    "id": "5971954c7a0d",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1930/29862270/0/0",
-    "title": "Children's Neighborhood Bird Outing: Seward Park",
-    "start": "2026-10-11T09:30:00-07:00",
-    "end": "2026-10-11T10:30:00-07:00",
-    "startDate": "2026-10-11",
-    "endDate": "2026-10-11",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1930/1791736200000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Children"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
-    "image": "/src/assets/events/5971954c7a0d.jpg"
   },
   {
     "id": "51615a2b76c1",
@@ -1356,13 +1328,14 @@
     "endDate": "2026-10-17",
     "allDay": false,
     "multiDay": false,
-    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/bipocmarymooroct26\n\nLeaders: Ian Jan, Gina Simmons, Leon Wang and Anthony Pangelinan\n\nMeet:Meet: 9 AM @ Marymoor Parking Lot G (maps.app.goo.gl/areuryt6dYFi4Dx89) https://maps.app.goo.gl/areuryt6dYFi4Dx89)\n\nLimit: 30\n\nTrip Accessibility: 1 (leisurely pace), B (soft ground, sand, gravel, dirt roads), 1.5 miles walking\n\n\nJoin us for a BIPOC (Black, Indigenous, and People of Color)-centered bird outing, led by the NextGen Council (Ian, Gina, Leon, and Anthony) from 9:00AM-11:00AM on October 17th at Marymoor Park and subsequent picnic lunch from 11:00AM-12:00PM! Bring your own lunch and any snacks to share with others. We encourage folks who identify as BIPOC and of any level of birding experience to RSVP for the event. We look forward to seeing y'all there!",
+    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/bipocmarymooroct26\n\nLeaders: Ian Jan, Gina Simmons, Leon Wang and Anthony Pangelinan\n\nMeet:Meet: 9 AM @ Marymoor Parking Lot G (maps.app.goo.gl/areuryt6dYFi4Dx89) https://maps.app.goo.gl/areuryt6dYFi4Dx89)\n\nLimit: 30\n\nTrip Accessibility: 1 (leisurely pace), B (soft ground, sand, gravel, dirt roads), 1.5 miles walking\n\n\nJoin us for a BIPOC (Black, Indigenous, and People of Color)-centered bird outing, led by the NextGen Council (Ian, Gina, Leon, and Anthony) from 9:00AM-11:00AM on October 17th at Marymoor Park and subsequent picnic lunch from 11:00AM-12:00PM! Bring your own lunch and any snacks to share with others. We encourage folks who identify as BIPOC and of any level of birding experience to RSVP for the event. We look forward to seeing y'all there!\n\nThis event is hosted by the NextGen Council and is open to birders of all ages.",
     "location": "Marymoor Park, Parking Lot G",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1897/1792252800000",
     "status": "",
     "categories": [
       "Field-Trips",
-      "Birds-Connect-Seattle"
+      "Birds-Connect-Seattle",
+      "NextGen"
     ],
     "registration": {
       "label": "Register",
@@ -2011,33 +1984,6 @@
     "image": "/src/assets/events/b13056c66e6d.jpg"
   },
   {
-    "id": "cf53d21d791d",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1959/29901015/0/0",
-    "title": "Neighborhood Bird Outing: Sunrise Photography at Union Bay with NextGen",
-    "start": "2026-11-07T06:15:00-08:00",
-    "end": "2026-11-07T09:30:00-08:00",
-    "startDate": "2026-11-07",
-    "endDate": "2026-11-07",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: 'Pedro Rodriguez (he/him) and Anthony Pangelinan (he/him) NextGen Council Members\n\nMeeting Point: Center for Urban Horticulture, Parking lot E16, 6:15am.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nJoin NextGen Council Members Pedro and Anthony for sunrise birding and photography at Union Bay Natural Area. UBNA fall/winter sunrises can be spectacular, providing great opportunities for backlit and sidelite photography for returning waterfowl. Walk is open to all birders and photographers of any level from beginner to expert!\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl.\n\nWe will start the morning along the water before looping to the swallow nesting area then return through the parking lot to Yesler Swamp before wrapping up at the parking lot.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1959/1794060900000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "NextGen",
-      "Drop-in",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab58f2447d5d2eab157f2f7/scaled_1024.jpg",
-    "image": "/src/assets/events/cf53d21d791d.jpg"
-  },
-  {
     "id": "211be9ad70f6",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1973/29901210/0/0",
     "title": "Shrink Plastic Fridge Magnet Workshop",
@@ -2065,6 +2011,33 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ac3d5b797143642acee2c2d/scaled_1024.jpg",
     "image": "/src/assets/events/211be9ad70f6.jpg"
+  },
+  {
+    "id": "cf8fda270098",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1959/29902455/0/0",
+    "title": "Neighborhood Bird Outing: Sunrise Photography at Union Bay with NextGen",
+    "start": "2026-11-08T06:15:00-08:00",
+    "end": "2026-11-08T09:30:00-08:00",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: 'Pedro Rodriguez (he/him) and Anthony Pangelinan (he/him) NextGen Council Members\n\nMeeting Point: Center for Urban Horticulture, Parking lot E16, 6:15am.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nJoin NextGen Council Members Pedro and Anthony for sunrise birding and photography at Union Bay Natural Area. UBNA fall/winter sunrises can be spectacular, providing great opportunities for backlit and sidelite photography for returning waterfowl. Walk is open to all birders and photographers of any level from beginner to expert!\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl.\n\nWe will start the morning along the water before looping to the swallow nesting area then return through the parking lot to Yesler Swamp before wrapping up at the parking lot.",
+    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1959/1794147300000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "NextGen",
+      "Drop-in",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab58f2447d5d2eab157f2f7/scaled_1024.jpg",
+    "image": "/src/assets/events/cf8fda270098.jpg"
   },
   {
     "id": "8e27479e42af",
