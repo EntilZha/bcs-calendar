@@ -1,59 +1,5 @@
 [
   {
-    "id": "356007994a0f",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1867/29814690/0/0",
-    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-09-08T08:30:00-07:00",
-    "end": "2026-09-08T11:30:00-07:00",
-    "startDate": "2026-09-08",
-    "endDate": "2026-09-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cinny Burrell and David Selk\n\nMeeting Point: 8:30 AM Meet near the Center for Urban Horticulture, at the kiosk near the entrance to the natural area.\n\nBike Parking: Some bike parking.\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), distance ~2 miles walking\n\nWe will tour the Montlake Fill and adjoining waterways looking for resident songbirds and waterfowl as well as check out the fall migration. We will be walking gravel trails that may be muddy.\nBring binoculars, wear sturdy walking shoes, and dress in layers. Bring water/snacks if you wish.",
-    "location": "Union Bay Natural Area,3501 NE 41st St, Seattle, WA 98195, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1867/1788881400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bf9e9db5a6eb2d37b256b1/scaled_1024.jpg",
-    "image": "/src/assets/events/356007994a0f.jpg"
-  },
-  {
-    "id": "1397fe1444cd",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1736/29815290/0/0",
-    "title": "BIRD UNIVERSITY Online Class - Bird by Ear: Laying the Foundation for a Lifetime of Listening with Whitney Neufeld-Kaiser",
-    "start": "2026-09-08T18:30:00-07:00",
-    "end": "2026-09-08T20:30:00-07:00",
-    "startDate": "2026-09-08",
-    "endDate": "2026-09-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "REGISTER https://secure.birdsconnectsea.org/a/birdu_bbe2026\n\nOnline Classes: Tuesdays, September 1 and 8, from 6:30 - 8:30pm\n\nField Trip: Sunday, September 13, from 7-9:00 AM - location TBD\n\nBird by Ear: Laying the Foundation for a Lifetime of Listening\n\nIdentifying birds by their songs and calls can transform both your everyday life and your birding experience. It's also an integral part of Bird University. But how do you get started on this project, which may last your lifetime? This 2-part class will cover the foundations of active, analytical listening and introduce you to resources and techniques for learning how to identify birds by ear. The optional field trip will give you a chance to practice what you've learned.\n\nLearn more about instructor Whitney https://birdsconnectsea.org/wp-content/uploads/2025/02/Whitney-Neufeld-Kaiser.pdf",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1736/1788917400000",
-    "status": "",
-    "categories": [
-      "Classes",
-      "Birds-Connect-Seattle",
-      "Bird-University"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/birdu_bbe2026"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/birdu_bbe2026",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62be043fd0e49e303cda9540/scaled_1024.jpg",
-    "image": "/src/assets/events/1397fe1444cd.jpg"
-  },
-  {
     "id": "47ae69bc6a32",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29816355/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1871,7 +1817,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1974/1793932200000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/class-sing-your-heart-out-sister-2026"
@@ -2095,6 +2044,34 @@
     "image": "/src/assets/events/f0c2591ea2f1.jpg"
   },
   {
+    "id": "3a1a200e279c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1976/29908920/0/0",
+    "title": "Pelagic Birds with Mike Donahue",
+    "start": "2026-11-12T18:00:00-08:00",
+    "end": "2026-11-12T20:00:00-08:00",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Register https://secure.birdsconnectsea.org/a/pelagic-birds-2026\n\nPelagic means “of the open sea,” and the west coast of North America offers some of the best opportunities to see seabirds anywhere in the world. Westport, Washington, has offered pelagic field trips since the late 1960s. The rich waters 20-40 miles offshore support a diversity of birds —albatrosses, storm petrels, shearwaters, and jaegers—that spend much of the year in the waters far offshore at the edge of the continental shelf. If you've heard about pelagic birding and want to spend some time looking at those pages in your field guide you always skip over, this is the class for you. The class lectures will cover the diversity of seabirds and marine mammals found offshore, focusing on identification and natural history, plus tips for preparing for a pelagic trip. The instructor has been on more than 100 pelagic trips off the Washington coast!\n\nDates: Thursday, November 12 and 19, 2026, from 6:00 pm-8:00 pm over Zoom",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1976/1794535200000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Education"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/pelagic-birds-2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/pelagic-birds-2026",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ac968d2341549b5aef89268/scaled_512.jpg",
+    "image": "/src/assets/events/3a1a200e279c.jpg"
+  },
+  {
     "id": "c7f472de5d7b",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1946/29911260/0/0",
     "title": "Children's Neighborhood Bird Outing: Meadowbrook Pond Natural Area",
@@ -2276,6 +2253,34 @@
     "image": "/src/assets/events/0fbdeea4bfcc.jpg"
   },
   {
+    "id": "f51c597492d3",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1975/29916120/0/0",
+    "title": "Online Class: Getting Into Shape for Bird ID with John Rakestraw",
+    "start": "2026-11-17T18:00:00-08:00",
+    "end": "2026-11-17T20:00:00-08:00",
+    "startDate": "2026-11-17",
+    "endDate": "2026-11-17",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/shape2026\n\nBird plumage often contains intricate details of color and pattern. But if the lighting is bad or the bird is far away, those details can be impossible to see. That's when we rely on shape. Shape is one of the most reliable field marks, and many birds can be identified by their silhouette alone. In this class we will compare the shapes of similar species to see how shape can help us make confident identifications under challenging conditions.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1975/1794967200000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Education"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/shape2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/shape2026",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ac94e43341549b5aef22675/scaled_1024.jpg",
+    "image": "/src/assets/events/f51c597492d3.jpg"
+  },
+  {
     "id": "56cf05aa308e",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1920/29916990/0/0",
     "title": "Neighborhood Bird Outing: Union Bay Natural Area",
@@ -2326,6 +2331,34 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/85c68114e38c.jpg"
+  },
+  {
+    "id": "c1f2a3273ca6",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1976/29919000/0/0",
+    "title": "Pelagic Birds with Mike Donahue",
+    "start": "2026-11-19T18:00:00-08:00",
+    "end": "2026-11-19T20:00:00-08:00",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-19",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Register https://secure.birdsconnectsea.org/a/pelagic-birds-2026\n\nPelagic means “of the open sea,” and the west coast of North America offers some of the best opportunities to see seabirds anywhere in the world. Westport, Washington, has offered pelagic field trips since the late 1960s. The rich waters 20-40 miles offshore support a diversity of birds —albatrosses, storm petrels, shearwaters, and jaegers—that spend much of the year in the waters far offshore at the edge of the continental shelf. If you've heard about pelagic birding and want to spend some time looking at those pages in your field guide you always skip over, this is the class for you. The class lectures will cover the diversity of seabirds and marine mammals found offshore, focusing on identification and natural history, plus tips for preparing for a pelagic trip. The instructor has been on more than 100 pelagic trips off the Washington coast!\n\nDates: Thursday, November 12 and 19, 2026, from 6:00 pm-8:00 pm over Zoom",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1976/1795140000000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Education"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/pelagic-birds-2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/pelagic-birds-2026",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ac968d2341549b5aef89268/scaled_512.jpg",
+    "image": "/src/assets/events/c1f2a3273ca6.jpg"
   },
   {
     "id": "d621c5c63779",
@@ -3286,7 +3319,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1960/1801191600000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/sparrowsfinchesandotherlbjs-ohmy2027"
@@ -3311,7 +3347,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1960/1801796400000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/sparrowsfinchesandotherlbjs-ohmy2027"
@@ -3388,7 +3427,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1960/1802401200000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/sparrowsfinchesandotherlbjs-ohmy2027"
@@ -3413,7 +3455,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1960/1803006000000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/sparrowsfinchesandotherlbjs-ohmy2027"
@@ -3438,7 +3483,10 @@
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1960/1803610800000",
     "status": "",
-    "categories": [],
+    "categories": [
+      "Classes",
+      "Education"
+    ],
     "registration": {
       "label": "Register",
       "url": "https://secure.birdsconnectsea.org/a/sparrowsfinchesandotherlbjs-ohmy2027"
