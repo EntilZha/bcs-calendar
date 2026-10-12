@@ -1,31 +1,5 @@
 [
   {
-    "id": "ea33b7c1a361",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1787/29817600/0/0",
-    "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
-    "start": "2026-09-10T09:00:00-07:00",
-    "end": "2026-09-10T11:00:00-07:00",
-    "startDate": "2026-09-10",
-    "endDate": "2026-09-10",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1787/1789056000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/ea33b7c1a361.jpg"
-  },
-  {
     "id": "0bdb01762529",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1866/29819040/0/0",
     "title": "Neighborhood Bird Outing: Green Lake",
