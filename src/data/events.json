@@ -1,57 +1,5 @@
 [
   {
-    "id": "f2211dfac42e",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1902/29820630/0/0",
-    "title": "Free In-Store Program: Seagulls Aren’t Real - and other Shorebirds",
-    "start": "2026-09-12T11:30:00-07:00",
-    "end": "2026-09-12T12:00:00-07:00",
-    "startDate": "2026-09-12",
-    "endDate": "2026-09-12",
-    "allDay": false,
-    "multiDay": false,
-    "description": "There are over 50 different species of gulls worldwide, but none of them are named \"seagull\", and many live near inland lakes, fields, and city landfills rather than the sea.\n\nJoin us to learn about the gulls and other shorebirds of the Puget Sound region, adaptations that help these birds thrive, and why scientists track them as vital signs about the health of Puget Sound.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1902/1789237800000",
-    "status": "",
-    "categories": [
-      "at-BCS-Headquarters",
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/66a8110d117e3a71e7faff4b/scaled_640.jpg",
-    "image": "/src/assets/events/f2211dfac42e.jpg"
-  },
-  {
-    "id": "8ab0afbd2eeb",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1903/29820780/0/0",
-    "title": "Free In-Store Program: Pollinator Garden Study - Wildflowers and Hummingbirds",
-    "start": "2026-09-12T14:00:00-07:00",
-    "end": "2026-09-12T14:30:00-07:00",
-    "startDate": "2026-09-12",
-    "endDate": "2026-09-12",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Add wildlife-friendly plants to your space. Whether you have a balcony, backyard, or garden in a public right-of way, you can attract and support hummingbirds and other birds through your plant choices and garden maintenance techniques.\n\nJoin Naturalist Lilith Meng for this is a free drop-in event - no preregistration required. All are welcome.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1903/1789246800000",
-    "status": "",
-    "categories": [
-      "at-BCS-Headquarters",
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/63ffe90b57875e3c9c43e542/scaled_640.jpg",
-    "image": "/src/assets/events/8ab0afbd2eeb.jpg"
-  },
-  {
     "id": "58848f825aab",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1736/29821800/1/0",
     "title": "BIRD UNIVERSITY Online Class - Bird by Ear: Laying the Foundation for a Lifetime of Listening with Whitney Neufeld-Kaiser",
