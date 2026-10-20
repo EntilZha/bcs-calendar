@@ -1,31 +1,5 @@
 [
   {
-    "id": "e2d1fc68ecdc",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1882/29829090/0/0",
-    "title": "Neighborhood Bird Outing: Montlake/Portage Bay",
-    "start": "2026-09-18T08:30:00-07:00",
-    "end": "2026-09-18T10:00:00-07:00",
-    "startDate": "2026-09-18",
-    "endDate": "2026-09-18",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cynthia Putnam (she/her) & Kathy Kaplan (she/her)\n\nMeeting Point: Montlake Community Center, 1618 East Calhoun St. Street parking in residential neighborhood on East Calhoun St. or in community center parking lot. Metro Transit Buses 43, 48 and 49.\n\nBike Parking: Bike racks are available in the front of the community center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails), approx. 1 mile walking\n\nNo mask requirements\n\nThis walk encompasses Montlake Playfield Park and West Montlake Park, providing opportunities to explore birds from several vantage points. It is good for viewing waterfowl in Portage Bay as well as woodland birds in the neighborhood parks. A portion of the walk lends itself to finding birds by their sounds, so we hope to practice our birding by ear skills. Our route will cover no more than 2 miles and usually takes 2 hours, depending on what we see and hear. Dress for weather; bring binoculars, water & snacks. Over by 10:00am.",
-    "location": "1618 E Calhoun St, Seattle, WA 98112, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1882/1789745400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/e2d1fc68ecdc.jpg"
-  },
-  {
     "id": "8b1d80556d5c",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1901/29830440/0/0",
     "title": "Field Trip: September 19, 2026 Cedar River Mouth Scope and Sit",
@@ -1674,32 +1648,6 @@
     "image": "/src/assets/events/698012dc00b2.jpg"
   },
   {
-    "id": "2e4c211674e2",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1910/29907390/0/0",
-    "title": "Drop-In Social Hour",
-    "start": "2026-11-11T16:30:00-08:00",
-    "end": "2026-11-11T17:30:00-08:00",
-    "startDate": "2026-11-11",
-    "endDate": "2026-11-11",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Stop by for some social time and a guided activity based around a rotating bird theme and activity like sketching crafts, conservation advocacy, board games, and more. Happens the second Wednesday of every month. No RSVP required.",
-    "location": "",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1910/1794443400000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "HQ",
-      "at-BCS-Headquarters"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": null,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bd8be1b5a6eb2d377e034f/scaled_1024.jpg",
-    "image": "/src/assets/events/2e4c211674e2.jpg"
-  },
-  {
     "id": "f0c2591ea2f1",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1873/29908380/0/0",
     "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
@@ -2960,14 +2908,14 @@
   {
     "id": "92f23f1920ad",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1910/29998110/0/0",
-    "title": "Drop-In Social Hour",
+    "title": "Drop-In Social Hour: Wintery Waterfowl and Warmth",
     "start": "2027-01-13T16:30:00-08:00",
     "end": "2027-01-13T17:30:00-08:00",
     "startDate": "2027-01-13",
     "endDate": "2027-01-13",
     "allDay": false,
     "multiDay": false,
-    "description": "Stop by for some social time and a guided activity based around a rotating bird theme and activity like sketching crafts, conservation advocacy, board games, and more. Happens the second Wednesday of every month. No RSVP required.",
+    "description": "Stop by for some social time and a guided activity based around a rotating theme like art creation, conservation, or binoculars 101. Happens the second Thursday of every month. No RSVP required.\n\nThis month's theme - Wintery Waterfowl and Warmth! Ducks migrate to spend winters in the mild Seattle weather. Come learn about all the ducks that are hanging out in our ponds and lakes. We also encourage you to bring your current knitting, crocheting, or other fiber arts projects to work on. (We will also have some supplies on hand if you want to learn.)",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1910/1799886600000",
     "status": "",
