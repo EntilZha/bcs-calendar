@@ -1,111 +1,5 @@
 [
   {
-    "id": "8b1d80556d5c",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1901/29830440/0/0",
-    "title": "Field Trip: September 19, 2026 Cedar River Mouth Scope and Sit",
-    "start": "2026-09-19T07:00:00-07:00",
-    "end": "2026-09-19T10:00:00-07:00",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-19",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/cedarriversept19\n\nLeaders: Denning Gillespie (they/them)\n\nMeeting time and location: 7:00 AM at Cedar River Mouth parking lot. (Enter \"Renton Rowing Center\" into Google Maps--this is the approximate location folks will walk to. Meet in the parking lot just before this point.)\n\nLimit: 15\n\nTrip Accessibility: 0A (Essentially no walking on level pavement)\n\nJoin us at Cedar River Mouth in Renton, WA to appreciate the wonders of fall migration in the PNW! This will be a sit-and-scope style trip with very minimal walking, and will be heavily focused on gulls, shorebirds, and the often-complex ID challenges that they can pose. The list of possible species is long and includes shorebirds such as Western, Semipalmated, Baird's, Least, and Spotted Sandpipers, as well as Semipalmated Plovers, Killdeer, and Long-billed Dowitcher. Additionally, Glaucous-winged, Ring-billed, Short-billed, and California Gulls are all possible.\n\nParticipants are encouraged to bring their own spotting scopes, binoculars, and cameras if they have them, however leaders will also provide optics for participants to use as needed. Birders of all levels are welcome.",
-    "location": "1060 Nishiwaki Ln, Renton, WA 98057, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1901/1789826400000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/cedarriversept19"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/cedarriversept19",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
-    "image": "/src/assets/events/8b1d80556d5c.jpg"
-  },
-  {
-    "id": "e6ef7875d097",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1778/29830560/0/0",
-    "title": "Neighborhood Bird Outing: BIPOC Birding at Lake Sammamish + optional Pot Luck",
-    "start": "2026-09-19T09:00:00-07:00",
-    "end": "2026-09-19T12:00:00-07:00",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-19",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Suzannah Yu (she/her) & Anthony Pangelinan (he/him)\n\nMeeting Point: 9:00 am; Lake Sammamish State Park; southwest parking lot by the Rotunda Shelter; GPS: 47°33'18.6\"N 122°04'04.8\"W\n\nBike Parking: None expected.\n\nTrip Accessibility: 1B\n\nMasks: Optional\n\nAll-ages BIPOC Neighborhood Bird Outing with optional potluck afterwards\n\nIMPORTANT: parking requires a Discover Pass or day pass. Pay stations for passes are present on-site. If you are interested in carpooling, feel free to request or offer a ride here: docs.google.com/spreadsheets/d/1wZe87hvmgoWHCXYret1tmEc1iPYuFFDm-UBn0x8othI/edit?usp=sharing https://docs.google.com/spreadsheets/d/1wZe87hvmgoWHCXYret1tmEc1iPYuFFDm-UBn0x8othI/edit?usp=sharing\n\nBIPOC-centered neighborhood bird outing led by NextGen council members, Suzannah (she/her/hers) and Anthony (he/him/his). This is an all-ages walk. We will meet by the parking lot by the Rotunda Shelter. We hope to see a wide variety of birds, including wood ducks, mergansers, kingfishers, and woodpeckers. Birding wraps up around 12pm.\n\nWe will also be hosting a small optional potluck after the walk, from 12pm to about 1pm. Feel free to bring snacks and desserts, or anything that you'd like to share with the group. We will bring a treat, so come join for the social even if bringing something is not accessible for you. If you do choose to bring any food, please let the group know of any potential food sensitivities such as eggs, gluten, nuts, and dairy.\n\n*Please note that this trip is specifically for folks who identify as Black, Indigenous, and People of Color (BIPOC)*\n\nPhoto Credit: Ian Jan",
-    "location": "Rotunda Shelter,Issaquah, WA 98027, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1778/1789833600000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in",
-      "NextGen"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6979565b2c97af2cfcb93bcc/scaled_384.jpg",
-    "image": "/src/assets/events/e6ef7875d097.jpg"
-  },
-  {
-    "id": "ab3c2c2ef146",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1904/29830710/0/0",
-    "title": "Free In-Store Program: Corvids! Ravens,Crows, Jays, Oh my!",
-    "start": "2026-09-19T11:30:00-07:00",
-    "end": "2026-09-19T12:00:00-07:00",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-19",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Corvids are among the smartest of birds! They can mimic a car alarm, pass knowledge along to the next generation, and work together to protect one another. This session will focus on crows, ravens, jays, and magpies.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1904/1789842600000",
-    "status": "",
-    "categories": [
-      "at-BCS-Headquarters",
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62f320256bc4cb12ac76157c/scaled_896.jpg",
-    "image": "/src/assets/events/ab3c2c2ef146.jpg"
-  },
-  {
-    "id": "2a90435e1964",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1905/29830860/0/0",
-    "title": "Free In-Store Program: Backyard Birding - Pinecone Bird Feeders",
-    "start": "2026-09-19T14:00:00-07:00",
-    "end": "2026-09-19T14:30:00-07:00",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-19",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Fall is a time of transition in the natural world and birds are on the move. Territories have broken down and mixed feeding flocks are forming. This session will focus on common backyard birds including: Black Cap Chickadee, Dark-eyed Junco, American Robin, House Finch, Pine Siskin, and Townsend’s Warbler. Stick around to make a bird-feeder to attract birds to your space.\n\nJoin Naturalist Lilith Meng for this free drop-in event - no preregistration required. All are welcome.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1905/1789851600000",
-    "status": "",
-    "categories": [
-      "at-BCS-Headquarters",
-      "Drop-in",
-      "Education"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6802a263dc957f1e4eab68c0/scaled_384.jpg",
-    "image": "/src/assets/events/2a90435e1964.jpg"
-  },
-  {
     "id": "ebbf35117bbb",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1837/29832000/0/0",
     "title": "Neighborhood Bird Outing: Union Bay Natural Area",
@@ -1570,6 +1464,33 @@
     "image": "/src/assets/events/cf8fda270098.jpg"
   },
   {
+    "id": "4c25def1a733",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1979/29904660/0/0",
+    "title": "Online Workshop Series: Strategic Advocacy Campaign Planning for Tree Advocates",
+    "start": "2026-11-09T19:00:00-08:00",
+    "end": "2026-11-09T20:30:00-08:00",
+    "startDate": "2026-11-09",
+    "endDate": "2026-11-09",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Apply HERE https://secure.birdsconnectsea.org/a/strategic-advocacy-campaign-planning-tree-advocates\n\nReady to turn your passion for trees into a clear, actionable advocacy plan?\n\nJoin us for Strategic Advocacy Campaign Planning for Tree Advocates, a two-part workshop series designed to help you create effective campaigns to drive environmental and social change.\n\nSession 1: Campaign Planning Fundamentals\nMonday, November 9, 2026 | 7:00–8:30 p.m. | Zoom\nLearn the essentials, from researching targets and power analysis to choosing a strategy and mapping your theory of change, using a hands-on tree-related example.\n\nSession 2: Plan Review and Refinement\nMonday, November 16, 2026 | 7:00–8:30 p.m. | Zoom\nBring your draft plan and get feedback as we refine everyone’s campaigns together.\n\nBetween sessions, you’ll apply the framework to build your own plan.\n\nYour Workship Leader\nJoshua Morris, Conservation Director at Birds Connect Seattle, has spent eight years leading conservation work and advocacy campaigns on urban forest regulation and funding, urban planning, pesticide reduction, invasive species sales bans, endangered species protection, bird-safe building codes, and more. Not every campaign succeeds, but he has always learned from the experience, and he’s eager to share those lessons with fellow environmental advocates.\n\nSpace is limited to 10 participants. If demand is high, we may add more sessions.\n\nThis workshop series is done in partnership with the Tree Equity Network. https://www.seattleparksfoundation.org/community-partners/tree-equity-network/",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1979/1794279600000",
+    "status": "",
+    "categories": [
+      "Conservation"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/strategic-advocacy-campaign-planning-tree-advocates"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/strategic-advocacy-campaign-planning-tree-advocates",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/62683c0523181f02297abb06/scaled_1024.jpg",
+    "image": "/src/assets/events/4c25def1a733.jpg"
+  },
+  {
     "id": "8e27479e42af",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1944/29906910/0/0",
     "title": "Neighborhood Bird Outing: Montlake/Portage Bay",
@@ -1676,7 +1597,7 @@
   {
     "id": "3a1a200e279c",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1976/29908920/0/0",
-    "title": "Pelagic Birds with Mike Donahue",
+    "title": "Online Class Series: Pelagic Birds with Mike Donahue",
     "start": "2026-11-12T18:00:00-08:00",
     "end": "2026-11-12T20:00:00-08:00",
     "startDate": "2026-11-12",
@@ -1965,7 +1886,7 @@
   {
     "id": "c1f2a3273ca6",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1976/29919000/0/0",
-    "title": "Pelagic Birds with Mike Donahue",
+    "title": "Online Class Series: Pelagic Birds with Mike Donahue",
     "start": "2026-11-19T18:00:00-08:00",
     "end": "2026-11-19T20:00:00-08:00",
     "startDate": "2026-11-19",
