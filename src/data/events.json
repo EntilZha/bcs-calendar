@@ -1,30 +1,5 @@
 [
   {
-    "id": "ebbf35117bbb",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1837/29832000/0/0",
-    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-09-20T09:00:00-07:00",
-    "end": "2026-09-20T11:00:00-07:00",
-    "startDate": "2026-09-20",
-    "endDate": "2026-09-20",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include wood duck, savannah sparrow, and osprey, possible birds include common yellowthroat, marsh wren, and Wilson's warbler.",
-    "location": "Union Bay Natural Area,3501 NE 41st St, Seattle, WA 98195, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1837/1789920000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
-    "image": "/src/assets/events/ebbf35117bbb.jpg"
-  },
-  {
     "id": "d86be9ae46cd",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29836515/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -1115,6 +1090,32 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
     "image": "/src/assets/events/c94867d95df4.jpg"
+  },
+  {
+    "id": "bb66a903a5ac",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1980/29885340/0/0",
+    "title": "Bike Event: Ride for the Birds with Cascade Bicycle Club (Partner Event)",
+    "start": "2026-10-27T10:00:00-07:00",
+    "end": "2026-10-27T14:00:00-07:00",
+    "startDate": "2026-10-27",
+    "endDate": "2026-10-27",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://cascade.org/rides-events/90839\n\nThe snow geese have returned and the season’s first \"Ride for the Birds\" has been posted for Fir Island. The ride crisscrosses Fir Island in two loops. It stops at both the Hayton Wildlife Preserve and the Washington DFW refuge headquarters. In addition, we will stop anytime we have a good opportunity to view birds. We will break for lunch at our cars after the first loop. The ride is 28 miles long and we will be riding at a speed of 12 - 14 mph. If you want to come but are unsure about the length of time or doing 28 miles, you can cut the ride short at mile 18 when we break for lunch. The ride is open to the public, but you will need to register with the Cascade Bicycle Club and electronically agree to the waiver. E-bikes are welcome, just be sure you have enough battery for the ride. If you come, you must be ready to go by 10:00 when we give a safety briefing. More details are available at the signup link: https://cascade.org/rides-events/90839 https://cascade.org/rides-events/90839 . Hope to see a bunch of you there.\n\nMeeting Spot: Gravel Parking Lot, 20975 Skagit City Rd, Mount Vernon, WA 98273\n\nNeither water nor restrooms are available at the start. Both are available at the I-5 rest stop just north of exit 206 and at the Shell station just as you enter Conway. You can also purchase food at the Shell Station if needed. During the ride, a Honey Bucket is available at mile 3 when we stop at the Hayton Reserve to watch birds, and at the Headquarters Unit of the Skagit Wildlife Refuge at mile 15.\n\nPlease be ready to ride at 10:00. We will start with a required safety briefing and roll out when that's done. All riders must attend the safety briefing to participate. Be sure to bring a spare tube as well as the tools and knowledge to fix a flat - we will stay with you while you fix a flat. If the roads are wet, please have fenders or plan on riding at the end of the line.\n\nNote: If weather conditions meet the weather cancellation criterion (including rain, freezing weather, ice or snow, or high winds) or if there are unforeseen hazardous riding conditions or other unexpected events, the Ride Leader will cancel the ride and all registered riders will be sent a notification email. A weather-related ride cancellation decision will be shared at least three hours in advance of the start time. If the ride is canceled at least three hours before the start, Ride Leader(s) will not be at the start location. Please check before leaving for the ride.\n\nREGISTER https://cascade.org/rides-events/90839\n\nThis event is organized by Cascade Bicycle Club. Please direct any questions directly to their organization.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1980/1793120400000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Recommended",
+      "Partner"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6171f99c6dab1052f0772095/scaled_1024.jpg",
+    "image": "/src/assets/events/bb66a903a5ac.jpg"
   },
   {
     "id": "c739ea001261",
