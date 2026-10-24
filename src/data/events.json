@@ -2879,6 +2879,31 @@
     "image": "/src/assets/events/f35ada8032c7.jpg"
   },
   {
+    "id": "270765782697",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1982/30009780/0/0",
+    "title": "Conservation Reading Group: The Bird with the Flaming Red Feet",
+    "start": "2027-01-21T19:00:00-08:00",
+    "end": "2027-01-21T21:00:00-08:00",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-21",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/5jwG_kSJ-U-ORsuiGx0MzQ2\n\nThe Birds Connect Seattle Conservation Committee invites you to read and learn with us. Together, we'll deepen our understanding of conservation and become stronger advocates for birds and nature.\n\nThis quarter, we're reading The Bird with the Flaming Red Feet by Maria Mudd Ruth.\n\nPurchase the book from our shop https://birdsconnectsea.myshopify.com/products/the-bird-with-flaming-red-feet-seasons-with-an-uncommonly-common-seabird , the proceeds of the sale will support conservation and other programs at Birds Connect Seattle.\n\nMake sure to follow along on Addabook https://www.addabook.net/list/birdsconnect-L:ce309ad60c for prompts and reflections.\n\nBook Description:\n\nThe Bird with Flaming Red Feet is a lively and heartfelt natural history of the Pigeon Guillemot, a charismatic seabird with a surprising story to tell. Found along the coast around the North Pacific and from Alaska to Southern California, this talkative and often-overlooked bird plays an outsized role in the health of marine ecosystem—earning its status as an \"indicator species,\" especially for Washington's Puget Sound.\n\nAuthor and longtime volunteer surveyor Maria Mudd Ruth weaves together science, field observation, and community storytelling in this engaging exploration of one bird's life. Drawing from over a decade of beachside study, she dives deep into the guillemot's behaviors, quirky traits, and ecological relationships. Along the way, readers meet the passionate citizen scientists who have built a unique community around caring for and studying this vibrant bird.\n\nBridging the gap between field guide and memoir, The Bird with Flaming Red Feet invites readers to slow down, look closely, and reconnect with the wild places—and creatures—just outside their door. It's a joyful call to observation, stewardship, and a deeper understanding of our coastal world.",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1982/1800586800000",
+    "status": "",
+    "categories": [
+      "Conservation",
+      "Book"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6adbfe99f1c2349eeca216f8/scaled_768.jpg",
+    "image": "/src/assets/events/270765782697.jpg"
+  },
+  {
     "id": "03df62995a57",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1960/30019860/0/0",
     "title": "Online Class Series and Field Trip with Connie Sidles: Sparrows, Finches, and Other LBJs - Oh My!",
@@ -3121,6 +3146,36 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/c80c40b5557d.jpg"
+  },
+  {
+    "id": "0ff34fb45fab",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1981/30111240/0/0",
+    "title": "Birding Vacation: North Salish Sea",
+    "start": "2027-04-02T07:00:00-07:00",
+    "end": "2027-04-04T17:00:00-07:00",
+    "startDate": "2027-04-02",
+    "endDate": "2027-04-04",
+    "allDay": false,
+    "multiDay": true,
+    "description": "View the full vacation itinerary and register HERE https://secure.birdsconnectsea.org/a/bvsalishsea2027\n\nExperience the northern Salish Sea in comfort and style on this intimate birding vacation designed for travelers who want exceptional wildlife, memorable meals, and meaningful impact. Travel with expert leaders and a small group as we explore one of the most biologically rich waterways in the world, while your trip fees directly support local conservation through Birds Connect Seattle. From dramatic coastal birding and marine mammals to farm-to-table dining and resort-level lodging, this getaway blends discovery, relaxation, and purpose.\n\nLeaders: Neil Zimmerman (he/him), Roniq Bartenen (she/her), and Sarah Hankins (she/they)\n\nWhat's Included: Fee includes ground transportation, 2 nights double-occupancy lodging at Semiahmoo Resort and Spa, all meals (2 breakfasts, 3 lunches, 2 dinners)*, all entrance fees, and the services of your passionate leaders. *Alcohol not included. Loaner optics available at no cost from Birds Connect Seattle; please arrange ahead of time.\n\nFees: Member $1,395; Non-Member $1,675; Single Room Occupancy Supplement $210\n\nAccessibility: 1B (leisurely paced over mostly flat, unpaved roads and trails).Most of the birding will be done with short walks from the van, all less than a mile in distance.\n\nWe look forward to cherishing the wonders of this region with you!\n\nView the full vacation itinerary and register HERE https://secure.birdsconnectsea.org/a/bvsalishsea2027",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1981/1806674400000",
+    "status": "",
+    "categories": [
+      "Recommended",
+      "Field-Trips",
+      "Education",
+      "Conservation"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/bvsalishsea2027"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/bvsalishsea2027",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/696953c60f6dcf26012162a1/scaled_1024.jpg",
+    "image": "/src/assets/events/0ff34fb45fab.jpg"
   },
   {
     "id": "8e5e77a8fe9a",
