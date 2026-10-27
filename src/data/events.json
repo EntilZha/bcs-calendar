@@ -3146,5 +3146,369 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/8e5e77a8fe9a.jpg"
+  },
+  {
+    "id": "fe71eaee0f66",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30177960/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-05-18T15:00:00-07:00",
+    "end": "2027-05-18T18:30:00-07:00",
+    "startDate": "2027-05-18",
+    "endDate": "2027-05-18",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1810677600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/fe71eaee0f66.jpg"
+  },
+  {
+    "id": "82a075a669d7",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30188040/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-05-25T15:00:00-07:00",
+    "end": "2027-05-25T18:30:00-07:00",
+    "startDate": "2027-05-25",
+    "endDate": "2027-05-25",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1811282400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/82a075a669d7.jpg"
+  },
+  {
+    "id": "7ead8788205c",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30198120/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-06-01T15:00:00-07:00",
+    "end": "2027-06-01T18:30:00-07:00",
+    "startDate": "2027-06-01",
+    "endDate": "2027-06-01",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1811887200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/7ead8788205c.jpg"
+  },
+  {
+    "id": "117a920ded3b",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30208200/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-06-08T15:00:00-07:00",
+    "end": "2027-06-08T18:30:00-07:00",
+    "startDate": "2027-06-08",
+    "endDate": "2027-06-08",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1812492000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/117a920ded3b.jpg"
+  },
+  {
+    "id": "d76302e0b630",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30218280/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-06-15T15:00:00-07:00",
+    "end": "2027-06-15T18:30:00-07:00",
+    "startDate": "2027-06-15",
+    "endDate": "2027-06-15",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1813096800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/d76302e0b630.jpg"
+  },
+  {
+    "id": "ffa2a6f6cd97",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30228360/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-06-22T15:00:00-07:00",
+    "end": "2027-06-22T18:30:00-07:00",
+    "startDate": "2027-06-22",
+    "endDate": "2027-06-22",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1813701600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/ffa2a6f6cd97.jpg"
+  },
+  {
+    "id": "f7e10210db71",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30238440/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-06-29T15:00:00-07:00",
+    "end": "2027-06-29T18:30:00-07:00",
+    "startDate": "2027-06-29",
+    "endDate": "2027-06-29",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1814306400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/f7e10210db71.jpg"
+  },
+  {
+    "id": "7f4568d95c2e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30248520/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-07-06T15:00:00-07:00",
+    "end": "2027-07-06T18:30:00-07:00",
+    "startDate": "2027-07-06",
+    "endDate": "2027-07-06",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1814911200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/7f4568d95c2e.jpg"
+  },
+  {
+    "id": "d04092d87fe7",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30268680/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-07-20T15:00:00-07:00",
+    "end": "2027-07-20T18:30:00-07:00",
+    "startDate": "2027-07-20",
+    "endDate": "2027-07-20",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1816120800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/d04092d87fe7.jpg"
+  },
+  {
+    "id": "bc256e9bcae3",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30288840/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-08-03T15:00:00-07:00",
+    "end": "2027-08-03T18:30:00-07:00",
+    "startDate": "2027-08-03",
+    "endDate": "2027-08-03",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1817330400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/bc256e9bcae3.jpg"
+  },
+  {
+    "id": "a5bb3826d5c0",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30309000/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-08-17T15:00:00-07:00",
+    "end": "2027-08-17T18:30:00-07:00",
+    "startDate": "2027-08-17",
+    "endDate": "2027-08-17",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1818540000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/a5bb3826d5c0.jpg"
+  },
+  {
+    "id": "ea94c4d66581",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30329160/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-08-31T15:00:00-07:00",
+    "end": "2027-08-31T18:30:00-07:00",
+    "startDate": "2027-08-31",
+    "endDate": "2027-08-31",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1819749600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/ea94c4d66581.jpg"
+  },
+  {
+    "id": "2afa119cb990",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1983/30339240/0/0",
+    "title": "Puget Sound Express Bird Watching and Puffin Cruise (Partner Event)",
+    "start": "2027-09-07T15:00:00-07:00",
+    "end": "2027-09-07T18:30:00-07:00",
+    "startDate": "2027-09-07",
+    "endDate": "2027-09-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Birds Connect Seattle is thrilled to team up with Puget Sound Express again for summer 2027 Bird Watching & Puffin Cruises out of Edmonds. These three and a half hour boat tours visit an offshore National Wildlife Refuge where Tufted Puffins nest—an unforgettable sight. Depending on the time of year, some of the more common species might be spotted include various gulls, cormorants, terns, ducks, oystercatchers, and more!\n\nSummer 2027 tour schedule: (all tours are on Tuesday afternoons, from 3:00-6:30 p.m.)\n\n  * May 18, 25\n  * June 1, 8, 15, 22, 29\n  * July 6, 20\n  * August 3, 17, 31\n  * September 7\n\nLearn more and book your ticket. https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/\n\nBirds Connect Seattle Members get $10 off tickets—email EllaD@birdsconnectsea.org mailto:EllaD@birdsconnectsea.org for your discount code.\n\nPlease note: This event is hosted and managed by Puget Sound Express, please direct any tour questions to them at 360-385-5288 or info@pugetsoundexpress.com mailto:info@pugetsoundexpress.com\n\nTufted Puffin | Mick Thompson | Audubon Photography Awards",
+    "location": "",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1983/1820354400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Partner"
+    ],
+    "registration": {
+      "label": "Buy Your Ticket",
+      "url": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/"
+    },
+    "registrationUrl": "https://www.pugetsoundexpress.com/seattle-edmonds-bird-watching-puffin-cruises/",
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/681292ac1ae3bf735ff2aac6/scaled_384.jpg",
+    "image": "/src/assets/events/2afa119cb990.jpg"
   }
 ]

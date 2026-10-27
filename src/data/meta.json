@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-10-26T09:16:01.406793-07:00",
-  "eventCount": 119,
+  "crawledAt": "2026-10-27T08:29:39.368185-07:00",
+  "eventCount": 132,
   "rawCategories": [
     "Bird-Outing",
     "Birdability",
@@ -31,5 +31,5 @@
   ],
   "registrationRequiredCount": 35,
   "noRegistrationCount": 67,
-  "unknownRegistrationCount": 17
+  "unknownRegistrationCount": 30
 }
