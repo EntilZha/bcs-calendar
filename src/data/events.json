@@ -2224,6 +2224,36 @@
     "image": "/src/assets/events/3c5ebe2463f8.jpg"
   },
   {
+    "id": "52a2ec792ad1",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1987/29944920/0/0",
+    "title": "In-Person Writing Workshop: Write Your Story About Trees and Birds",
+    "start": "2026-12-07T18:00:00-08:00",
+    "end": "2026-12-07T20:00:00-08:00",
+    "startDate": "2026-12-07",
+    "endDate": "2026-12-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "REGISTER https://secure.birdsconnectsea.org/a/rootswings\n\nWe all love birds and trees. We all hold stories, memories, and images. Join us to write one of yours! No experience necessary; beginners are welcome in this writing workshop. Teachers will use guided exercises to help you discover words and ideas for a story about birds and/or trees. Please bring a notebook and pen. Snacks provided. Registration is limited so sign up now. This class is offered in partnership with Trees and People Coalition https://treesandpeople.org/ .",
+    "location": "Tower Building Lobby,1809 7th Ave, Seattle, WA 98101, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1987/1796695200000",
+    "status": "",
+    "categories": [
+      "Classes",
+      "Education",
+      "Partner",
+      "at-BCS-Headquarters"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/rootswings"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/rootswings",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ae3a04d2dde9bfe421c5851/scaled_512.jpg",
+    "image": "/src/assets/events/52a2ec792ad1.jpg"
+  },
+  {
     "id": "998f7aad8ef0",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29947455/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -2305,6 +2335,34 @@
     "image": "/src/assets/events/1eb21286abb7.jpg"
   },
   {
+    "id": "e698b59f7d2a",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1984/29951520/0/0",
+    "title": "Field Trip: Union Bay Natural Area",
+    "start": "2026-12-12T08:00:00-08:00",
+    "end": "2026-12-12T10:00:00-08:00",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to register for this field trip! https://secure.birdsconnectsea.org/a/ubna121226\n\nLeader: Jen McKeirnan, she/her\n\nMeet: 8:00 AM. Meet at the Center for Urban Horticulture east-side parking lot, E16, at 3863 Union Bay Cir NE, Seattle, WA 98105\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely, many stops to observe), C (dirt and gravel trails), 2-3 miles walking on gravel and dirt trails with some elevation gain, no vehicle travel\n\nThis field trip is a great way to explore this much-loved birding area in Seattle with a smaller group. The Union Bay Natural Area is distinguished for diverse habitats including grasslands, woods, ponds, marshland, and lake shoreline. It attracts a wide variety of resident and migratory birds. Expect to walk up to 2 leisurely paced miles on level ground. Bring binoculars (if you don't already have a pair, pop over to the Birds Connect Seattle HQ at 616 Olive Way to borrow a pair!) Over by 10am.",
+    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1984/1797091200000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/ubna121226"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/ubna121226",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/e698b59f7d2a.jpg"
+  },
+  {
     "id": "dfd9103da754",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1908/29951520/1/0",
     "title": "Online Class + (optional) Field Trip: Ducks - Colorful, Underappreciated Birds of Washington 2026",
@@ -2358,6 +2416,34 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab706cc47d5d2eab106673e/scaled_1024.jpg",
     "image": "/src/assets/events/577f797718ab.jpg"
+  },
+  {
+    "id": "4c5a3564b471",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1985/29953020/0/0",
+    "title": "Field Trip: Practice Birding by Ear in Westcrest Park",
+    "start": "2026-12-13T09:00:00-08:00",
+    "end": "2026-12-13T12:00:00-08:00",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/dec13westcrest\n\nLeaders: Whitney Neufeld-Kaiser (she/her) and Atul Tandon (he/him)\n\nMeet: 9:00AM, Playground Parking Lot, on 8th Ave SW between SW Trenton St. and SW Cloverdale St. Bus #131 stops at 9th Ave SW and SW Trenton St, then it’s less than 10 minutes to walk to the parking lot.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks plus hiking trails with gentle rolling hills plus a few sets of stairs), approx. 1.5 miles walking\n\nWestcrest Park is the southern end of the West Duwamish Greenbelt and includes trails winding through mixed forest, a community garden, and open greenspace over the covered water reservoir. Anyone interested in birds is welcome – the trip leaders will have extra pairs of binoculars for folks who need them. Our route will first meander south through the open space and return via the trees to include different sorts of habitat. We'll likely encounter Bewick's Wrens, Pacific Wrens, Spotted Towhees, Red-breasted Nuthatches, Song Sparrows, Golden-crowned Sparrows, American Robins. Perhaps Hutton's Vireo, Hermit Thrush, and Varied Thrush. Pileated Woodpeckers, Cooper's Hawks, and Common Ravens are always possible. A significant portion of the walk lends itself to finding birds by their sounds, because the tree canopy is high, so this is a great field trip to practice birding by ear! Our route usually takes about 3 hours, depending on what we see and hear and how many questions spark conversation. Ending around noon.\n\n*If the ticket fee in any way makes this trip inaccessible, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org for a fee waiver*",
+    "location": "Westcrest Park",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1985/1797181200000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/dec13westcrest"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/dec13westcrest",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
+    "image": "/src/assets/events/4c5a3564b471.jpg"
   },
   {
     "id": "21297fd8ef48",
@@ -2434,6 +2520,34 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
     "image": "/src/assets/events/81ee6e71ecc3.jpg"
+  },
+  {
+    "id": "8f26b8cd3524",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1986/29957280/0/0",
+    "title": "Field Trip: December 16th, 2026 Whidbey Island",
+    "start": "2026-12-16T08:00:00-08:00",
+    "end": "2026-12-16T18:00:00-08:00",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/dec16whidbey\n\nLeaders: Neil Zimmerman (he/him)\n(206-200-6700 day of only)\nand Roniq Bartanen (she/her)\n\nMeet: 8:00 AM Greenlake (Ravenna) Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA, southern end of the north lot, just off of 65th. We will be taking the Birds Connect Seattle Van for this trip--gas cost is included in your ticket price.\n\nLimit: 12\n\nNo mask requirements.\n\nTrip accessibility: 2 (moderate; steady but able to maintain a conversation), C (hiking trails with gentle rolling hills )\n\nWinter is a great time for birding Whidbey Island. We will concentrate on the north end of the island. We can expect to see many wintering seabirds, like Red-throated Loons and Surf Scoters. We will also look for Black Oystercatchers and Black Turnstones. This is always an exciting birding trip along with the beauty of Whidbey Island. Dress warm, bring extra clothes, pack a lunch, and treats for the leaders. If time and weather permit, we will try to go by the Short-eared Owl spot by Edison on the way home. Return by 6pm.\n\n*If the cost makes this trip in any way inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
+    "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1986/1797436800000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/dec16whidbey"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/dec16whidbey",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
+    "image": "/src/assets/events/8f26b8cd3524.jpg"
   },
   {
     "id": "6b0492f29a25",
@@ -2588,6 +2702,34 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab709a147d5d2eab120a28a/scaled_1024.jpg",
     "image": "/src/assets/events/2e66b11d2488.jpg"
+  },
+  {
+    "id": "0c6df59312cb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1526/29981760/0/0",
+    "title": "Field Trip: Riverview Wildlife Area",
+    "start": "2027-01-02T08:00:00-08:00",
+    "end": "2027-01-02T13:00:00-08:00",
+    "startDate": "2027-01-02",
+    "endDate": "2027-01-02",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Click here to register! https://secure.birdsconnectsea.org/a/jan2027riverview\n\nLeaders: Cynthia Putnam and Kathy Kaplan\n\nMeeting: 8:00am Green Lake Park and Ride on the southern end of the north lot, parallel to 65th. We will be using the Birds Connect Seattle Van for this trip--gas cost is included in your ticket price.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails), ~1.8 miles walking\n\nThis is a half-day field trip to the quiet Riverview Wildlife Refuge and another 1-2 spots in south Snohomish county depending on recent ebird lists and weather. The refuge is a grassy meadow and riverside habitat situated between the Snohomish and Pilchuck rivers surrounded by towering cottonwoods. It sits to the west of the city's water treatment plant occupying lands formerly used as treatment lagoons. We'll walk along a trail that circumnavigates the refuge to look for bird life along the two rivers and in a large open meadow area. Expect to see many species of song birds, raptors, and waterfowl. The refuge is jointly managed by the City of Snohomish and the Pilchuck Audubon Society, and is described as a “sanctuary valuable for its riparian (waterside) habitat and its location on the Pacific Flyway, traveled by millions of migrating birds every year.” Find a bird checklist for the refuge here: https://www.snohomishwa.gov/DocumentCenter/View/4298/RiverviewRefuge_BirdingBrochure?bidId= https://www.snohomishwa.gov/DocumentCenter/View/4298/RiverviewRefuge_BirdingBrochure?bidId=\n\nToilets at the trailhead. Bring layers, rain gear, water and snacks. 2-3 hours in the field, back between 12-1pm depending on traffic.\n\n*If the cost makes this trip in anyway inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
+    "location": "Green Lake Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1526/1798905600000",
+    "status": "",
+    "categories": [
+      "Field-Trips",
+      "Birds-Connect-Seattle"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/jan2027riverview"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/jan2027riverview",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
+    "image": "/src/assets/events/0c6df59312cb.jpg"
   },
   {
     "id": "755195a2379e",
