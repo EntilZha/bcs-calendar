@@ -1047,7 +1047,7 @@
     "endDate": "2026-11-01",
     "allDay": false,
     "multiDay": false,
-    "description": "Click here to register! https://secure.birdsconnectsea.org/a/nov2026everettsew\n\nLeader: Denning Gillespie (they/them; day of trip only: 425-233-9719)\n\nMeet: 7:00 AM Green Lake (Ravenna) P&R, south side of north lot near NE 65th St to carpool or option to meet the group at 8:00AM at the Everett Sewage Lagoon South Parking Lot (47.99282, -122.17311)\n\nLimit: 15\n\nTrip Accessibility: 1 (leisurely pace), B (level pavement roads and gravel trails), 2-3 miles of walking\n\n*Note: for this trip, the BCS Van is not available. We will meet at the Park and Ride and carpool with personal vehicles*\n\nJoin us for a winter waterfowl extravaganza at Everett Sewage Lagoons and Spencer Island! We will spend the day observing the many species of ducks, geese, gulls, and shorebirds that spend their winters in Western WA. This trip will begin by moving around the perimeter of the lagoons, after which we will walk to the nearby Spencer Island wildlife area and observe birds in the Snohomish River Estuary.\n\nThe Spencer Island trails are expansive and depending on timing and what we are seeing, this trip will likely involve several miles of walking on flat, paved or gravel trails. Pack snacks, lunch, and water, and definitely prepare for wind and rain with multiple layers. Scopes are very helpful for viewing the often-massive groups of waterfowl found in the lagoons. If you have a scope, you are highly encouraged to bring it along with any other optics you may have. Leader will also provide scopes, binoculars, and ID tools for the group to use so do not worry if you don't have these items. Over around 2:00 PM.\n\nCarpooling is highly encouraged due to the limited parking at the site. We will meet at Green Lake Park and Ride at 7:00 to carpool. If you do need to meet us at the site I can provide coordinates for our meeting location. See you there!",
+    "description": "Registration for this trip is closed. Check back again for similar field trips!\n\nLeader: Denning Gillespie (they/them; day of trip only: 425-233-9719)\n\nMeet: 7:00 AM Green Lake (Ravenna) P&R, south side of north lot near NE 65th St to carpool or option to meet the group at 8:00AM at the Everett Sewage Lagoon South Parking Lot (47.99282, -122.17311)\n\nLimit: 15\n\nTrip Accessibility: 1 (leisurely pace), B (level pavement roads and gravel trails), 2-3 miles of walking\n\n*Note: for this trip, the BCS Van is not available. We will meet at the Park and Ride and carpool with personal vehicles*\n\nJoin us for a winter waterfowl extravaganza at Everett Sewage Lagoons and Spencer Island! We will spend the day observing the many species of ducks, geese, gulls, and shorebirds that spend their winters in Western WA. This trip will begin by moving around the perimeter of the lagoons, after which we will walk to the nearby Spencer Island wildlife area and observe birds in the Snohomish River Estuary.\n\nThe Spencer Island trails are expansive and depending on timing and what we are seeing, this trip will likely involve several miles of walking on flat, paved or gravel trails. Pack snacks, lunch, and water, and definitely prepare for wind and rain with multiple layers. Scopes are very helpful for viewing the often-massive groups of waterfowl found in the lagoons. If you have a scope, you are highly encouraged to bring it along with any other optics you may have. Leader will also provide scopes, binoculars, and ID tools for the group to use so do not worry if you don't have these items. Over around 2:00 PM.\n\nCarpooling is highly encouraged due to the limited parking at the site. We will meet at Green Lake Park and Ride at 7:00 to carpool. If you do need to meet us at the site I can provide coordinates for our meeting location. See you there!",
     "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1971/1793545200000",
     "status": "",
@@ -1055,12 +1055,9 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/nov2026everettsew"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/nov2026everettsew",
-    "registrationRequired": true,
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
     "image": "/src/assets/events/c570e92ee6c2.jpg"
@@ -1278,6 +1275,32 @@
     "image": "/src/assets/events/cf8fda270098.jpg"
   },
   {
+    "id": "a419454b13e5",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1988/29902800/0/0",
+    "title": "Neighborhood Bird Outing: Discovery Park North (Midday start time)",
+    "start": "2026-11-08T12:00:00-08:00",
+    "end": "2026-11-08T14:30:00-08:00",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Kurt Aylup (he/him)\n\nMeet: 12:00pm, Discovery Park, North Parking Lot\n\nTrip Accessibility:1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking depending on paths taken\n\nOnsite Bike Parking: No bike racks available in the North Lot. The Discovery Park Visitor Center has some, as does the Daybreak Star Indian Cultural Center\n\nAre you not a morning person, but you still love birds? Do you put an early morning bird outing on your calendar ahead of time, only to find yourself still in bed at the start time? Well lucky for you, you CAN be a birder without getting up at sunrise - and this walk will serve as further proof! Will we see all the birds that we would have if we arrived at sunrise? Probably not, but will we still see many birds, and interesting ones therein? Most certainly! Come join us at the crack of the afternoon while we venture through some sections of Discovery that may not be as frequently visited as others. You WON'T have to leave your friends at the bar (or D&D game, if that's more your speed) early Saturday night just to hope for at least six hours of sleep. End at 2:30pm.",
+    "location": "Discovery Park North Parking Lot,Discovery Park, Seattle, WA 98199, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1988/1794168000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
+    "image": "/src/assets/events/a419454b13e5.jpg"
+  },
+  {
     "id": "4c25def1a733",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1979/29904660/0/0",
     "title": "Online Workshop Series: Strategic Advocacy Campaign Planning for Tree Advocates",
@@ -1340,7 +1363,7 @@
     "endDate": "2026-11-11",
     "allDay": false,
     "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of lot E-5 (Frog Pond Parking Lot), on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and wander the park. Songbirds should have returned from their breeding grounds in the north and a few ducks may be back as well. This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Dress for possible wet trails. Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of parking lot E-5, on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and wander the park. Songbirds should have returned from their breeding grounds in the north and a few ducks may be back as well. This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Dress for possible wet trails. Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
     "location": "Frog Pond Parking Lot, Magnuson Park",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1933/1794420000000",
     "status": "",
@@ -1790,7 +1813,7 @@
     "endDate": "2026-11-24",
     "allDay": false,
     "multiDay": false,
-    "description": "This event is at capacity. Click here to register for the WAITLIST.\n\nLeaders: Jen Yu (she/her) and Penny Bolton (she/her)\n\nMeeting: 4:00pm, Seward Park Picnic Shelter 3 (drive up into the park on the north end to the first parking lot that you'll reach)\n\nLimit: 12\n\nAccessibility: 1 (leisurely, many stops to observe), C (dirt and gravel trails), 2-3 miles walking on gravel and dirt trails in the dim lighting with some elevation gain.\n\nWe will be birding in the darkness, please bring red light headlamps or red light flashlights to ensure your safety while walking at night. The old growth forest of Seward Park is home to several species of owls, including the Barred, Great Horned, and Barn Owls. Join us as we'll walk through the forested trails in search of these owls, where they are the most active at night! Birders of all experience levels are welcome. Over around 6:00 PM.\n\nField trips occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home. Binoculars can be rented from the Birds Connect Seattle retail space at 616 Olive Way, Seattle, WA 98101. Bathrooms are located next to Seward Park Audubon Center and portable toilets at the start and end of our route.",
+    "description": "This event is at capacity. Click here to register for the WAITLIST. https://secure.birdsconnectsea.org/a/nov24owling\n\nLeaders: Jen Yu (she/her) and Penny Bolton (she/her)\n\nMeeting: 4:00pm, Seward Park Picnic Shelter 3 (drive up into the park on the north end to the first parking lot that you'll reach)\n\nLimit: 12\n\nAccessibility: 1 (leisurely, many stops to observe), C (dirt and gravel trails), 2-3 miles walking on gravel and dirt trails in the dim lighting with some elevation gain.\n\nWe will be birding in the darkness, please bring red light headlamps or red light flashlights to ensure your safety while walking at night. The old growth forest of Seward Park is home to several species of owls, including the Barred, Great Horned, and Barn Owls. Join us as we'll walk through the forested trails in search of these owls, where they are the most active at night! Birders of all experience levels are welcome. Over around 6:00 PM.\n\nField trips occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home. Binoculars can be rented from the Birds Connect Seattle retail space at 616 Olive Way, Seattle, WA 98101. Bathrooms are located next to Seward Park Audubon Center and portable toilets at the start and end of our route.",
     "location": "Seward Park Picnic Shelter 3",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1968/1795564800000",
     "status": "",
@@ -1798,9 +1821,12 @@
       "Field-Trips",
       "Birds-Connect-Seattle"
     ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/nov24owling"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/nov24owling",
+    "registrationRequired": true,
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c1991badf82fe1728be35bf/scaled_1024.jpg",
     "image": "/src/assets/events/bf30b9e06b20.jpg"
@@ -1895,7 +1921,7 @@
     "endDate": "2026-11-28",
     "allDay": false,
     "multiDay": false,
-    "description": "Click here to register! https://secure.birdsconnectsea.org/a/nov2026porttownsend\n\nLeaders: Neil Zimmerman (he/him) (206-200-6700) and Roniq Bartanen (she/her)\n\nMeet: 6:15 AM, Green Lake (Ravenna) P&R located at 6601 8th Ave NE, Seattle 98115. It is located under I-5 on the north side of NE 65th Street. We will all be riding together in the Birds Connect Seattle passenger van!\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~ 3 miles walking\n\nAn early start time so we can catch the 7:10 AM Edmonds ferry. This is a great trip that has been offered for about twenty years. Join Roniq and Neil as they explore areas around Port Townsend and Marrowstone Island looking for wintering seabirds such as murrelets, scoters and Long-tailed Ducks. Shorebirds such as Black Turnstones, Oystercatchers and Sanderlings can be expected. Usually, large numbers of ducks are found in the freshwater ponds. There will be many other species to see. We will be gone most of the day, getting back late afternoon or early evening depending on the ferry schedule. Pack a lunch, bring treats for the leaders, and dress warmly and bring another layer along for blustery weather. It can be breezy by the water. Don’t be put off by the weather; this is a good trip. Scopes will be helpful and can be borrowed from the BCS Nature Shop along with binoculars. We will be leaving the P&R at 6:15 sharp to make sure we catch the ferry we want. By the way, the scenery is pretty good also.",
+    "description": "This trip is at capacity. Click here to register for the WAITLIST https://secure.birdsconnectsea.org/a/nov2026porttownsend .\n\nLeaders: Neil Zimmerman (he/him) (206-200-6700) and Roniq Bartanen (she/her)\n\nMeet: 6:15 AM, Green Lake (Ravenna) P&R located at 6601 8th Ave NE, Seattle 98115. It is located under I-5 on the north side of NE 65th Street. We will all be riding together in the Birds Connect Seattle passenger van!\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~ 3 miles walking\n\nAn early start time so we can catch the 7:10 AM Edmonds ferry. This is a great trip that has been offered for about twenty years. Join Roniq and Neil as they explore areas around Port Townsend and Marrowstone Island looking for wintering seabirds such as murrelets, scoters and Long-tailed Ducks. Shorebirds such as Black Turnstones, Oystercatchers and Sanderlings can be expected. Usually, large numbers of ducks are found in the freshwater ponds. There will be many other species to see. We will be gone most of the day, getting back late afternoon or early evening depending on the ferry schedule. Pack a lunch, bring treats for the leaders, and dress warmly and bring another layer along for blustery weather. It can be breezy by the water. Don’t be put off by the weather; this is a good trip. Scopes will be helpful and can be borrowed from the BCS Nature Shop along with binoculars. We will be leaving the P&R at 6:15 sharp to make sure we catch the ferry we want. By the way, the scenery is pretty good also.",
     "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1969/1795875300000",
     "status": "",
@@ -2202,11 +2228,11 @@
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1952/29942940/0/0",
     "title": "Neighborhood Bird Outing: Discovery Park",
     "start": "2026-12-06T09:00:00-08:00",
-    "end": "2026-12-16T11:00:00-08:00",
+    "end": "2026-12-06T11:00:00-08:00",
     "startDate": "2026-12-06",
-    "endDate": "2026-12-16",
+    "endDate": "2026-12-06",
     "allDay": false,
-    "multiDay": true,
+    "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Neil Zimmerman\n\nMeeting Point: Discovery Park South Parking Lot\n\nDiscovery Park is at the western end of Interbay-Magnolia. Meet near the toilet facility at the South Parking lot (enter on right off W Emerson St. just beyond Viewmont Way W).\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
     "location": "Discovery Park South Parking Lot,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1952/1796576400000",
@@ -2222,6 +2248,32 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c65f23edf82fe11484db843/scaled_1024.jpg",
     "image": "/src/assets/events/3c5ebe2463f8.jpg"
+  },
+  {
+    "id": "5972ae8aa74d",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1989/29943120/0/0",
+    "title": "Neighborhood Bird Outing: West Creek and Wetlands of Union Bay Natural Area (Midday Start)",
+    "start": "2026-12-06T12:00:00-08:00",
+    "end": "2026-12-06T14:30:00-08:00",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Kurt Aylup (he/him)\n\nMeet: 12 pm, at Parking Lot E14 at Union Bay Natural Area, just NE of the Emergency Helistop and near the University of Washington Golf Range\n\nTrip Accessibility:1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1-1.5 miles walking\n\nOnsite Bike Parking: I don't know of any that are right by the meeting point, but there should be some near the CUH building which is about a 10 minute walk from the meeting point\n\nUnion Bay Natural Area is an iconic birding spot in Seattle and perhaps the most frequently visited location for Neighborhood Bird Outings, for good reason! It offers a variety of species, is accessible to all birding levels, has beautiful trails, etc. But what may not be obvious to some who don't frequent it is that there are a number of trails outside of the main \"loops,\" which can also have some great birds! This walk will go through some of those areas, starting up at Parking Lot E14 where we can look at a few small wooded patches of habitat along the creek, and then walk down the creek past some classic spots such as the \"Bathtub\" and the Lagoon where we can see a mix of marsh, water, and woodland species, and then head down near some of the UW athletic buildings where we can have a nice view of the open water and some of the islands along the shore. The southernmost point has a couple islands that have historically been good shorebird habitat, and if we're lucky we may see the Wilson's Snipes that have hung out there in previous winters. Other species we might see along the way include herons, loads of duck and other water-dwelling species, Marsh Wrens, Yellow-rumped Warblers, Fox Sparrows, goldfinches, kingfishers, Downy Woodpeckers, Northern Flickers, and plenty more. The walk will start at a comfortable 12 pm to allow for folks to start their morning in a leisurely fashion.",
+    "location": "UW Wetlands Parking,NE Clark Rd, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1989/1796587200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
+    "image": "/src/assets/events/5972ae8aa74d.jpg"
   },
   {
     "id": "52a2ec792ad1",
