@@ -1249,33 +1249,6 @@
     "image": "/src/assets/events/5b2b819d9548.jpg"
   },
   {
-    "id": "698012dc00b2",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29907135/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
-    "start": "2026-11-11T12:15:00-08:00",
-    "end": "2026-11-11T12:45:00-08:00",
-    "startDate": "2026-11-11",
-    "endDate": "2026-11-11",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1794428100000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "Education",
-      "HQ",
-      "at-BCS-Headquarters"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
-    "image": "/src/assets/events/698012dc00b2.jpg"
-  },
-  {
     "id": "f0c2591ea2f1",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1873/29908380/0/0",
     "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
@@ -2176,6 +2149,31 @@
     "image": "/src/assets/events/52a2ec792ad1.jpg"
   },
   {
+    "id": "540039e639e9",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1998/29947260/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2026-12-09T09:00:00-08:00",
+    "end": "2026-12-09T11:00:00-08:00",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street, lot E16\n\nBike Parking: no\n\nTrip Accessibility: 2 (steady but able to maintain a conversation), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's Hawk, belted kingfisher, and Savannah Sparrow. We will explore the Arctic Visitors (winter water birds) of Yesler Cove and Lake Washington shoreline. All are welcome from beginners to advanced birders; I will have something for everyone! Bring your birding questions and I will do my best share answers.",
+    "location": "Union Bay Natural Area,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1998/1796835600000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a17513fbf50ac3e011fac7f/scaled_1024.jpg",
+    "image": "/src/assets/events/540039e639e9.jpg"
+  },
+  {
     "id": "998f7aad8ef0",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29947455/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -2654,6 +2652,56 @@
     "image": "/src/assets/events/0c6df59312cb.jpg"
   },
   {
+    "id": "141cfa21e8ed",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1995/29983230/0/0",
+    "title": "Neighborhood Bird Outing: Arboretum Creek-Foster Island",
+    "start": "2027-01-03T08:30:00-08:00",
+    "end": "2027-01-03T10:30:00-08:00",
+    "startDate": "2027-01-03",
+    "endDate": "2027-01-03",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
+    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1995/1798993800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
+    "image": "/src/assets/events/141cfa21e8ed.jpg"
+  },
+  {
+    "id": "87eaf8da4fc2",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1999/29987580/0/0",
+    "title": "Neighborhood Bird Outing: Juanita Bay Park",
+    "start": "2027-01-06T09:00:00-08:00",
+    "end": "2027-01-06T11:00:00-08:00",
+    "startDate": "2027-01-06",
+    "endDate": "2027-01-06",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez\n\nMeeting Point: Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: There are outdoor bike racks ~0.25 miles from the parking lot, near the boardwalk.\n\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nConsidered one of the birding hotspots of the East side of Lake Washington, this park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks. We will explore the shoreline for Arctic Visitors (winter water birds), Wilson's Snipe and small songbirds in shoreline trees and shrubs.\n\nBring clothing layers, as the weather may be rainy and/or cool and we will pause a number of times. Wear sturdy walking shoes and feel free to bring water and snacks. We will be staying in relatively close proximity to the car park, with plenty of turn around points along the way. Bathrooms are available. Feel free to leave the group as needed.\n\nWe will share and practice methods to improve birding abilities, develop birding by ear skills, and discuss the important connection between native plants and birds. All experience levels are welcome: beginning, intermediate or advanced, please join us!\n\nPhoto Credit: Brett Eaton",
+    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1999/1799254800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69795ca12c97af2cfcb93e45/scaled_384.jpg",
+    "image": "/src/assets/events/87eaf8da4fc2.jpg"
+  },
+  {
     "id": "755195a2379e",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1875/29989020/0/0",
     "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
@@ -2864,6 +2912,31 @@
     "image": "/src/assets/events/13357fab9cb1.jpg"
   },
   {
+    "id": "7928dd085b2e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1996/30033630/0/0",
+    "title": "Neighborhood Bird Outing: Arboretum Creek-Foster Island",
+    "start": "2027-02-07T08:30:00-08:00",
+    "end": "2027-02-07T10:30:00-08:00",
+    "startDate": "2027-02-07",
+    "endDate": "2027-02-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
+    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1996/1802017800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
+    "image": "/src/assets/events/7928dd085b2e.jpg"
+  },
+  {
     "id": "a4f199f922c7",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1910/30038430/0/0",
     "title": "Drop-In Social Hour",
@@ -2944,6 +3017,32 @@
     "image": "/src/assets/events/d39025dda844.jpg"
   },
   {
+    "id": "57eaafbbadee",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1994/30045240/0/0",
+    "title": "Neighborhood Bird Outing: Magnuson Park",
+    "start": "2027-02-15T10:00:00-08:00",
+    "end": "2027-02-15T12:00:00-08:00",
+    "startDate": "2027-02-15",
+    "endDate": "2027-02-15",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of parking lot E-5 (Frog Pond Lot), on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and along the lake shoreline. Winter ducks and gulls should be around in good number. Will Anna's hummingbirds be nesting? This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Dress for wet trails. Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
+    "location": "Frog Pond Parking Lot, Magnuson Park",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1994/1802714400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/68ace970a7de4c32462133e8/scaled_512.jpg",
+    "image": "/src/assets/events/57eaafbbadee.jpg"
+  },
+  {
     "id": "855f3f3cce98",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1960/30050100/0/0",
     "title": "Online Class Series and Field Trip with Connie Sidles: Sparrows, Finches, and Other LBJs - Oh My!",
@@ -2997,6 +3096,33 @@
     "image": "/src/assets/events/03c7edcd3e8a.jpg"
   },
   {
+    "id": "79717c38a1fb",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1993/30053820/0/0",
+    "title": "Neighborhood Bird Outing: Sammamish River Trail, Redmond",
+    "start": "2027-02-21T09:00:00-08:00",
+    "end": "2027-02-21T11:00:00-08:00",
+    "startDate": "2027-02-21",
+    "endDate": "2027-02-21",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\n\nLeaders: Kanupria Sanu (she/her) and Andy Huynh (he/him)\n\nMeeting Point: We will meet directly outside the front doors of the Redmond Library (15990 NE 85th St, Redmond), the entrance facing the parking lot. There is a small plaza area there where everyone can gather comfortably before we head across the street to connect to the trail.\n\n  * Trip Accessibility: 1A. Fully paved, flat, and level trail. Total distance will be roughly 1.5 to 2 miles walking at a very gentle, slow pace focused on mindful observation.\n  * Parking: Plenty of free parking is available in the Redmond Library parking lot, including ADA-accessible spots.\n  * Bathrooms: Restrooms are available inside the library during operating hours.\n  * Bike Parking: Outdoor bicycle racks are available near the library entrance, allowing visitors to securely lock up standard frames and wheels during their visit.\n\n\nJoin us for a Mindful Birding Walk along the Sammamish River Trail!\n\nSlow down, engage your senses, and connect with the local environment on this gentle morning walk. Starting from the Redmond Library, we will quickly connect to the Sammamish River Trail, which offers a beautiful, open riparian habitat.\n\nThis walk is designed to be a mindful, slow-paced experience where we practice deep listening and observational awareness. The trail is completely paved and flat, making it highly accessible and a wonderful option for birders of all experience levels",
+    "location": "15990 NE 85th St, Redmond, WA 98052, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1993/1803229200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "NextGen",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17e44ddf82fe60aa87e2a7/scaled_1024.jpg",
+    "image": "/src/assets/events/79717c38a1fb.jpg"
+  },
+  {
     "id": "827e62c893d9",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1960/30060180/0/0",
     "title": "Online Class Series and Field Trip with Connie Sidles: Sparrows, Finches, and Other LBJs - Oh My!",
@@ -3023,6 +3149,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab6b6c147d5d2eab1fd19ad/scaled_512.jpg",
     "image": "/src/assets/events/827e62c893d9.jpg"
+  },
+  {
+    "id": "8ef0ee553aa5",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1997/30073950/0/0",
+    "title": "Neighborhood Bird Outing: Arboretum Creek-Foster Island",
+    "start": "2027-03-07T08:30:00-08:00",
+    "end": "2027-03-07T10:30:00-08:00",
+    "startDate": "2027-03-07",
+    "endDate": "2027-03-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
+    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1997/1804437000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
+    "image": "/src/assets/events/8ef0ee553aa5.jpg"
   },
   {
     "id": "91d8723957d6",
