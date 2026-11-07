@@ -27,31 +27,6 @@
     "image": "/src/assets/events/cfec568b55d2.jpg"
   },
   {
-    "id": "212c3736baf7",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1932/29855100/0/0",
-    "title": "Neighborhood Bird Outing: Magnuson Park",
-    "start": "2026-10-06T10:00:00-07:00",
-    "end": "2026-10-06T12:00:00-07:00",
-    "startDate": "2026-10-06",
-    "endDate": "2026-10-06",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jan Bragg\n\nMeeting Point: 10:00 am, NE corner of lot E-5 (Frog Pond Parking Lot), on your left past Sports Field Dr after you enter park at NE 65th St. Bus #62 or #75 stops at Sand Point Way NE and NE 65th St; from there, it is a 10-15 minute walk down entrance road to E-5.\n\nTrip Accessibility: T1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking.\n\nBike Parking: There's a bike rack at the meeting point\n\nWe will stroll through the wetlands and wander the park. October can be an exciting month for birding with some birds returning from the north while some stragglers may not have left yet for the south. This walk is suitable for any level of birdwatcher, including children (accompanied by adult). Bring binoculars, water, and a willingness to stop and listen. Binoculars are available on loan from Birds Connect Seattle.",
-    "location": "Frog Pond Parking Lot, Magnuson Park",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1932/1791306000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67cf7fd3fcc1f95b1553a4e8/scaled_384.jpg",
-    "image": "/src/assets/events/212c3736baf7.jpg"
-  },
-  {
     "id": "572298946544",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29856675/0/0",
     "title": "Birds of Seattle Lunch and Learn",
@@ -62,7 +37,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1791400500000",
     "status": "",
     "categories": [
@@ -89,7 +64,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cinny Burrell and David Selk\n\nMeeting Point: 8:30AM. Meet in the South Parking Lot (entrance off W Emerson St. just west of Magnolia Blvd. W. You can also park on W Emerson St near Viewmont Way W and walk in through the pedestrian entrance).\n\nBike Parking: Some bike parking.\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking.\n\nWe’ll explore open meadows and protected woodlands in the south half of the park. Expect to walk on uneven surfaces, dirt trails and through grassy and brushy areas. We will be birding by ear and visually, listening and looking for late fledglings and fall migrants, including mixed flocks of passerines.\n\nBring binoculars, wear sturdy walking shoes, and dress in layers (it is early fall and the meadow can be breezy, especially if it’s overcast). Bring water/snacks if you wish.",
-    "location": "Discovery Park South Parking Lot,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
+    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1793/1791473400000",
     "status": "",
     "categories": [
@@ -114,7 +89,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1872/1791475200000",
     "status": "",
     "categories": [
@@ -167,7 +142,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/nisquallyoct2026\n\nLeader: Kathy Kaplan (she/her) & mari lopez gonzalez (she/they)\n\nMeet: 6:30 AM Green Lake (Ravenna) P&R. South side of North lot near 65th St.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~3 miles walking\n\nOctober 10, 2026 is World Mental Health Day and World Migratory Bird Day. As science has proved time and again lately that getting outside and looking at birds provides a number of mental health benefits, what better excuse to get outside and go birding together as we welcome back our winter birds!\n\nAdditionally, October 10, 2026 is the October Big Day. Over the course of 24 hours, the birding world unites in a common goal to observe, record, and celebrate the avian diversity around us. Come join us!\n\nBilly Frank Jr. Nisqually National Wildlife Refuge includes a combination of estuaries, tide flats, freshwater marshes, woodlands, and grasslands. The Nisqually Delta is a major non-coastal resting and feeding area for migrating birds and there are few places in the region better for observing them. We will walk the forest and barn trails and go as far out on the boardwalk as we care to go. This event involves several miles of walking on good, flat trails with restroom opportunities at the start and mid-way.\n\nWe'll spend about 4 hours in the field. Pack snacks, lunch and water. Dress for wind and rain. Bring layers, rain gear, water and snacks. Carpool fees are 65 cents per mile per BCS guidelines, to be divided by passengers in each car. Sliding scale available. Return 1-2PM, depending on traffic.\n\n*If the ticket fee in any way makes this trip inaccessible to you, please reach out to Sarahh@birdsconnectsea.org mailto:Sarahh@birdsconnectsea.org to ask for a fee waiver*",
-    "location": "Green Lake Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Green Lake Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1895/1791639000000",
     "status": "",
     "categories": [
@@ -195,7 +170,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "*Note that this walk was originally scheduled for Sunday October 11th, but has been changed to Saturday October 10th.*\n\nNeighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1930/1791649800000",
     "status": "",
     "categories": [
@@ -249,7 +224,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outing: Union Bay Natural Area + Burke Gilman Brewing (for young adults <40)\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Next Gen Council Members: Jordan Juranke (she/her), Emi Nye (she/her), Casey Herrick (she/her) and Anthony Pangelinan (he/him)\n\nMeeting Point: 9am at the Center for Urban Horticulture parking lot E16, off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st\n\nBike Parking: Yes; bike rack in back of building, bring a lock.\n\nTrip Accessibility:1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nCar Parking: Yes, parking in the lot is free on Sundays.\n\nBathrooms: There are bathrooms at the Center for Urban Horticulture only if they are open. We cannot guarantee access to bathrooms during this walk.\n\nBirders of all levels, especially beginners are welcome. Please bring binoculars, we will have a couple extra pairs. Binoculars are also available to rent from the Birds Connect Seattle storefront in Westlake.\n\nWe will enjoy the park from 9-11:30am, with an optional after-walk hangout at nearby Burke Gilman Brewing around 12pm (brewery is all ages, alcoholic and non-alcoholic options for purchase, outside food ok, El Camión food truck nearby).\n\nPlease try to arrive by the listed time for introductions. If late, look for a group of people holding binoculars! Join us for drinks afterwards at Burke Gilman Brewing. Rain or shine, please bring rain gear. Please leave dogs at home. Bird photography encouraged.\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include wood ducks, Bald Eagles, Gadwalls, Pied Billed Grebes, Great Blue Heron, Green Heron, Belted Kingfisher, and more! Come practice your duck identification with us!",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1764/1791734400000",
     "status": "",
     "categories": [
@@ -276,7 +251,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: no\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl. We will discuss the life cycles of these birds and critical importance of habitat in their survival. Bring any questions that you may have, I will do my best to answer them! all levels of experience welcome.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1919/1791991800000",
     "status": "",
     "categories": [
@@ -326,7 +301,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1792005300000",
     "status": "",
     "categories": [
@@ -379,7 +354,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "REGISTER https://secure.birdsconnectsea.org/a/speakerseries-owlsinseattle-dominguez\n\nDate/Time: Thursday, October 15, 2026, 6:30pm\n\nLocation: Birds Connect Seattle (616 Olive Way)\n\nSeattle is home to several species of owls. These mysterious birds have sparked the imagination of humans for millennia. We will explore the myth, folklore, and science of these hunter of the night. Discover where they can be found, how they are successful as nocturnal predators, and their importance to us in a variety of ways.\n\nThis in-person event will not be live-streamed or recorded.\n\nTicket fees help support Birds Connect Seattle's mission to advocate and organize for cities where people and birds thrive. Tickets are non-refundable.\n\nEd Dominguez is a Pacific Northwest Naturalist, who has been an educator and outdoor leader for over 30 years. For many years he was best known for his role as Lead Naturalist at the Seward Park Audubon Center in Seattle. After retiring from that role in 2025, Ed has continued his commitment to educating and spreading love for the natural world by leading private tours, offering speaking engagements and volunteering with Birds Connect Seattle. You can find him leading monthly walks at Union Bay Natural Area, as well as helping guide our Birding Vacations program. Ed is a natural born teacher, who wants to inspire folks to get outdoors and engage their curiosity about the natural world. Spending time with Ed, you'll expand your understanding of many different topics, such as conservation, local owls, botany, geology and natural history.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1893/1792114200000",
     "status": "",
     "categories": [
@@ -437,7 +412,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Neil Zimmerman\n\nMeeting Point: Discovery Park South Parking Lot\n\nDiscovery Park is at the western end of Interbay-Magnolia. Meet near the toilet facility at the South Parking lot (enter on right off W Emerson St. just beyond Viewmont Way W).\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Discovery Park South Parking Lot,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
+    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1950/1792252800000",
     "status": "",
     "categories": [
@@ -463,7 +438,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "REGISTER https://secure.birdsconnectsea.org/a/class-birds-and-block-printing-october2026\n\nTickets: Sliding scale with additional $15 art materials fee\n\nDate/time: Saturday, October 17, 2026, 10am\n\nLocation: Tower Building 3rd Floor Conference Room - (enter through Birds Connect Seattle HQ - 616 Olive Way, Seattle, WA 98101)\n\nParticipant Limit: 14 students\n\nBirds and nature are a source of inspiration for many artists. In this beginner course to the art of block printing, participants will learn about the basics of carving and printing their own bird- and nature-inspired rubber stamp block. At the end of the class, everyone will go home with their custom printed block as well as a set of prints to frame or use for greeting cards. (An additional $15 supply cost applies to this class.)",
-    "location": "Birds Connect Seattle headquarters,616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters, 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1963/1792256400000",
     "status": "",
     "categories": [
@@ -492,7 +467,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outing: Neighborhood Bird Outing: LGBTQIA+ Birders at the Arboretum\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her), Jules Stanley (she/her) and Denning Gillespie (they/them)- NextGen Council Members\n\nMeeting Point: Outside the Arboretum Foundation building on the North side of the park. 9am start\n\nBike Parking: Yes\n\nTrip Accessibility:1 (leisurely, many stops to observe), B (soft ground, sand, gravel, dirt roads and some board-walks), ~1.5 miles walking with minimal elevation gain.\n\n\nHello fellow Queer Birders! Our path will be on the north side of the Arboretum starting at the Arboretum Foundation building and heading past Duck Bay and onto Foster Island, and possibly further onto Marsh Island depending on our pace. There will be lots of chances to see waterfowl, and some wooded areas in between to see lots of different bird species.\n\nThis walk is geared specifically for anyone who identifies as LGBTQIA+ and any level of birding experience is welcome.",
-    "location": "Arboretum Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Arboretum Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1915/1792339200000",
     "status": "",
     "categories": [
@@ -519,7 +494,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Have you ever thought about how you can support the causes you care about for generations to come? Join Birds Connect Seattle for a casual presentation and conversation about wills, estate planning, and the many ways you can include charitable giving in your plans.\n\nYou'll learn the basics of making a gift to Birds Connect Seattle through your will, including different types of bequests, sample language you can share with your attorney, and answers to common questions. We'll also talk about how Legacy Circle members are helping ensure that birds, habitat, and thriving communities remain part of Seattle's future.\n\nThis is an educational event and you don't need to have an estate plan to participate. Whether you're just getting started, updating an existing will, or already have a plan in place, you'll leave with useful information and resources to help you take the next step.\n\nWe'll provide pastries, coffee, and plenty of time for questions and conversation.\n\nRSVP to attend: secure.birdsconnectsea.org/a/plannedgivingpresentationoct26 https://secure.birdsconnectsea.org/a/plannedgivingpresentationoct26\n\nCan't attend? Email our Development Director, Carol Roll at carolr@birdsconnectsea.org mailto:carolr@birdsconnectsea.org to receive a copy of the presentation sent to you.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1914/1792431000000",
     "status": "",
     "categories": [],
@@ -544,7 +519,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Join the Birds Connect Seattle NextGen Council for a special Beers for Birds trivia event at Flying Bike Cooperative Brewery!\n\nThis month, there will be an opportunity to earn extra points via a special bird costume contest.\n\n1) A reminder to show up early, especially for those interested in the costume contest.\n\n2) Costume contest is separate from trivia and there will be a grand 1st prize, with 2nd, and 3rd prizes following.\n\nCome dressed in your best birdy outfits!\n\nThis event is all ages.",
-    "location": "Flying Bike Cooperative Brewery,8570 Greenwood Ave N, Seattle, WA 98103, USA",
+    "location": "Flying Bike Cooperative Brewery, 8570 Greenwood Ave N, Seattle, WA 98103, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1924/1792548000000",
     "status": "",
     "categories": [
@@ -597,7 +572,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1792610100000",
     "status": "",
     "categories": [
@@ -624,7 +599,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "This trip is at capacity. Register for the WAITLIST. https://secure.birdsconnectsea.org/a/skagitoct2026\n\nLeaders: Jen Yu (she/her) and Penny Bolton (she/her)\n\nMeet: Meet at 7am at Green Lake Park & Ride 6601 8th Ave NE, Seattle 98115, on the southern end of the northern lot. We will be riding together in the Birds Connect Seattle 15 passenger van. The cost of gas is included in the ticket price. If you need to ride separately, please let us know and then you will meet the group at 8:15am at Wiley Slough.\n\nTrip Accessibility: Pace- 1 leisurely Terrain- B soft ground, sand, gravel, dirt roads Estimated mileage - ~4 miles\n\nParticipant Limit:12\n\nJoin us for a full day of birding through some of the Skagit Valley's richest coastal and agricultural habitats! We will track shoreline, marsh, and farmland species across three birding hotspots:\n\nWiley Slough: We will start our morning exploring the restored tidal estuary and freshwater marsh trails, scanning for waterfowl, wading birds, raptors and songbirds in the riparian thickets.\n\nFir Island: Next, we will loop through the surrounding agricultural flats, keeping an eye out for raptors, shorebirds in flooded fields, and wintering flocks foraging across the farmland.\n\nBayview State Park & Padilla Bay: We will wrap up our route along Padilla Bay, scoping the mudflats and marine waters for diving ducks, loons, grebes, and coastal shorebirds feeding on the tide.\n\nWe expect to return to the Park and Ride around 5pm.\n\nWhat to Bring: Binoculars, a spotting scope (if you have one), sturdy walking shoes, layers for cool weather, and a lunch, water and snacks.\n\n*If the ticket fee in any way makes this trip inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
-    "location": "Green Lake Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Green Lake Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1900/1792850400000",
     "status": "",
     "categories": [
@@ -652,7 +627,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/nisquallyoct242026\n\nLeaders: NextGen Council: Jordan Juranek (425-681-6252), Emi Nye, Nachiket Watane, Pedro Rodriguez\n\nMeet: Nisqually Parking Lot (100 Brown Farm Rd NE, Olympia, WA 98516) 8:00am, in front of the visitor's center *This trip is meeting in Nisqually which is about an hour drive south of Seattle. If you need to coordinate carpooling, please reach out to Jordan directly*\n\nLimit: 20\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~ 4 miles\n\nBilly Frank Jr. Nisqually National Wildlife Refuge includes a combination of estuaries, tide flats, freshwater marshes, woodlands, and grasslands. The Nisqually Delta is a major non-coastal resting and feeding area for migrating birds and there are few places in the region better for observing them. We will walk the forest and barn trails and go as far out on the boardwalk as we care to go. This event involves several miles of walking on good, flat trails with restroom opportunities at the start and mid-way.\n\nWe'll spend about 4 hours in the field and finish around 11:30am. After birding, join us (totally optional!) at a nearby lunch spot for some hot food and drinks! Optional lunch and hangout done around ~1-2PM\n\nPlease dress for the weather and potential rain and wind, and pack some food, snacks, and water.\n\nThis is a federal facility, so a Discover Pass is not applicable. There is a refuge fee of $3 (bring cash) per vehicle.\n\nThere are public restrooms at the start and end of our route.\n\nPhotography welcome & encouraged. Spotting scopes encouraged. Please leave pets at home.\n\n*If the ticket fee in any way makes this trip inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
-    "location": "Billy Frank Jr Nisqually Wildlife Refuge,100 Brown Farm Rd NE, Olympia, WA 98516, USA",
+    "location": "Billy Frank Jr Nisqually Wildlife Refuge, 100 Brown Farm Rd NE, Olympia, WA 98516, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1899/1792854000000",
     "status": "",
     "categories": [
@@ -709,7 +684,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Eric Crockett (he/him) & Emily Larson (she/her)\n\nMeeting Point: Lot G tinyurl.com/yc5hmvu4 http://tinyurl.com/yc5hmvu4\n\nBike Parking: Yes, bike rack\n\nTrip Accessibility: 1 (leisurely pace), B (grass, gravel, boardwalk, mulch), ~ 2.3 miles walking\n\n\nCome explore the Eastside at Marymoor Park! We will walk a large loop around the park, covering a diverse range of habitats including meadows, woods, marsh, the north end of Lake Sammamish, the Sammamish River, and community garden. As we search for birds, there will be an emphasis on listening for bird sounds. Binoculars will come in handy, but scopes are not needed. Birders of all levels and ages are welcome. Note that about half this walk is in the off-leash dog area.",
-    "location": "Marymoor Park Lot G,6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
+    "location": "Marymoor Park Lot G, 6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1953/1792940400000",
     "status": "",
     "categories": [
@@ -734,7 +709,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cynthia Putnam (she/her) & Kathy Kaplan (she/her)\n\nMeeting Point: Meadowbrook Community Center, 10517 35th Ave NE, Seattle, WA\n\nBike Parking: Bike parking is in front of the community center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails), approx. 1 mile walking.\n\nJoin us during Birdability Week for an accessible bird walk at Meadowbrook: entails flat walking on sidewalk and boardwalk, seating available partway through, and about a half mile of slow strolling together.\n\nClick here to read more about Birdability Week. https://www.birdability.org/birdability-week\n\nMeadowbrook Pond is a wonderful little sanctuary which features diverse wildlife, interesting foliage, sculptures and trails all integrated so that humans and wildlife alike can enjoy the surroundings. It also plays a very practical role, capturing sediment from Thornton Creek and reducing downstream impact. The natural area features a wetland, wildlife habitat and open space. Bridges and walking platforms extend across the pond enabling visitors to get closer to the wildlife living in and visiting the pond. We hope to encounter a mix of passerines, raptors, and waterfowl. A significant portion of the walk lends itself to finding birds by their sounds, enabling us to practice our birding-by-ear skills. Our route will cover no more than 1 mile and usually takes 1.5 hours, depending on what we see and hear. Dress for weather; bring binoculars, water & snacks. Over by 10:00am.",
-    "location": "Meadowbrook Community Center Parking,10517 35th Ave NE, Seattle, WA 98125, USA",
+    "location": "Meadowbrook Community Center Parking, 10517 35th Ave NE, Seattle, WA 98125, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1943/1792942200000",
     "status": "",
     "categories": [
@@ -760,7 +735,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead, marsh wren, and yellow-rumped warbler, and possible birds include fox sparrow, belted kingfisher, and redhead.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1947/1792944000000",
     "status": "",
     "categories": [
@@ -811,7 +786,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1793214900000",
     "status": "",
     "categories": [
@@ -867,7 +842,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\n\nLeaders: Kathy Kaplan (she/her)\n\nMeeting Point: 8am at Parking Lot C\n\nBike Parking: Yes, bike rack\n\nTrip Accessibility: Trip Accessibility: 1 (leisurely pace), B (soft ground, sand, gravel, dirt roads), ~3 miles walking\n\n\nJoin us as we go birding on the Eastside at Marymoor Park! And yes, you read that right: we are offering dog friendly neighborhood outings!\n\nWell behaved dogs welcome on leash while on trails and off leash as applicable during the off leash dog park section. Please leave dogs at home if they're not friendly or just too excitable towards people, dogs or birds.\n\nIt's Halloween, so let's run the dogs and see some birds before all the evening shenanigans start! Costumes welcome if you are so inclined.\n\nWe will walk a large loop around the park, covering a diverse range of habitats including meadows, woods, marsh, the north end of Lake Sammamish, the Sammamish River, and community garden. Birders of all levels and ages are welcome. Note that about half this walk is in the off-leash dog area. We’ll spend about 2-1/2 to 3 hours in the field. Bring layers, rain gear, water and snacks. Done around 11am or so. Marymoor charges $1.25 for parking.",
-    "location": "Marymoor Park,Parking Lot C",
+    "location": "Marymoor Park, Parking Lot C",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1945/1793458800000",
     "status": "",
     "categories": [
@@ -892,7 +867,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: John Leszczynski & Elaine Chuang\n\nMeeting Point: In front of the Ballard Locks Visitor Center. For those driving, note that on the Ballard side of the Locks, there is a paid parking lot at the main entrance, and limited nearby street parking. There is free parking in a small lot in Commodore Park on the Magnolia side (south side).\n\nBike Parking: Bike racks near visitor center\n\nTrip Accessibility: 1 (leisurely pace), B (mostly solid pavement but some steps and steep hills) ~ 1 mil\n\nThe meeting of salt and fresh water at the Ballard Locks makes for an interesting mix of species, many of which can be observed at close range. Join us the last Saturday of each month to watch an ever-changing cast of birds. Seasonal visitors integrate with year-round residents like Belted Kingfishers, Cormorants, and Great Blue Herons. Cared for by the horticulture staff, the surrounding grounds are also habitat for “the usual suspects” for our region. This is a great walk for all, including beginners: no experience is necessary! If you can, bring binoculars; they are available on loan from the Birds Connect Seattle Retail Space located at 616 Olive Way, Seattle, WA. Please call 206-523-4483 to reserve a pair.",
-    "location": "Ballard Locks Visitor Center,3015 NW 54th St, Seattle, WA 98107, USA",
+    "location": "Ballard Locks Visitor Center, 3015 NW 54th St, Seattle, WA 98107, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1934/1793460600000",
     "status": "",
     "categories": [
@@ -918,7 +893,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Registration for this trip is closed. Check back again for similar field trips!\n\nLeader: Denning Gillespie (they/them; day of trip only: 425-233-9719)\n\nMeet: 7:00 AM Green Lake (Ravenna) P&R, south side of north lot near NE 65th St to carpool or option to meet the group at 8:00AM at the Everett Sewage Lagoon South Parking Lot (47.99282, -122.17311)\n\nLimit: 15\n\nTrip Accessibility: 1 (leisurely pace), B (level pavement roads and gravel trails), 2-3 miles of walking\n\n*Note: for this trip, the BCS Van is not available. We will meet at the Park and Ride and carpool with personal vehicles*\n\nJoin us for a winter waterfowl extravaganza at Everett Sewage Lagoons and Spencer Island! We will spend the day observing the many species of ducks, geese, gulls, and shorebirds that spend their winters in Western WA. This trip will begin by moving around the perimeter of the lagoons, after which we will walk to the nearby Spencer Island wildlife area and observe birds in the Snohomish River Estuary.\n\nThe Spencer Island trails are expansive and depending on timing and what we are seeing, this trip will likely involve several miles of walking on flat, paved or gravel trails. Pack snacks, lunch, and water, and definitely prepare for wind and rain with multiple layers. Scopes are very helpful for viewing the often-massive groups of waterfowl found in the lagoons. If you have a scope, you are highly encouraged to bring it along with any other optics you may have. Leader will also provide scopes, binoculars, and ID tools for the group to use so do not worry if you don't have these items. Over around 2:00 PM.\n\nCarpooling is highly encouraged due to the limited parking at the site. We will meet at Green Lake Park and Ride at 7:00 to carpool. If you do need to meet us at the site I can provide coordinates for our meeting location. See you there!",
-    "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Greenlake (Ravenna) Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1971/1793545200000",
     "status": "",
     "categories": [
@@ -943,7 +918,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Fall & Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org https://www.arboretumcreek.org",
-    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Graham Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1927/1793550600000",
     "status": "",
     "categories": [
@@ -968,7 +943,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1793823300000",
     "status": "",
     "categories": [
@@ -995,7 +970,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Cinny Burrell (she/her) and David Selk (he/him)\n\nMeeting Point: 9:00am Meet in the parking lot closest to Carkeek Park Beach Playground, which is the last parking lot furthest into the park. Carkeek Park is forested ravine along Puget Sound between the Blue Ridge and Broadview neighborhoods. The vehicle entrance is at 6th Avenue NW just off of NW 100th Place.\n\nTrip Accessibility: 1, C, 1-2 miles walking distance\n\nBike Parking: Some bike parking available\n\nWe will explore wooded areas on the west side of the park as well as search for water birds on Puget Sound. November MAY also present the spectacle of coho or chum salmon returning to their spawning grounds in Piper Creek, which runs through the park. We will check out the stream in search of these amazing fish.",
-    "location": "Carkeek Meeting Location,Parking lot, NW Carkeek Park Rd, Seattle, WA 98177, USA",
+    "location": "Carkeek Meeting Location, Parking lot, NW Carkeek Park Rd, Seattle, WA 98177, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1957/1793898000000",
     "status": "",
     "categories": [
@@ -1020,7 +995,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Dave Galvin (206-718-5397 day of only)\nMeeting Point: Southwest corner of Lake Union at Valley Street and Westlake Avenue North.\n\nBike Parking: Yes, immediately nearby bike racks are available.\n\nTrip Accessibility: 1(leisurely pace), A (solid pavement, sidewalk, mostly level), ~ less than a quarter mile.\n\nBeginner’s bird walk along the SW shore of Lake Union. Good for close views of waterfowl through the winter months. The path is all paved, totally flat, and very wheel-chair-accessible. Dress for winter weather. Bring binoculars if you have access to them. Explore South Lake union after the walk, including the Museum of History and Industry (MOHAI) as well as nearby Center for Wooden Boats. We often stop at the MOHAI Cafe for coffee after the walk at 10, to warm up and enjoy more conversation indoors. Parking is limited, best along Westlake to the northwest of our meeting spot. Public transit is recommended. Find a map and more information on the Lake Union Park http://www.seattle.gov/parks/find/parks/lake-union-park website.\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Lake Union Meeting Location,950 Valley St, Seattle, WA 98109, USA",
+    "location": "Lake Union Meeting Location, 950 Valley St, Seattle, WA 98109, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1940/1793898000000",
     "status": "",
     "categories": [
@@ -1099,7 +1074,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "REGISTER https://secure.birdsconnectsea.org/a/shrink-plastic-magnet-workshop\n\nDate/Time: Saturday, November 7, 9:30-11:30 a.m.\n\nLocation: Tower Building 3rd Floor Conference Room. Meet at Birds Connect Seattle headquarters (616 Olive Way)\n\nLeaders: Ian Jan (he/him), Gina Simmons (she/her), Emi Nye (she/her)\n\nCome make fridge magnets using shrink plastic at a crafting workshop led by NextGen Council members Ian, Gina, and Emi! Supplies are included in the registration fee. Bring your ideas to life!\n\nThis event is hosted by the Birds Connect Seattle NextGen Council and is open to folks of all ages.",
-    "location": "Birds Connect Seattle headquarters,616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters, 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1973/1794072600000",
     "status": "",
     "categories": [
@@ -1128,7 +1103,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: 'Pedro Rodriguez (he/him) and Anthony Pangelinan (he/him) NextGen Council Members\n\nMeeting Point: Center for Urban Horticulture, Parking lot E16, 6:15am.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nJoin NextGen Council Members Pedro and Anthony for sunrise birding and photography at Union Bay Natural Area. UBNA fall/winter sunrises can be spectacular, providing great opportunities for backlit and sidelite photography for returning waterfowl. Walk is open to all birders and photographers of any level from beginner to expert!\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl.\n\nWe will start the morning along the water before looping to the swallow nesting area then return through the parking lot to Yesler Swamp before wrapping up at the parking lot.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1959/1794147300000",
     "status": "",
     "categories": [
@@ -1155,7 +1130,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Kurt Aylup (he/him)\n\nMeet: 12:00pm, Discovery Park, North Parking Lot\n\nTrip Accessibility:1 (leisurely pace), C (hiking trails with gentle rolling hills), 2-3 miles walking depending on paths taken\n\nOnsite Bike Parking: No bike racks available in the North Lot. The Discovery Park Visitor Center has some, as does the Daybreak Star Indian Cultural Center\n\nAre you not a morning person, but you still love birds? Do you put an early morning bird outing on your calendar ahead of time, only to find yourself still in bed at the start time? Well lucky for you, you CAN be a birder without getting up at sunrise - and this walk will serve as further proof! Will we see all the birds that we would have if we arrived at sunrise? Probably not, but will we still see many birds, and interesting ones therein? Most certainly! Come join us at the crack of the afternoon while we venture through some sections of Discovery that may not be as frequently visited as others. You WON'T have to leave your friends at the bar (or D&D game, if that's more your speed) early Saturday night just to hope for at least six hours of sleep. End at 2:30pm.",
-    "location": "Discovery Park North Parking Lot,Discovery Park, Seattle, WA 98199, USA",
+    "location": "Discovery Park North Parking Lot, Discovery Park, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1988/1794168000000",
     "status": "",
     "categories": [
@@ -1208,7 +1183,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cynthia Putnam (she/her) & Kathy Kaplan (she/her)\n\nMeeting Point: Montlake Community Center, 1618 East Calhoun St. Street parking in residential neighborhood on East Calhoun St. or in community center parking lot. Metro Transit Buses 43, 48 and 49.\n\nBike Parking: Bike racks are available in the front of the community center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails), approx. 1 mile walking\n\nThis walk encompasses Montlake Playfield Park and West Montlake Park, providing opportunities to explore birds from several vantage points. It is good for viewing waterfowl in Portage Bay as well as woodland birds in the neighborhood parks. A portion of the walk lends itself to finding birds by their sounds, so we hope to practice our birding by ear skills. Our route will cover no more than 2 miles and usually takes 2 hours, depending on what we see and hear. Dress for weather; bring binoculars, water & snacks. Over by 10:00am.",
-    "location": "Montlake Parking Lot,1618 E Calhoun St, Seattle, WA 98112, USA",
+    "location": "Montlake Parking Lot, 1618 E Calhoun St, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1944/1794414600000",
     "status": "",
     "categories": [
@@ -1259,7 +1234,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1873/1794502800000",
     "status": "",
     "categories": [
@@ -1313,7 +1288,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\n\nLeader: Kathy Kaplan (she/her)\n\nMeeting Point: 9:00am, Meadowbrook Community Center, 10517 35th Ave NE, Seattle, WA\n\nAccessibility: 1 (leisurely pace), C (sidewalks and trail), less than 1 mile walking. Stroller friendly. If we do the full loop (which is TBD based on group that day), there is one spot that has 6 steps going down - with plenty of help available to get stroller down that way if needed. Bathroom at community center meeting point usually opens 9am Saturdays.\n\n\nCalling all kiddos! This trip is geared for kids age 6 - 14 and newer birders, but all are welcome! Birding game will be included. All children must be accompanied by an adult.\n\nMeadowbrook Pond is a wonderful little sanctuary which features diverse wildlife, interesting foliage, sculptures and trails all integrated so that humans and wildlife alike can enjoy the surroundings. It also plays a very practical role, capturing sediment from Thornton Creek and reducing downstream impact. The natural area features a wetland, wildlife habitat and open space. Bridges and walking platforms extend across the pond enabling visitors to get closer to the wildlife living in and visiting the pond. We hope to encounter a mix of passerines, raptors, and waterfowl. Our route will cover no more than 1 mile and usually takes ~1.5 hours, depending on what we see and hear. Dress for weather; bring binoculars, water & snacks.",
-    "location": "Meadowbrook Community Center Parking,10517 35th Ave NE, Seattle, WA 98125, USA",
+    "location": "Meadowbrook Community Center Parking, 10517 35th Ave NE, Seattle, WA 98125, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1946/1794675600000",
     "status": "",
     "categories": [
@@ -1339,7 +1314,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Neil Zimmerman\n\nMeeting Point: Discovery Park South Parking Lot\n\nDiscovery Park is at the western end of Interbay-Magnolia. Meet near the toilet facility at the South Parking lot (enter on right off W Emerson St. just beyond Viewmont Way W).\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Discovery Park South Parking Lot,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
+    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1951/1794675600000",
     "status": "",
     "categories": [
@@ -1365,7 +1340,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her), Denning Gillespie (they/them) and Jules Stanley (she/her) - NextGen Council Members\n\nMeeting Point: 9:00am - 11:00am, Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in the parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: No bike racks available at the park. There are small trees where one could secure a bike.\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nHello fellow Queer Birders! Get ready for weird duck season! This park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks.\n\nWe will be staying in relatively close proximity to the car park, with plenty of turn around points along the way. Bathrooms are easily accessible the whole trip.\n\nThis walk is geared specifically for everyone who identifies as LGBTQIA+ and of any level of birding experience is welcome.",
-    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
+    "location": "Juanita Bay Park, 2201 Market St, Kirkland, WA 98033, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1841/1794675600000",
     "status": "",
     "categories": [
@@ -1392,7 +1367,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Eric Crockett (he/him) & Emily Larson (she/her)\n\nMeeting Point: Lot G tinyurl.com/yc5hmvu4 http://tinyurl.com/yc5hmvu4\n\nBike Parking: Yes, bike rack\n\nTrip Accessibility: 1 (leisurely pace), B (grass, gravel, boardwalk, mulch), ~ 2.3 miles walking\n\n\nCome explore the Eastside at Marymoor Park! We will walk a large loop around the park, covering a diverse range of habitats including meadows, woods, marsh, the north end of Lake Sammamish, the Sammamish River, and community garden. As we search for birds, there will be an emphasis on listening for bird sounds. Binoculars will come in handy, but scopes are not needed. Birders of all levels and ages are welcome. Note that about half this walk is in the off-leash dog area.",
-    "location": "Marymoor Park Lot G,6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
+    "location": "Marymoor Park Lot G, 6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1954/1794758400000",
     "status": "",
     "categories": [
@@ -1417,7 +1392,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Anthony Pangelinan (he/him) & Andy Huynh (he/him)\n\nMeeting Point: 9:00 am PST at the Ballard Locks Visitor Center, 3015 NW 54th St, Seattle, WA 98107\n\nBike Parking: None expected.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly solid pavement but some steps and steep hills)\n\nAll-ages BIPOC Neighborhood Bird Outing\n\n\nThe meeting of salt and fresh water at the Ballard Locks makes for an interesting mix of species, many of which can be observed at close range. Join us in this all-ages, BIPOC-centered outing to watch an ever-changing cast of birds. Seasonal visitors integrate with year-round residents like Belted Kingfishers, Cormorants, and Great Blue Herons. Cared for by the horticulture staff, the surrounding grounds are also habitat for “the usual suspects” for our region. This is a great walk for all, including beginners: no experience is necessary!\n\n*Please note that this trip is specifically for folks who identify as Black, Indigenous, and People of Color (BIPOC)*\n\nPhoto Credit: Ian Jan",
-    "location": "Ballard Locks Visitor Center,3015 NW 54th St, Seattle, WA 98107, USA",
+    "location": "Ballard Locks Visitor Center, 3015 NW 54th St, Seattle, WA 98107, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1942/1794762000000",
     "status": "",
     "categories": [
@@ -1443,7 +1418,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead, marsh wren, and yellow-rumped warbler, and possible birds include fox sparrow, belted kingfisher, and redhead.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1948/1794762000000",
     "status": "",
     "categories": [
@@ -1468,7 +1443,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1956/1794763800000",
     "status": "",
     "categories": [
@@ -1486,7 +1461,7 @@
   {
     "id": "f51c597492d3",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1975/29916120/0/0",
-    "title": "Online Class: Getting Into Shape for Bird ID with John Rakestraw",
+    "title": "Online Class: Birding by Shape with John Rakestraw",
     "start": "2026-11-17T18:00:00-08:00",
     "end": "2026-11-17T20:00:00-08:00",
     "startDate": "2026-11-17",
@@ -1522,7 +1497,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: no\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's hawk, belted kingfisher, and some returning winter waterfowl. We will discuss the life cycles of these birds and critical importance of habitat in their survival. Bring any questions that you may have, I will do my best to answer them! all levels of experience welcome.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1920/1795019400000",
     "status": "",
     "categories": [
@@ -1547,7 +1522,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1795032900000",
     "status": "",
     "categories": [
@@ -1602,7 +1577,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "REGISTER https://secure.birdsconnectsea.org/a/nextgen-wingspan-november2026-oldstove\n\nDate/Time: Thursday, November 19, 6:30-9 p.m.\n\nLocation: Old Stove Brewing - Ship Canal (600 W Nickerson St, Seattle, WA 98119)\n\nJoin Birds Connect Seattle's NextGen Council for an evening of board game fun! We have tables reserved for 40 attendees at Old Stove Ship Canal. The brewery has food (taco & beer food truck!) and beverages (beer, cocktails, wine, cider, and non-alcoholic drinks) for sale, but no outside food or drink allowed.\n\nThis location is family friendly, dogs are allowed. This event is hosted by NextGen, but gamers of all ages are welcome to register and attend. We will set up the board games and split into groups from ~6:30-6:45pm, and start playing right around 6:45/7pm so we wrap up by 9pm.\n\nWingspan is a massively popular, competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez. In the game (as in real life), you are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife habitats. Each bird extends a chain of powerful combinations in one of your habitats (actions). When you arrive, please look for the table tents with our event name on them (Birds Connect Seattle Board Game Night) or ask one of the friendly beertenders for assistance. Also, if you own the Wingspan board game, please bring it to the event, we will need some extra sets of the game and any expansion packs!\n\nPlease Note: Limited to 40 attendees. This event has limited slots, and you must register. If the event is full, please signup for the waitlist, and you will be moved up as people update their RSVPs.\n\nVISIT THE TAPROOM AT SHIP CANAL\nJoin us at the 49er Taproom in the Ship Canal Maritime District. Eat, drink, share stories around the stove and admire the authentic beer memorabilia scattered through our space. Street parking and bus routes nearby. Bike parking on-site, please bring a lock.\n\n\nDirections and menus: https://www.oldstove.com/shipcanal https://www.oldstove.com/shipcanal",
-    "location": "Old Stove Ship Canal,600 W Nickerson St, Seattle, WA 98119, USA",
+    "location": "Old Stove Ship Canal, 600 W Nickerson St, Seattle, WA 98119, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1913/1795141800000",
     "status": "",
     "categories": [
@@ -1630,7 +1605,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "This event is open to ALL AGES!\n\nNeighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Jordan Juranek (she/her) and Lindsey Johnson (she/her) NextGen Council members\n\nMeeting Point: Carkeek Park: the parking lot closest to the beach, next to the playground. 950 NW Carkeek Park Rd, Seattle, WA 98177\n\nBike Parking: Outdoor bike racks available, bring a lock\n\nTrip Accessibility: 0, A, flat pavement, optional grass area. No walking. We will be set up near the park benches right next to the ADA parking spots. This bird outing is designed to be intentionally inclusive and accessible for beginner and advanced birders. Strollers and wheelchairs are welcome. Feel free to bring chairs if you like. If you have any questions about the accessibility of the outing, please contact us.\n\nDescription: Join us at the bluff overlooking the beach at Carkeek Park where we will spend a relaxed morning with spotting scopes and coffees surveying the Puget Sound for sea and shore birds. This will be a laid-back morning so feel encouraged to stop in anytime between 9 and 11, bring snacks, beverages, and chairs. We will have scopes and binoculars available but please feel encouraged to bring your own binoculars as well. Restrooms are open at the park.\n\nTarget birds: Cormorants, Brant, Scoter, Murres, Bufflehead, Grebes, Loons, Mergansers, Goldeneye, Auklets, Bald Eagle, and more!",
-    "location": "Parking - Carkeek Park Beach,NW Carkeek Park Rd, Seattle, WA 98177, USA",
+    "location": "Parking - Carkeek Park Beach, NW Carkeek Park Rd, Seattle, WA 98177, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1922/1795280400000",
     "status": "",
     "categories": [
@@ -1645,6 +1620,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
     "image": "/src/assets/events/8c28671303eb.jpg"
+  },
+  {
+    "id": "bf49a54edffd",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2000/29921400/0/0",
+    "title": "University House Holiday Bazaar (Partner Event)",
+    "start": "2026-11-21T10:00:00-08:00",
+    "end": "2026-11-21T14:00:00-08:00",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Kick off your holiday shopping with local and hand-made gifts for everyone on your list.\n\nAt the annual Holiday Bazaar University House residents and community vendor will have tables featuring handmade crafts, jewelry, knitted goods, custom art, holiday ornaments, and baked or canned goods.\n\nThere's no charge for admission and this event is open to the public.\n\nLong-time Birds Connect Seattle member and University House resident, Virginia Morrison, will be selling her hand-sewn creations with all sales being donated to Birds Connect Seattle.\n\nCheck Wallyhood https://www.wallyhood.org/ or contact University House Wallingford https://www.google.com/search?kgmid=%2Fg%2F1tfkqg8l directly at (206) 545-8400 with questions.",
+    "location": "University House Wallingford, 4400 Stone Way N, Seattle, WA 98103",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2000/1795284000000",
+    "status": "",
+    "categories": [
+      "Partner",
+      "Retail"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/67225a90b2984c6f5723d5f8/scaled_1024.jpg",
+    "image": "/src/assets/events/bf49a54edffd.jpg"
   },
   {
     "id": "bf30b9e06b20",
@@ -1710,7 +1710,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1795637700000",
     "status": "",
     "categories": [
@@ -1737,7 +1737,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Click here to register for this trip! https://secure.birdsconnectsea.org/a/nisqually-nov2026\n\nLeader: Kathy Kaplan (she/her) & Cynthia Putnam (she/her)\n\nMeet: 6:30 AM Green Lake (Ravenna) P&R. South side of North lot near 65th St.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~3 miles walking\n\nCome #optoutside with us the day after Thanksgiving!\n\nBilly Frank Jr. Nisqually National Wildlife Refuge includes a combination of estuaries, tide flats, freshwater marshes, woodlands, and grasslands. The Nisqually Delta is a major non-coastal resting and feeding area for migrating waterfowl and shorebirds. There are few places in the region better for observing wintering waterfowl and other birds. We will walk the forest and barn trails and as far out on the boardwalk as we care to go. We willl spend about 4 hours in the field. This event involves several miles of walking on good flat trails with restroom opportunities at the start and mid-way. Vanpool cost: $35 per passenger. Bring layers, rain gear, lunch, water and snacks. Return between 1-2 PM, depending on traffic.\n\nTravel to the site will be by BCS's new 15-passenger vanpool. Cost for the trip and vanpool are $35 per participant. The vanpool eliminates caravans of personal vehicles and offers opportunity for conversation and learning on the road. Birds Connect Seattle is very excited to have their own van now to support these kinds of cohesive and community focused outings!",
-    "location": "Green Lake Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Green Lake Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1970/1795789800000",
     "status": "",
     "categories": [
@@ -1765,7 +1765,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "This trip is at capacity. Click here to register for the WAITLIST https://secure.birdsconnectsea.org/a/nov2026porttownsend .\n\nLeaders: Neil Zimmerman (he/him) (206-200-6700) and Roniq Bartanen (she/her)\n\nMeet: 6:15 AM, Green Lake (Ravenna) P&R located at 6601 8th Ave NE, Seattle 98115. It is located under I-5 on the north side of NE 65th Street. We will all be riding together in the Birds Connect Seattle passenger van!\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails and boardwalk), ~ 3 miles walking\n\nAn early start time so we can catch the 7:10 AM Edmonds ferry. This is a great trip that has been offered for about twenty years. Join Roniq and Neil as they explore areas around Port Townsend and Marrowstone Island looking for wintering seabirds such as murrelets, scoters and Long-tailed Ducks. Shorebirds such as Black Turnstones, Oystercatchers and Sanderlings can be expected. Usually, large numbers of ducks are found in the freshwater ponds. There will be many other species to see. We will be gone most of the day, getting back late afternoon or early evening depending on the ferry schedule. Pack a lunch, bring treats for the leaders, and dress warmly and bring another layer along for blustery weather. It can be breezy by the water. Don’t be put off by the weather; this is a good trip. Scopes will be helpful and can be borrowed from the BCS Nature Shop along with binoculars. We will be leaving the P&R at 6:15 sharp to make sure we catch the ferry we want. By the way, the scenery is pretty good also.",
-    "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Greenlake (Ravenna) Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1969/1795875300000",
     "status": "",
     "categories": [
@@ -1793,7 +1793,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: John Leszczynski & Elaine Chuang\n\nMeeting Point: In front of the Ballard Locks Visitor Center. For those driving, note that on the Ballard side of the Locks, there is a paid parking lot at the main entrance, and limited nearby street parking. There is free parking in a small lot in Commodore Park on the Magnolia side (south side).\n\nBike Parking: Bike racks near visitor center\n\nTrip Accessibility: 1 (leisurely pace), B (mostly solid pavement but some steps and steep hills) ~ 1 mil\n\nThe meeting of salt and fresh water at the Ballard Locks makes for an interesting mix of species, many of which can be observed at close range. Join us the last Saturday of each month to watch an ever-changing cast of birds. Seasonal visitors integrate with year-round residents like Belted Kingfishers, Cormorants, and Great Blue Herons. Cared for by the horticulture staff, the surrounding grounds are also habitat for “the usual suspects” for our region. This is a great walk for all, including beginners: no experience is necessary! If you can, bring binoculars; they are available on loan from the Birds Connect Seattle Retail Space located at 616 Olive Way, Seattle, WA. Please call 206-523-4483 to reserve a pair.",
-    "location": "Ballard Locks Visitor Center,3015 NW 54th St, Seattle, WA 98107, USA",
+    "location": "Ballard Locks Visitor Center, 3015 NW 54th St, Seattle, WA 98107, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1935/1795883400000",
     "status": "",
     "categories": [
@@ -1819,7 +1819,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Jen Yu (she/her) and Penny Bolton (she/her)\n\n\nMeeting Point: 9:00am at Seward Park Audubon Center\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: Trip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails), approx. 3 miles walking\n\nExplore the urban shoreline along Lake Washington Boulevard for a seasonal waterfowl stroll celebrating the oddities, colorful plumage, and quirky diving behaviors of migratory ducks.\n\nEvery fall and winter, thousands of migratory waterfowl journey along the Pacific Flyway to settle in the sheltered bays and freshwater shallows along Lake Washington Boulevard. This shoreline walk turns an ordinary lake stroll into an exploration of the \"weirdest\" winter visitors, highlighting unique bills and striking winter coats.\n\nThe \"Weird Duck\" Lineup: Spot the spiky crests of Hooded Mergansers, the oversized feet of American Coots, the bright white cheek patches of Buffleheads, and the striking facial crescents of Barrow's Goldeneyes.\n\nFor this walk, we will meet at the Seward Park Audubon Center, and then walk north along the shore of Lake Washington for about 1.5 miles, and then turn around and head back south.\n\n*Consider parking in the neighborhood, as the parking lots fill up quite quickly!*",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1966/1795885200000",
     "status": "",
     "categories": [
@@ -1844,7 +1844,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\n\nLeaders: Lindsey Johnson (she/her) 205-538-4294 (day of only)\n\nMeeting Point: Parking Lot at Edmonds Marsh Boardwalk Entrance : 180 W Dayton St, Edmonds, WA 98020, 8am\n\nBike Parking: Bike racks outside of Harbor Square Athletic Club next door\n\nTrip Accessibility: 1 (leisurely pace), A (solid pavement, sidewalk, mostly level)\n\nThe Edmonds Marsh is one of the few urban, tidally influenced saltwater estuaries remaining in the Puget Sound area. Join us during the high tides of November to see Belted Kingfishers, Great Blue Herons, and migrating waterfowl seeking shelter from the rougher waters of the Sound.",
-    "location": "Edmonds Marsh,180 W Dayton St, Edmonds, WA 98020, USA",
+    "location": "Edmonds Marsh, 180 W Dayton St, Edmonds, WA 98020, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1955/1795968000000",
     "status": "",
     "categories": [
@@ -1896,7 +1896,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1796242500000",
     "status": "",
     "categories": [
@@ -1923,7 +1923,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Dave Galvin (206-718-5397 day of only)\nMeeting Point: Southwest corner of Lake Union at Valley Street and Westlake Avenue North.\n\nBike Parking: Yes, immediately nearby bike racks are available.\n\nTrip Accessibility: 1(leisurely pace), A (solid pavement, sidewalk, mostly level), ~ less than a quarter mile.\n\nBeginner’s bird walk along the SW shore of Lake Union. Good for close views of waterfowl through the winter months. The path is all paved, totally flat, and very wheel-chair-accessible. Dress for winter weather. Bring binoculars if you have access to them. Explore South Lake union after the walk, including the Museum of History and Industry (MOHAI) as well as nearby Center for Wooden Boats. We often stop at the MOHAI Cafe for coffee after the walk at 10, to warm up and enjoy more conversation indoors. Parking is limited, best along Westlake to the northwest of our meeting spot. Public transit is recommended. Find a map and more information on the Lake Union Park http://www.seattle.gov/parks/find/parks/lake-union-park website.\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Lake Union Meeting Location,950 Valley St, Seattle, WA 98109, USA",
+    "location": "Lake Union Meeting Location, 950 Valley St, Seattle, WA 98109, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1941/1796317200000",
     "status": "",
     "categories": [
@@ -1948,7 +1948,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cinny Burrell (she/her) and David Selk (he/him)\n\nMeeting Point: 9:00 Meet in the #2 parking lot, which is the furthest south on Fauntleroy Way SW (the last one before the ferry terminal).\n\nBike Parking: Some bike parking available\n\nTrip Accessibility: 1, C, 1.5-2.0 walking distance. Walking on dirt pathways and some uneven ground.\n\nWe will start near the parking lot and meander our way down to the waterfront. Along the way we will pass through several habitats that will allow us to see and hear everything from songbirds to waterfowl. Dress for changing weather conditions.",
-    "location": "Lincoln Park #2,4699 SW Cloverdale St, Seattle, WA 98136, USA",
+    "location": "Lincoln Park #2, 4699 SW Cloverdale St, Seattle, WA 98136, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1958/1796317200000",
     "status": "",
     "categories": [
@@ -2002,7 +2002,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Jen Yu (she/her) and Casey Herrick (she/her)\n\n\nMeeting Point: 9am at the Center for Urban Horticulture parking lot E16, off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st\n\nBike Parking: Yes; bike rack in back of building, bring a lock.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~2 miles walking\n\nExplore the urban shoreline along Lake Washington at Union Bay for a seasonal waterfowl stroll celebrating the oddities, colorful plumage, and quirky diving behaviors of migratory ducks.\n\nEvery fall and winter, thousands of migratory waterfowl journey along the Pacific Flyway to settle in the sheltered bays and freshwater shallows along Lake Washington. This shoreline walk turns an ordinary lake stroll into an exploration of the \"weirdest\" winter visitors, highlighting unique bills and striking winter coats.\n\nThe \"Weird Duck\" Lineup: Spot the spiky crests of Hooded Mergansers, the oversized feet of American Coots, the bright white cheek patches of Buffleheads, and the striking facial crescents of Barrow's Goldeneyes.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1967/1796490000000",
     "status": "",
     "categories": [
@@ -2027,7 +2027,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Join the fun at Birds Connect Seattle's Holiday Open House!\n\nCome in the morning to enjoy a sipping on bird-friendly coffee, tea, or cocoa while you shop. Or snack on a spiced cookie to get you in the spirit of the season.\n\nExplore our interactive mini-museum exhibit: The Wonderful World of Owls and talk to our staff an volunteers about our bird skin collection to learn about facinating adaptations of our local species.\n\nSustaining members can enjoy a special 10% discount on all holiday shopping including calendars, holiday cards, and ornaments.\n\nWhether you're a bird lover or just looking for fun, Birds Connect Seattle offers an engaging experience for all ages this holiday season, and especially at our fun open house.",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1972/1796493600000",
     "status": "",
     "categories": [
@@ -2052,7 +2052,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Fall & Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org https://www.arboretumcreek.org",
-    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Graham Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1929/1796574600000",
     "status": "",
     "categories": [
@@ -2077,7 +2077,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Neil Zimmerman\n\nMeeting Point: Discovery Park South Parking Lot\n\nDiscovery Park is at the western end of Interbay-Magnolia. Meet near the toilet facility at the South Parking lot (enter on right off W Emerson St. just beyond Viewmont Way W).\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Discovery Park South Parking Lot,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
+    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1952/1796576400000",
     "status": "",
     "categories": [
@@ -2103,7 +2103,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Kurt Aylup (he/him)\n\nMeet: 12 pm, at Parking Lot E14 at Union Bay Natural Area, just NE of the Emergency Helistop and near the University of Washington Golf Range\n\nTrip Accessibility:1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1-1.5 miles walking\n\nOnsite Bike Parking: I don't know of any that are right by the meeting point, but there should be some near the CUH building which is about a 10 minute walk from the meeting point\n\nUnion Bay Natural Area is an iconic birding spot in Seattle and perhaps the most frequently visited location for Neighborhood Bird Outings, for good reason! It offers a variety of species, is accessible to all birding levels, has beautiful trails, etc. But what may not be obvious to some who don't frequent it is that there are a number of trails outside of the main \"loops,\" which can also have some great birds! This walk will go through some of those areas, starting up at Parking Lot E14 where we can look at a few small wooded patches of habitat along the creek, and then walk down the creek past some classic spots such as the \"Bathtub\" and the Lagoon where we can see a mix of marsh, water, and woodland species, and then head down near some of the UW athletic buildings where we can have a nice view of the open water and some of the islands along the shore. The southernmost point has a couple islands that have historically been good shorebird habitat, and if we're lucky we may see the Wilson's Snipes that have hung out there in previous winters. Other species we might see along the way include herons, loads of duck and other water-dwelling species, Marsh Wrens, Yellow-rumped Warblers, Fox Sparrows, goldfinches, kingfishers, Downy Woodpeckers, Northern Flickers, and plenty more. The walk will start at a comfortable 12 pm to allow for folks to start their morning in a leisurely fashion.",
-    "location": "UW Wetlands Parking,NE Clark Rd, Seattle, WA 98105, USA",
+    "location": "UW Wetlands Parking, NE Clark Rd, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1989/1796587200000",
     "status": "",
     "categories": [
@@ -2129,7 +2129,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "REGISTER https://secure.birdsconnectsea.org/a/rootswings\n\nWe all love birds and trees. We all hold stories, memories, and images. Join us to write one of yours! No experience necessary; beginners are welcome in this writing workshop. Teachers will use guided exercises to help you discover words and ideas for a story about birds and/or trees. Please bring a notebook and pen. Snacks provided. Registration is limited so sign up now. This class is offered in partnership with Trees and People Coalition https://treesandpeople.org/ .",
-    "location": "Tower Building Lobby,1809 7th Ave, Seattle, WA 98101, USA",
+    "location": "Tower Building Lobby, 1809 7th Ave, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1987/1796695200000",
     "status": "",
     "categories": [
@@ -2159,7 +2159,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez (he/him)\n\nMeeting Point: Center for Urban Horticulture in the East parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street, lot E16\n\nBike Parking: no\n\nTrip Accessibility: 2 (steady but able to maintain a conversation), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds include Bald Eagle, Cooper's Hawk, belted kingfisher, and Savannah Sparrow. We will explore the Arctic Visitors (winter water birds) of Yesler Cove and Lake Washington shoreline. All are welcome from beginners to advanced birders; I will have something for everyone! Bring your birding questions and I will do my best share answers.",
-    "location": "Union Bay Natural Area,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Natural Area, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1998/1796835600000",
     "status": "",
     "categories": [
@@ -2184,7 +2184,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1796847300000",
     "status": "",
     "categories": [
@@ -2211,7 +2211,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1874/1796922000000",
     "status": "",
     "categories": [
@@ -2265,7 +2265,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Click here to register for this field trip! https://secure.birdsconnectsea.org/a/ubna121226\n\nLeader: Jen McKeirnan, she/her\n\nMeet: 8:00 AM. Meet at the Center for Urban Horticulture east-side parking lot, E16, at 3863 Union Bay Cir NE, Seattle, WA 98105\n\nLimit: 10\n\nTrip Accessibility: 1 (leisurely, many stops to observe), C (dirt and gravel trails), 2-3 miles walking on gravel and dirt trails with some elevation gain, no vehicle travel\n\nThis field trip is a great way to explore this much-loved birding area in Seattle with a smaller group. The Union Bay Natural Area is distinguished for diverse habitats including grasslands, woods, ponds, marshland, and lake shoreline. It attracts a wide variety of resident and migratory birds. Expect to walk up to 2 leisurely paced miles on level ground. Bring binoculars (if you don't already have a pair, pop over to the Birds Connect Seattle HQ at 616 Olive Way to borrow a pair!) Over by 10am.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1984/1797091200000",
     "status": "",
     "categories": [
@@ -2321,7 +2321,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Brett Eaton (he/him) and Jordan Juranek (she/her) NextGen Council Members\nMeeting Point: 9am Discovery Park South Parking Lot\n\nBike Parking: Bike racks are available at Discovery Park near the visitor center and the south parking lot entrance, bring a lock.\nTrip Accessibility: Trip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThis walk is geared specifically for Young Adults under 40. Birders and nature enthusiasts of all experience levels are welcome.\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.\n\nWe will be exploring the South Meadows area and bluff trail, but on this walk we will not venture down to the beach area.\n\nAfter our walk, we will have an optional hangout at Old Stove Ship Canal ~12pm to hangout! The brewery has food (taco & beer food truck!) and beverages (beer, cocktails, wine, cider, and non-alcoholic drinks) for sale, but no outside food or drink allowed.\n\nIf you would like to borrow a pair of binoculars, they are available at no cost for attendees, and you may pick them up in person during open hours at the Birds Connect Seattle Headquarters and Retail Store, located at 616 Olive Way.",
-    "location": "Discovery Park South,Discovery Park South Parking Lot, Seattle, WA 98199, USA",
+    "location": "Discovery Park South, Discovery Park South Parking Lot, Seattle, WA 98199, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1964/1797094800000",
     "status": "",
     "categories": [
@@ -2376,7 +2376,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Casey Herrick (she/her), Denning Gillespie (they/them), and Jules Stanley (she/her) - NextGen Council Members\n\nMeeting Point: Marymoor Park Parking Lot G. 6046 West Lake Sammamish Parkway Northeast, Redmond, Washington 98052. $1 to park.\n\nBike Parking: Yes, next to the start of the trail. (they're heron shaped!)\n\nTrip Accessibility: 1 (leisurely pace), B (soft ground, dirt). We will walk at a leisurely pace on mostly flat terrain and cover a distance of around ~2 miles. There are bathrooms at the start and midway through our walk.\n\nHello fellow Queer Birders! We will be birding this time at Marymoor Park. Considered one of the birding hotspots of the East side, Marymoor Park features views of Lake Sammamish, the Sammamish river trail, and a diverse population of birds. Our path will take us through an Audubon Bird Loop trail, which is mostly gravel roads with some paved paths and boardwalks as well. Our path will take us into the off leash dog park at Marymoor, so prepare to be in the presence of dogs.\n\nThis walk is geared specifically for everyone who identifies as LGBTQIA+ and of any level of birding experience is welcome.",
-    "location": "Marymoor Park Lot G,6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
+    "location": "Marymoor Park Lot G, 6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1916/1797181200000",
     "status": "",
     "categories": [
@@ -2401,7 +2401,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead, marsh wren, and yellow-rumped warbler, and possible birds include fox sparrow, belted kingfisher, and redhead.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1949/1797181200000",
     "status": "",
     "categories": [
@@ -2426,7 +2426,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Audubon Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
-    "location": "Seward Park Nature Center,5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1931/1797183000000",
     "status": "",
     "categories": [
@@ -2452,7 +2452,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "This trip is at capacity. Click here to register for the WAITLIST. https://secure.birdsconnectsea.org/a/dec16whidbey\n\nLeaders: Neil Zimmerman (he/him)\n(206-200-6700 day of only)\nand Roniq Bartanen (she/her)\n\nMeet: 8:00 AM Greenlake (Ravenna) Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA, southern end of the north lot, just off of 65th. We will be taking the Birds Connect Seattle Van for this trip--gas cost is included in your ticket price.\n\nLimit: 12\n\nNo mask requirements.\n\nTrip accessibility: 2 (moderate; steady but able to maintain a conversation), C (hiking trails with gentle rolling hills )\n\nWinter is a great time for birding Whidbey Island. We will concentrate on the north end of the island. We can expect to see many wintering seabirds, like Red-throated Loons and Surf Scoters. We will also look for Black Oystercatchers and Black Turnstones. This is always an exciting birding trip along with the beauty of Whidbey Island. Dress warm, bring extra clothes, pack a lunch, and treats for the leaders. If time and weather permit, we will try to go by the Short-eared Owl spot by Edison on the way home. Return by 6pm.\n\n*If the cost makes this trip in any way inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
-    "location": "Greenlake (Ravenna) Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Greenlake (Ravenna) Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1986/1797436800000",
     "status": "",
     "categories": [
@@ -2480,7 +2480,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
-    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area),616 Olive Wy, Seattle, WA 98101, USA",
+    "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1797452100000",
     "status": "",
     "categories": [
@@ -2495,6 +2495,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/6b0492f29a25.jpg"
+  },
+  {
+    "id": "33e477a1532a",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2001/29957940/0/0",
+    "title": "Beers for Birds at Bizarre Brewing",
+    "start": "2026-12-16T19:00:00-08:00",
+    "end": "2026-12-16T21:00:00-08:00",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Join the Birds Connect Seattle NextGen Council for another fun Beers for Birds! On Wednesday December 16th, we’ll be at one of our favorite repeat locations: Bizarre Brewing!\n\n$1 from every pint sold during this event benefits Birds Connect Seattle!\n\nWhether you’re a bird nerd, bird curious, or somewhere in between, everyone can play and have a great time. All ages welcome. Prizes available!\n\nFirst round begins at 7pm sharp, arrive as early as 6pm to snag a table!\n\nBizarre Brewing: 4441 26th Ave W Suite A, Seattle, WA, 98199\n\nThe taproom is all ages and well-behaved, leashed dog friendly. The taproom has two all-gender ADA restrooms. Outside food is welcome. Bizarre also offers snacks for purchase including: Umami Kushi giant hot pretzel twist w/mustard, Damoori Kitchen pita chips + hummus, Bavarian Meats landjaeger, Beecher’s Cheese cheese sticks, Cougar Mountain cookies, and Tim's chips. Alcoholic and non-alcoholic drink options available. Ample street parking nearby. Bike racks available, bring a lock.",
+    "location": "Bizarre Brewing, 4441 26th Ave W, Seattle, WA 98199, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2001/1797476400000",
+    "status": "",
+    "categories": [
+      "Drop-in",
+      "NextGen"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": null,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/691b7e617442f61edee9c8bf/scaled_1024.png",
+    "image": "/src/assets/events/33e477a1532a.png"
   },
   {
     "id": "6d76a932e8c1",
@@ -2531,7 +2556,7 @@
     "endDate": "2026-12-20",
     "allDay": false,
     "multiDay": false,
-    "description": "Join Birds Connect Seattle for a fun day of community science!\n\nEstablished in 1900, the Christmas Bird Count (CBC) is the longest running community science survey in North America. Approximately 300 volunteers survey the count circle (15 miles in diameter) centered in downtown Seattle, to identify and count every single wild bird seen or heard.\n\nAll levels of birders are welcome to participate on an in-field team or from the comfort to their own home.\n\nJoin the post-count celebration at Reuben's Brews Barrel House in Ballard to meet with other volunteers and share stories from your day.\n\nMore information and registration link coming soon!",
+    "description": "Join Birds Connect Seattle for a fun day of community science!\n\nEstablished in 1900, the Christmas Bird Count (CBC) is the longest running community science survey in North America. Approximately 300 volunteers survey the count circle (15 miles in diameter) centered in downtown Seattle, to identify and count every single wild bird seen or heard.\n\nAll levels of birders are welcome to participate on an in-field team or from the comfort to their own home.\n\nJoin the post-count celebration at Reuben's Brews Barrel House in Ballard to meet with other volunteers and share stories from your day.\n\nRegister for the In-Field Count https://secure.birdsconnectsea.org/a/cbc-2026-field-count\n\nRegister for the At-Home Count https://secure.birdsconnectsea.org/a/2026-seattle-christmas-bird-count-home-count",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1909/1797778800000",
     "status": "",
@@ -2541,9 +2566,12 @@
       "Science",
       "Volunteer"
     ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": null,
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/cbc-2026-field-count"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/cbc-2026-field-count",
+    "registrationRequired": true,
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17d9fedf82fe60aa879bff/scaled_1024.jpg",
     "image": "/src/assets/events/6f1f7020b44a.jpg"
@@ -2559,7 +2587,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: John Leszczynski & Elaine Chuang\n\nMeeting Point: In front of the Ballard Locks Visitor Center. For those driving, note that on the Ballard side of the Locks, there is a paid parking lot at the main entrance, and limited nearby street parking. There is free parking in a small lot in Commodore Park on the Magnolia side (south side).\n\nBike Parking: Bike racks near visitor center\n\nTrip Accessibility: 1 (leisurely pace), B (mostly solid pavement but some steps and steep hills) ~ 1 mil\n\nThe meeting of salt and fresh water at the Ballard Locks makes for an interesting mix of species, many of which can be observed at close range. Join us the last Saturday of each month to watch an ever-changing cast of birds. Seasonal visitors integrate with year-round residents like Belted Kingfishers, Cormorants, and Great Blue Herons. Cared for by the horticulture staff, the surrounding grounds are also habitat for “the usual suspects” for our region. This is a great walk for all, including beginners: no experience is necessary! If you can, bring binoculars; they are available on loan from the Birds Connect Seattle Retail Space located at 616 Olive Way, Seattle, WA. Please call 206-523-4483 to reserve a pair.",
-    "location": "Ballard Locks Visitor Center,3015 NW 54th St, Seattle, WA 98107, USA",
+    "location": "Ballard Locks Visitor Center, 3015 NW 54th St, Seattle, WA 98107, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1936/1798302600000",
     "status": "",
     "categories": [
@@ -2609,7 +2637,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cynthia Putnam (she/her) and Kathy Kaplan (she/her)\n\nMeeting Point: At the Kiosk on the West side of the Elizabeth Miller Library, where people's rare sightings are written, just south of the Employee Parking Lot.\n47°39'28.1\"N 122°17'29.3\"W\n\nBike Parking: Yes; bike racks\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), 1.5 to 2 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. We will walk the trails and adjoining waterways looking for resident songbirds and waterfowl. We will be walking gravel trails that may be muddy. Bring binoculars, wear sturdy walking shoes, and dress in layers. Bring water/snacks if you wish. Over by 11am.",
-    "location": "Union Bay Lot E16,3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1965/1798389000000",
     "status": "",
     "categories": [
@@ -2634,7 +2662,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Click here to register! https://secure.birdsconnectsea.org/a/jan2027riverview\n\nLeaders: Cynthia Putnam and Kathy Kaplan\n\nMeeting: 8:00am Green Lake Park and Ride on the southern end of the north lot, parallel to 65th. We will be using the Birds Connect Seattle Van for this trip--gas cost is included in your ticket price.\n\nLimit: 12\n\nTrip Accessibility: 1 (leisurely pace), B (mostly soft ground trails), ~1.8 miles walking\n\nThis is a half-day field trip to the quiet Riverview Wildlife Refuge and another 1-2 spots in south Snohomish county depending on recent ebird lists and weather. The refuge is a grassy meadow and riverside habitat situated between the Snohomish and Pilchuck rivers surrounded by towering cottonwoods. It sits to the west of the city's water treatment plant occupying lands formerly used as treatment lagoons. We'll walk along a trail that circumnavigates the refuge to look for bird life along the two rivers and in a large open meadow area. Expect to see many species of song birds, raptors, and waterfowl. The refuge is jointly managed by the City of Snohomish and the Pilchuck Audubon Society, and is described as a “sanctuary valuable for its riparian (waterside) habitat and its location on the Pacific Flyway, traveled by millions of migrating birds every year.” Find a bird checklist for the refuge here: https://www.snohomishwa.gov/DocumentCenter/View/4298/RiverviewRefuge_BirdingBrochure?bidId= https://www.snohomishwa.gov/DocumentCenter/View/4298/RiverviewRefuge_BirdingBrochure?bidId=\n\nToilets at the trailhead. Bring layers, rain gear, water and snacks. 2-3 hours in the field, back between 12-1pm depending on traffic.\n\n*If the cost makes this trip in anyway inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
-    "location": "Green Lake Park and Ride,6601 8th Ave NE, Seattle, WA 98115, USA",
+    "location": "Green Lake Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1526/1798905600000",
     "status": "",
     "categories": [
@@ -2662,7 +2690,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
-    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Graham Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1995/1798993800000",
     "status": "",
     "categories": [
@@ -2687,7 +2715,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Ed Dominguez\n\nMeeting Point: Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: There are outdoor bike racks ~0.25 miles from the parking lot, near the boardwalk.\n\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nConsidered one of the birding hotspots of the East side of Lake Washington, this park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks. We will explore the shoreline for Arctic Visitors (winter water birds), Wilson's Snipe and small songbirds in shoreline trees and shrubs.\n\nBring clothing layers, as the weather may be rainy and/or cool and we will pause a number of times. Wear sturdy walking shoes and feel free to bring water and snacks. We will be staying in relatively close proximity to the car park, with plenty of turn around points along the way. Bathrooms are available. Feel free to leave the group as needed.\n\nWe will share and practice methods to improve birding abilities, develop birding by ear skills, and discuss the important connection between native plants and birds. All experience levels are welcome: beginning, intermediate or advanced, please join us!\n\nPhoto Credit: Brett Eaton",
-    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
+    "location": "Juanita Bay Park, 2201 Market St, Kirkland, WA 98033, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1999/1799254800000",
     "status": "",
     "categories": [
@@ -2712,7 +2740,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1875/1799341200000",
     "status": "",
     "categories": [
@@ -2751,6 +2779,32 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6acfcbd062b7c5607c545af0/scaled_512.jpg",
     "image": "/src/assets/events/6a306eec5520.jpg"
+  },
+  {
+    "id": "74fc2964c04e",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2002/29993370/0/0",
+    "title": "Children's Neighborhood Bird Outing: Seward Park",
+    "start": "2027-01-10T09:30:00-08:00",
+    "end": "2027-01-10T10:30:00-08:00",
+    "startDate": "2027-01-10",
+    "endDate": "2027-01-10",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles max, usually less\n\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Nature Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2002/1799602200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Children"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
+    "image": "/src/assets/events/74fc2964c04e.jpg"
   },
   {
     "id": "92f23f1920ad",
@@ -2814,7 +2868,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outing: Neighborhood Bird Outing: LGBTQIA+ Birders at the Arboretum\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her) NextGen Council Member\n\nMeeting Point: Outside the Arboretum Foundation building on the North side of the park. 9am start\n\nBike Parking: Yes\n\nTrip Accessibility:1 (leisurely, many stops to observe), B (soft ground, sand, gravel, dirt roads and some board-walks), ~1.5 miles walking with minimal elevation gain\n\n\nHello fellow Queer Birders! Our path will be on the north side of the Arboretum starting at the Arboretum Foundation building and heading past Duck Bay and onto Foster Island, and possibly further onto Marsh Island depending on our pace. There will be lots of chances to see waterfowl, and some wooded areas in between to see lots of different bird species.\n\nThis walk is geared specifically for everyone who identifies as LGBTQIA+ and of any level of birding experience is welcome.",
-    "location": "Arboretum Foundation Building,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Arboretum Foundation Building, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1990/1800118800000",
     "status": "",
     "categories": [
@@ -2922,7 +2976,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
-    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Graham Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1996/1802017800000",
     "status": "",
     "categories": [
@@ -2935,6 +2989,32 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697955a22c97af2cfcb93b57/scaled_1024.jpg",
     "image": "/src/assets/events/7928dd085b2e.jpg"
+  },
+  {
+    "id": "a6a11f411d49",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2003/30033690/0/0",
+    "title": "Children's Neighborhood Bird Outing: Seward Park",
+    "start": "2027-02-07T09:30:00-08:00",
+    "end": "2027-02-07T10:30:00-08:00",
+    "startDate": "2027-02-07",
+    "endDate": "2027-02-07",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles max, usually less\n\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Nature Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2003/1802021400000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Children"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
+    "image": "/src/assets/events/a6a11f411d49.jpg"
   },
   {
     "id": "a4f199f922c7",
@@ -2973,7 +3053,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1876/1802365200000",
     "status": "",
     "categories": [
@@ -3081,7 +3161,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Casey Herrick (she/her) - NextGen Council Member\n\nMeeting Point: Marymoor Park Parking Lot G. 6046 West Lake Sammamish Parkway Northeast, Redmond, Washington 98052. $1 to park.\n\nBike Parking: Yes, next to the start of the trail. (they're heron shaped!)\n\nTrip Accessibility: 1 (leisurely pace), B (soft ground, dirt). We will walk at a leisurely pace on mostly flat terrain and cover a distance of around ~2 miles. There are bathrooms at the start and midway through our walk.\n\nHello fellow Queer Birders! We will be birding this time at Marymoor Park. Considered one of the birding hotspots of the East side, Marymoor Park features views of Lake Sammamish, the Sammamish river trail, and a diverse population of birds. Our path will take us through an Audubon Bird Loop trail, which is mostly gravel roads with some paved paths and boardwalks as well. Our path will take us into the off leash dog park at Marymoor, so prepare to be in the presence of dogs.\n\nThis walk is geared specifically for anyone who identifies as LGBTQIA+ (Allies are of course welcome too!!). Any level of birding experience is welcome.",
-    "location": "Marymoor Park Lot G,6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
+    "location": "Marymoor Park Lot G, 6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1991/1803229200000",
     "status": "",
     "categories": [
@@ -3161,7 +3241,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Larry Hubbell (he/him)\n\nMeeting Point: 8:30 am, Graham Visitors Center, 2300 Arboretum Drive E, Seattle , WA 98112\n\nBike Parking: Yes. There is a bike rack.\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails with some soft ground or mud)\n\nWe will walk 1-2 miles around the mouth of Arboretum Creek, Duck Bay, Foster Island and Union Bay. We will be focusing primarily on aquatic birds that migrate here for the Winter. We begin at 8:30 am and the trip will end around 10:30 am. To learn more about our efforts to enhance the Arboretum Creek habitat for birds and nature please visit: www.arboretumcreek.org. https://www.arboretumcreek.org.",
-    "location": "Graham Visitor Center,2300 Arboretum Dr E, Seattle, WA 98112, USA",
+    "location": "Graham Visitor Center, 2300 Arboretum Dr E, Seattle, WA 98112, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1997/1804437000000",
     "status": "",
     "categories": [
@@ -3212,7 +3292,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1877/1804784400000",
     "status": "",
     "categories": [
@@ -3238,7 +3318,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outing: LGBTQIA+ Birders at Juanita Bay Park\n\nGroup size will vary. Outings occur rain or shine, though will be canceled for dangerous weather conditions. Please leave pets at home.\n\nLeaders: Casey Herrick (she/her) - NextGen Council Member\n\nMeeting Point: 9:00am - 11:00am, Juanita Bay Park (2201 Market Street, Kirkland, WA 98033). Meet in the parking lot off of Market St. Please note, this is not the same parking lot as Juanita Beach Park.\n\nBike Parking: No bike racks available at the park. There are small trees where one could secure a bike.\nTrip Accessibility: 1 (leisurely pace), A (mostly level and paved), ~ 2 miles walking. Restrooms at the start of our route.\n\nHello fellow Queer Birders! Juanita bay is one of my (Casey’s) favorite birding spots, and is considered one of the birding hotspots of the East side of Lake Washington. This park features views of Forbes Creek Wetland, Juanita Beach and Juanita Bay. It is a Green Kirkland Partnership restoration area. The maximum slope of the trail is moderate, with mostly flat walkways, such as the boardwalks.\n\nWe will be staying in relatively close proximity to the parking lot, with plenty of turn around points along the way. Bathrooms are easily accessible the whole trip.\n\nThis walk is geared specifically for anyone who identifies as LGBTQIA+ (Allies are of course welcome too!!). Any level of birding experience is welcome.",
-    "location": "Juanita Bay Park,2201 Market St, Kirkland, WA 98033, USA",
+    "location": "Juanita Bay Park, 2201 Market St, Kirkland, WA 98033, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1992/1804957200000",
     "status": "",
     "categories": [
@@ -3253,6 +3333,32 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa485fcc21023da9533fa75/scaled_1024.jpg",
     "image": "/src/assets/events/d2e6d81d3f0f.jpg"
+  },
+  {
+    "id": "fdd321f00785",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2004/30084030/0/0",
+    "title": "Children's Neighborhood Bird Outing: Seward Park",
+    "start": "2027-03-14T09:30:00-07:00",
+    "end": "2027-03-14T10:30:00-07:00",
+    "startDate": "2027-03-14",
+    "endDate": "2027-03-14",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Erin Connelly (she/her)\n\nMeeting Point: 9:30 AM Seward Park Audubon Center, near the bathrooms\n\nBike Parking: bike parking adjacent to the Audubon Center; other transportation info: Parking lots and street parking available (although it can be busy on weekends!). Seward Park is served by bus route 50 with a stop at Seward Park Ave S and S Juneau St.\n\nAccessibility: Pace: 1, Terrain: A, Walking: 1/2 - 1 miles max, usually less\n\nWheelchair accessible, as well as strollers, kid bikes, scooters etc. We will be walking on flat paved trails, likely walking between 1/2 - 3/4 mile with lots of stops, walking at the children's pace. Public bathrooms available at the Audubon Center.\n\nWhat to Expect: Open to all babies, toddlers, and kids. All children must be accompanied by an adult. We will gather at the Nature Center and walk north and east towards the swimming beach on the paved perimeter trail (Shore Loop Road). We will practice observing birds with our eyes and ears and look for mallard ducks, Canada geese, buffleheads, crows, chickadees, juncos, and more on a short walk.\n\nWe will take a snack, story, and/or look-at-interesting-rocks break somewhere in the middle depending on the pacing and interest level of the kids. Please no adults not accompanied by a child.",
+    "location": "Seward Park Nature Center, 5902 Lake Washington Blvd S, Seattle, WA 98118, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2004/1805041800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Birds-Connect-Seattle",
+      "Children"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
+    "image": "/src/assets/events/fdd321f00785.jpg"
   },
   {
     "id": "0ff34fb45fab",
@@ -3295,7 +3401,7 @@
     "allDay": false,
     "multiDay": false,
     "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion,2901 Western Ave, Seattle, WA 98121, USA",
+    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1878/1807200000000",
     "status": "",
     "categories": [
