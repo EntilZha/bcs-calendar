@@ -27,57 +27,6 @@
     "image": "/src/assets/events/cfec568b55d2.jpg"
   },
   {
-    "id": "4a99cd5c20ab",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1793/29857890/0/0",
-    "title": "Neighborhood Bird Outing: Discovery Park South",
-    "start": "2026-10-08T08:30:00-07:00",
-    "end": "2026-10-08T11:30:00-07:00",
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cinny Burrell and David Selk\n\nMeeting Point: 8:30AM. Meet in the South Parking Lot (entrance off W Emerson St. just west of Magnolia Blvd. W. You can also park on W Emerson St near Viewmont Way W and walk in through the pedestrian entrance).\n\nBike Parking: Some bike parking.\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking.\n\nWe’ll explore open meadows and protected woodlands in the south half of the park. Expect to walk on uneven surfaces, dirt trails and through grassy and brushy areas. We will be birding by ear and visually, listening and looking for late fledglings and fall migrants, including mixed flocks of passerines.\n\nBring binoculars, wear sturdy walking shoes, and dress in layers (it is early fall and the meadow can be breezy, especially if it’s overcast). Bring water/snacks if you wish.",
-    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1793/1791473400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/69bf9d10b5a6eb2d37b055f4/scaled_1024.jpg",
-    "image": "/src/assets/events/4a99cd5c20ab.jpg"
-  },
-  {
-    "id": "a339c6595af2",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1872/29857920/0/0",
-    "title": "Neighborhood Bird Outing: Olympic Sculpture Park and Pier 70",
-    "start": "2026-10-08T09:00:00-07:00",
-    "end": "2026-10-08T11:00:00-07:00",
-    "startDate": "2026-10-08",
-    "endDate": "2026-10-08",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Tom Leschine (he/him) and Dave Galvin (he/him) 206-718-0054\nMeeting Point: PACCAR PAVILION main entrance at Corner of Western and Broad. 2901 Western Ave, Seattle 98121\n\nTrip Accessibility: Pace 1, Terrain B. Leisurely walking approx. 1/2 mile total. One downhill section to waterfront via steps or chip trail of moderate steepness. Many participants walk uphill back to PACCAR Pavilion area at end of outing, where they've parked their cars.\n\nThe OSP is mostly open and grassy with interspersed plantings of native vegetation and attracting fall and winter passerines typical of such urban environments. Occasional raptors present with the usual gulls and crows overhead. Pier 70 is completely different, featuring the seabird species that typically overwinter in Central Puget Sound. Expect a variety of overwintering gulls, diving ducks, alcids, and grebes, many close in and providing good views. Occasional surprises pop up in either location. For directions and more information go to the Olympic Sculpture Park http://www.seattleartmuseum.org/visit/olympic-sculpture-park website.",
-    "location": "Paccar Pavilion, 2901 Western Ave, Seattle, WA 98121, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1872/1791475200000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/622fd1b60681f317f569c372/scaled_512.jpg",
-    "image": "/src/assets/events/a339c6595af2.jpg"
-  },
-  {
     "id": "c50387841402",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1891/29859240/0/0",
     "title": "Birding Vacation: Orcas Island Fall 2026",
