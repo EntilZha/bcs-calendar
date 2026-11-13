@@ -2335,14 +2335,14 @@
   {
     "id": "6f1f7020b44a",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1909/29962980/0/0",
-    "title": "Save the Date: Seattle Christmas Bird Count",
+    "title": "Seattle Christmas Bird Count (CBC)",
     "start": "2026-12-20T07:00:00-08:00",
     "end": "2026-12-20T16:30:00-08:00",
     "startDate": "2026-12-20",
     "endDate": "2026-12-20",
     "allDay": false,
     "multiDay": false,
-    "description": "Join Birds Connect Seattle for a fun day of community science!\n\nEstablished in 1900, the Christmas Bird Count (CBC) is the longest running community science survey in North America. Approximately 300 volunteers survey the count circle (15 miles in diameter) centered in downtown Seattle, to identify and count every single wild bird seen or heard.\n\nAll levels of birders are welcome to participate on an in-field team or from the comfort to their own home.\n\nJoin the post-count celebration at Reuben's Brews Barrel House in Ballard to meet with other volunteers and share stories from your day.\n\nRegister for the In-Field Count https://secure.birdsconnectsea.org/a/cbc-2026-field-count\n\nRegister for the At-Home Count https://secure.birdsconnectsea.org/a/2026-seattle-christmas-bird-count-home-count",
+    "description": "Join Birds Connect Seattle for a fun day of community science!\n\nEstablished in 1900, the Christmas Bird Count (CBC) is the longest running community science survey in North America. Approximately 300 volunteers survey the count circle (15 miles in diameter) centered in downtown Seattle, to identify and count every single wild bird seen or heard.\n\nAll levels of birders are welcome to participate on an in-field team or from the comfort to their own home.\n\nRegister for the In-Field Count https://secure.birdsconnectsea.org/a/cbc-2026-field-count\n\nRegister for the At-Home Count https://secure.birdsconnectsea.org/a/2026-seattle-christmas-bird-count-home-count\n\nJoin the post-count celebration at Reuben's Brews Barrel House in Ballard to meet with other volunteers and share stories from your day.",
     "location": "",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1909/1797778800000",
     "status": "",
@@ -2361,6 +2361,34 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c17d9fedf82fe60aa879bff/scaled_1024.jpg",
     "image": "/src/assets/events/6f1f7020b44a.jpg"
+  },
+  {
+    "id": "0fedb8dea1d0",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2005/29963550/0/0",
+    "title": "Winter Volunteer Appreciation and CBC Recap",
+    "start": "2026-12-20T16:30:00-08:00",
+    "end": "2026-12-20T19:00:00-08:00",
+    "startDate": "2026-12-20",
+    "endDate": "2026-12-20",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Let us know you are coming! https://secure.birdsconnectsea.org/a/winter-volunteer-celebration-2026\n\nIn 2026, over 700 volunteers dedicated their time, ideas, and skills to Birds Connect Seattle, and we want to honor your incredible contributions.\n\nEvent Details:\n\nBring: An appetizer or dessert to share, along with your festive spirit.\n\nJoin Us: For a warm toast to recognize our outstanding volunteers, and to learn about what folks saw during the Christmas Bird Count.\n\nProvided by Birds Connect Seattle: Pizza\n\nNo-Host Bar: Enjoy Reuben's craft beers, ciders, non-alcoholic beverages, and other soft drinks.\n\nChildren are welcome, as well as leashed dogs with a friendly temperament. Let’s celebrate together!\n\nPhoto Credit: Sam Swartley, Audubon Photography Awards",
+    "location": "Reuben's Brews Barrel House, 1133 NW 51st St, Seattle, WA 98107, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2005/1797813000000",
+    "status": "",
+    "categories": [
+      "Recommended",
+      "Volunteer"
+    ],
+    "registration": {
+      "label": "Register",
+      "url": "https://secure.birdsconnectsea.org/a/winter-volunteer-celebration-2026"
+    },
+    "registrationUrl": "https://secure.birdsconnectsea.org/a/winter-volunteer-celebration-2026",
+    "registrationRequired": true,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6af628bd33339b9bfd5b98eb/scaled_1024.jpg",
+    "image": "/src/assets/events/0fedb8dea1d0.jpg"
   },
   {
     "id": "14c6e74c667e",
