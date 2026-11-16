@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-11-15T08:30:19.537624-08:00",
-  "eventCount": 131,
+  "crawledAt": "2026-11-16T11:46:33.450592-08:00",
+  "eventCount": 129,
   "rawCategories": [
     "Bird-Outing",
     "Birdability",
@@ -17,17 +17,15 @@
     "Field-Trips",
     "Fund-Our-Mission",
     "HQ",
-    "Lecture",
     "NextGen",
     "Partner",
     "Recommended",
     "Retail",
     "Science",
-    "Speaker-Series",
     "Volunteer",
     "at-BCS-Headquarters"
   ],
-  "registrationRequiredCount": 38,
+  "registrationRequiredCount": 37,
   "noRegistrationCount": 63,
-  "unknownRegistrationCount": 30
+  "unknownRegistrationCount": 29
 }
