@@ -29,32 +29,6 @@
     "image": "/src/assets/events/3eefcadaf6c2.jpg"
   },
   {
-    "id": "d5812c34e0c0",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1950/29870880/0/0",
-    "title": "Neighborhood Bird Outing: Discovery Park",
-    "start": "2026-10-17T09:00:00-07:00",
-    "end": "2026-10-17T11:00:00-07:00",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeader: Neil Zimmerman\n\nMeeting Point: Discovery Park South Parking Lot\n\nDiscovery Park is at the western end of Interbay-Magnolia. Meet near the toilet facility at the South Parking lot (enter on right off W Emerson St. just beyond Viewmont Way W).\n\nTrip Accessibility: 1 (leisurely pace), C (hiking trails with gentle rolling hills), ~2 miles walking\n\nThe walk will be slow-paced and leisurely, and may include some walking on dirt trails at a low to moderate incline. In Seattle, it is always possible that weather will be cool, windy, and/or rainy, so participants are encouraged to check the weather forecast prior to the walk and to dress/prepare accordingly (e.g., warm clothes, sturdy shoes, and rain gear for wet weather). The leader will have a pair of binoculars, a spotting scope, and a field guide. Participants are encouraged to bring their own binoculars, telescopes, and/or cameras if they have them.",
-    "location": "Discovery Park South Parking Lot, Seattle, WA 98199, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1950/1792252800000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Birds-Connect-Seattle",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5c65f23edf82fe11484db843/scaled_1024.jpg",
-    "image": "/src/assets/events/d5812c34e0c0.jpg"
-  },
-  {
     "id": "e962ec50d04e",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1963/29870940/0/0",
     "title": "Birds and Block Printing Class with Hanae Bettencourt",
