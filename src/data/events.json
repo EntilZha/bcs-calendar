@@ -1,30 +1,5 @@
 [
   {
-    "id": "8088ae4f4527",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1924/29875800/0/0",
-    "title": "Beers for Birds at Flying Bike Cooperative Brewery (and bird costume contest!)",
-    "start": "2026-10-20T19:00:00-07:00",
-    "end": "2026-10-20T21:00:00-07:00",
-    "startDate": "2026-10-20",
-    "endDate": "2026-10-20",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Join the Birds Connect Seattle NextGen Council for a special Beers for Birds trivia event at Flying Bike Cooperative Brewery!\n\nThis month, there will be an opportunity to earn extra points via a special bird costume contest.\n\n1) A reminder to show up early, especially for those interested in the costume contest.\n\n2) Costume contest is separate from trivia and there will be a grand 1st prize, with 2nd, and 3rd prizes following.\n\nCome dressed in your best birdy outfits!\n\nThis event is all ages.",
-    "location": "Flying Bike Cooperative Brewery, 8570 Greenwood Ave N, Seattle, WA 98103, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1924/1792548000000",
-    "status": "",
-    "categories": [
-      "Drop-in",
-      "NextGen"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": null,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/691b7e617442f61edee9c8bf/scaled_1024.png",
-    "image": "/src/assets/events/8088ae4f4527.png"
-  },
-  {
     "id": "c23a6807c157",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1898/29876580/0/0",
     "title": "Field Trip: Juanita Bay Park",
@@ -1517,7 +1492,7 @@
     "endDate": "2026-12-05",
     "allDay": false,
     "multiDay": false,
-    "description": "Join the fun at Birds Connect Seattle's Holiday Open House!\n\nCome in the morning to enjoy a sipping on bird-friendly coffee, tea, or cocoa while you shop. Or snack on a spiced cookie to get you in the spirit of the season.\n\nExplore our interactive mini-museum exhibit: The Wonderful World of Owls and talk to our staff an volunteers about our bird skin collection to learn about facinating adaptations of our local species.\n\nSustaining members can enjoy a special 10% discount on all holiday shopping including calendars, holiday cards, and ornaments.\n\nWhether you're a bird lover or just looking for fun, Birds Connect Seattle offers an engaging experience for all ages this holiday season, and especially at our fun open house.",
+    "description": "Join the fun at Birds Connect Seattle's Holiday Open House!\n\nCome in the morning to enjoy a sipping on bird-friendly coffee, tea, or cocoa while you shop. Or snack on a spiced cookie to get you in the spirit of the season.\n\nMeet John The Falconer and take a holiday photo with a live bird during his visit (photo start time TBA.)\n\nEnter your business card in a special drawing for a birder's prize.\n\nExplore our interactive mini-museum exhibit: The Wonderful World of Owls and talk to our staff an volunteers about our bird skin collection to learn about facinating adaptations of our local species.\n\nSustaining members can enjoy a special 10% discount on all holiday shopping including calendars, holiday cards, and ornaments.\n\nWhether you're a bird lover or just looking for fun, Birds Connect Seattle offers an engaging experience for all ages this holiday season, and especially at our fun open house.",
     "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1972/1796493600000",
     "status": "",
