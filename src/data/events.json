@@ -1113,7 +1113,7 @@
   {
     "id": "b5735f17fb4d",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1680/29927295/0/0",
-    "title": "Birds of Seattle Lunch and Learn",
+    "title": "**Cancelled** Birds of Seattle Lunch and Learn",
     "start": "2026-11-25T12:15:00-08:00",
     "end": "2026-11-25T12:45:00-08:00",
     "startDate": "2026-11-25",
@@ -1123,7 +1123,7 @@
     "description": "Every Wednesday from 12:15-12:30 p.m., drop by Birds Connect Seattle to learn about the wonderful world of birds during your lunch break.\n\nJoin a local bird enthusiast to learn about how to spot and identify common birds of Seattle. You'll be able to touch preserved bird specimens and learn some common bird calls and songs.\n\nBring your curiosity, along with a lunch, snack, or a friend. This event is free and all are welcome. No pre-registration required.\n\nFree access to Lunch and Learns supported by:",
     "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1680/1795637700000",
-    "status": "",
+    "status": "CANCELLED",
     "categories": [
       "Drop-in",
       "Education",
@@ -1133,7 +1133,7 @@
     "registration": null,
     "registrationUrl": null,
     "registrationRequired": false,
-    "titleFlag": null,
+    "titleFlag": "cancelled",
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/688b94eb40792e03c2a187d2/scaled_384.jpg",
     "image": "/src/assets/events/b5735f17fb4d.jpg"
   },
