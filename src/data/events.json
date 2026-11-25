@@ -1,33 +1,5 @@
 [
   {
-    "id": "87cf501161af",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1900/29880840/0/0",
-    "title": "Field Trip: Skagit Valley Multi Stop",
-    "start": "2026-10-24T07:00:00-07:00",
-    "end": "2026-10-24T17:00:00-07:00",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "allDay": false,
-    "multiDay": false,
-    "description": "This trip is at capacity. Register for the WAITLIST. https://secure.birdsconnectsea.org/a/skagitoct2026\n\nLeaders: Jen Yu (she/her) and Penny Bolton (she/her)\n\nMeet: Meet at 7am at Green Lake Park & Ride 6601 8th Ave NE, Seattle 98115, on the southern end of the northern lot. We will be riding together in the Birds Connect Seattle 15 passenger van. The cost of gas is included in the ticket price. If you need to ride separately, please let us know and then you will meet the group at 8:15am at Wiley Slough.\n\nTrip Accessibility: Pace- 1 leisurely Terrain- B soft ground, sand, gravel, dirt roads Estimated mileage - ~4 miles\n\nParticipant Limit:12\n\nJoin us for a full day of birding through some of the Skagit Valley's richest coastal and agricultural habitats! We will track shoreline, marsh, and farmland species across three birding hotspots:\n\nWiley Slough: We will start our morning exploring the restored tidal estuary and freshwater marsh trails, scanning for waterfowl, wading birds, raptors and songbirds in the riparian thickets.\n\nFir Island: Next, we will loop through the surrounding agricultural flats, keeping an eye out for raptors, shorebirds in flooded fields, and wintering flocks foraging across the farmland.\n\nBayview State Park & Padilla Bay: We will wrap up our route along Padilla Bay, scoping the mudflats and marine waters for diving ducks, loons, grebes, and coastal shorebirds feeding on the tide.\n\nWe expect to return to the Park and Ride around 5pm.\n\nWhat to Bring: Binoculars, a spotting scope (if you have one), sturdy walking shoes, layers for cool weather, and a lunch, water and snacks.\n\n*If the ticket fee in any way makes this trip inaccessible to you, please do not hesitate to reach out to sarahh@birdsconnectsea.org mailto:sarahh@birdsconnectsea.org to request a fee waiver.*",
-    "location": "Green Lake Park and Ride, 6601 8th Ave NE, Seattle, WA 98115, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1900/1792850400000",
-    "status": "",
-    "categories": [
-      "Field-Trips",
-      "Birds-Connect-Seattle"
-    ],
-    "registration": {
-      "label": "Register",
-      "url": "https://secure.birdsconnectsea.org/a/skagitoct2026"
-    },
-    "registrationUrl": "https://secure.birdsconnectsea.org/a/skagitoct2026",
-    "registrationRequired": true,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/5e322a5adf82fe12edf39f9b/scaled_1024.jpg",
-    "image": "/src/assets/events/87cf501161af.jpg"
-  },
-  {
     "id": "61c493678762",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1912/29882325/0/0",
     "title": "In-Person Class: Mobile Sketching Across the Skagit and Samish Flats with Carleen O. Zimmerman",
@@ -54,82 +26,6 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6a99e3d688c0f34940e8edc1/scaled_768.jpg",
     "image": "/src/assets/events/61c493678762.jpg"
-  },
-  {
-    "id": "1871d14bc6f6",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1953/29882340/0/0",
-    "title": "Neighborhood Bird Outing: Marymoor Park",
-    "start": "2026-10-25T08:00:00-07:00",
-    "end": "2026-10-25T11:00:00-07:00",
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Eric Crockett (he/him) & Emily Larson (she/her)\n\nMeeting Point: Lot G tinyurl.com/yc5hmvu4 http://tinyurl.com/yc5hmvu4\n\nBike Parking: Yes, bike rack\n\nTrip Accessibility: 1 (leisurely pace), B (grass, gravel, boardwalk, mulch), ~ 2.3 miles walking\n\n\nCome explore the Eastside at Marymoor Park! We will walk a large loop around the park, covering a diverse range of habitats including meadows, woods, marsh, the north end of Lake Sammamish, the Sammamish River, and community garden. As we search for birds, there will be an emphasis on listening for bird sounds. Binoculars will come in handy, but scopes are not needed. Birders of all levels and ages are welcome. Note that about half this walk is in the off-leash dog area.",
-    "location": "Marymoor Park Lot G, 6046 West LK Sammamish Pkwy NE, Redmond, WA 98052, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1953/1792940400000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6ab576ae47d5d2eab15da54e/scaled_1024.jpg",
-    "image": "/src/assets/events/1871d14bc6f6.jpg"
-  },
-  {
-    "id": "31414b73504f",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1943/29882370/0/0",
-    "title": "Neighborhood Bird Outing: Meadowbrook Pond Natural Area - Birdability Accessible Event!",
-    "start": "2026-10-25T08:30:00-07:00",
-    "end": "2026-10-25T10:00:00-07:00",
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Cynthia Putnam (she/her) & Kathy Kaplan (she/her)\n\nMeeting Point: Meadowbrook Community Center, 10517 35th Ave NE, Seattle, WA\n\nBike Parking: Bike parking is in front of the community center.\n\nTrip Accessibility: 1 (leisurely pace), C (sidewalks and hiking trails), approx. 1 mile walking.\n\nJoin us during Birdability Week for an accessible bird walk at Meadowbrook: entails flat walking on sidewalk and boardwalk, seating available partway through, and about a half mile of slow strolling together.\n\nClick here to read more about Birdability Week. https://www.birdability.org/birdability-week\n\nMeadowbrook Pond is a wonderful little sanctuary which features diverse wildlife, interesting foliage, sculptures and trails all integrated so that humans and wildlife alike can enjoy the surroundings. It also plays a very practical role, capturing sediment from Thornton Creek and reducing downstream impact. The natural area features a wetland, wildlife habitat and open space. Bridges and walking platforms extend across the pond enabling visitors to get closer to the wildlife living in and visiting the pond. We hope to encounter a mix of passerines, raptors, and waterfowl. A significant portion of the walk lends itself to finding birds by their sounds, enabling us to practice our birding-by-ear skills. Our route will cover no more than 1 mile and usually takes 1.5 hours, depending on what we see and hear. Dress for weather; bring binoculars, water & snacks. Over by 10:00am.",
-    "location": "Meadowbrook Community Center Parking, 10517 35th Ave NE, Seattle, WA 98125, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1943/1792942200000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in",
-      "Birdability"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6851a4deebd73c1be23e8f6a/scaled_512.jpg",
-    "image": "/src/assets/events/31414b73504f.jpg"
-  },
-  {
-    "id": "c94867d95df4",
-    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1947/29882400/0/0",
-    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
-    "start": "2026-10-25T09:00:00-07:00",
-    "end": "2026-10-25T11:00:00-07:00",
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "allDay": false,
-    "multiDay": false,
-    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead, marsh wren, and yellow-rumped warbler, and possible birds include fox sparrow, belted kingfisher, and redhead.",
-    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
-    "detailUrl": "https://tockify.com/birds.connect.sea/detail/1947/1792944000000",
-    "status": "",
-    "categories": [
-      "Bird-Outing",
-      "Drop-in"
-    ],
-    "registration": null,
-    "registrationUrl": null,
-    "registrationRequired": false,
-    "titleFlag": null,
-    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
-    "image": "/src/assets/events/c94867d95df4.jpg"
   },
   {
     "id": "bb66a903a5ac",
@@ -1408,7 +1304,7 @@
     "endDate": "2026-12-05",
     "allDay": false,
     "multiDay": false,
-    "description": "Join the fun at Birds Connect Seattle's Holiday Open House!\n\nCome in the morning to enjoy a sipping on bird-friendly coffee, tea, or cocoa while you shop. Or snack on a spiced cookie to get you in the spirit of the season.\n\nMeet John The Falconer and take a holiday photo with a live bird during his visit (photo start time TBA.)\n\nEnter your business card in a special drawing for a birder's prize.\n\nExplore our interactive mini-museum exhibit: The Wonderful World of Owls and talk to our staff an volunteers about our bird skin collection to learn about facinating adaptations of our local species.\n\nSustaining members can enjoy a special 10% discount on all holiday shopping including calendars, holiday cards, and ornaments.\n\nWhether you're a bird lover or just looking for fun, Birds Connect Seattle offers an engaging experience for all ages this holiday season, and especially at our fun open house.",
+    "description": "Join the fun at Birds Connect Seattle's Holiday Open House!\n\nCome in the morning to enjoy a sipping on Cloud City Roasters bird-friendly coffee, tea, or cocoa while you shop. Or snack on a spiced cookie to get you in the spirit of the season.\n\nMeet John The Falconer and take a holiday photo with a live bird of prey during his 1:00 - 3:00 pm visit to the store.\n\nEnter your business card in a special drawing for a birder's prize with books, branded Birds Connect Seattle merchandise, a 2027 BirdNote calendar, and more!\n\nExplore our interactive mini-museum exhibit: The Wonderful World of Owls https://birdsconnectsea.org/visit/exhibit/ and talk to our staff an volunteers about our bird skin collection to learn about facinating adaptations of our local species.\n\nSustaining members can enjoy a special 10% discount on all holiday shopping including calendars, holiday cards, and ornaments.\n\nWhether you're a bird lover or just looking for fun, Birds Connect Seattle offers an engaging experience for all ages this holiday season, and especially at our fun open house.",
     "location": "Birds Connect Seattle headquarters and retail space (ground floor presentation area), 616 Olive Wy, Seattle, WA 98101, USA",
     "detailUrl": "https://tockify.com/birds.connect.sea/detail/1972/1796493600000",
     "status": "",
@@ -2348,6 +2244,31 @@
     "image": "/src/assets/events/270765782697.jpg"
   },
   {
+    "id": "eb17799f3424",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2007/30013500/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2027-01-24T09:00:00-08:00",
+    "end": "2027-01-24T11:00:00-08:00",
+    "startDate": "2027-01-24",
+    "endDate": "2027-01-24",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead and yellow-rumped warbler; possible birds include pacific wren, belted kingfisher, and fox sparrow.",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2007/1800810000000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
+    "image": "/src/assets/events/eb17799f3424.jpg"
+  },
+  {
     "id": "03df62995a57",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1960/30019860/0/0",
     "title": "Online Class Series and Field Trip with Connie Sidles: Sparrows, Finches, and Other LBJs - Oh My!",
@@ -2589,6 +2510,31 @@
     "image": "/src/assets/events/855f3f3cce98.jpg"
   },
   {
+    "id": "ef0ee79baebc",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2008/30052380/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2027-02-20T09:00:00-08:00",
+    "end": "2027-02-20T11:00:00-08:00",
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-20",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead and yellow-rumped warbler; possible birds include pacific wren, belted kingfisher, and fox sparrow.",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2008/1803142800000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
+    "image": "/src/assets/events/ef0ee79baebc.jpg"
+  },
+  {
     "id": "03c7edcd3e8a",
     "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/1991/30053820/0/0",
     "title": "Neighborhood Bird Outing: LGBTQIA+ Birding at Marymoor Park",
@@ -2797,6 +2743,31 @@
     "titleFlag": null,
     "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/6aa2f0b6c21023da953388ed/scaled_1024.jpg",
     "image": "/src/assets/events/fdd321f00785.jpg"
+  },
+  {
+    "id": "2e7f713af996",
+    "uid": "TKF/5bd0bf9bdf82fe081ab4af5c/2009/30102720/0/0",
+    "title": "Neighborhood Bird Outing: Union Bay Natural Area",
+    "start": "2027-03-27T09:00:00-07:00",
+    "end": "2027-03-27T11:00:00-07:00",
+    "startDate": "2027-03-27",
+    "endDate": "2027-03-27",
+    "allDay": false,
+    "multiDay": false,
+    "description": "Neighborhood Bird Outings are open to all with no pre-registration required. Group size will vary.\n\nOutings occur rain or shine, though will be canceled for dangerous weather conditions.\n\nPlease leave pets at home.\n\nLeaders: Julia Hansbrough & Dick Holcomb & Shelly Evans\n\nMeeting Point: Center for Urban Horticulture in the E16 parking lot off NE 41st Street, one block beyond the place where Mary Gates Memorial Drive turns left to become NE 41st Street\n\nBike Parking: Yes; bike rack in back of building\n\nTrip Accessibility: 1 (leisurely pace), B (mostly gravel trails, with some soft ground or mud), ~1.5 miles walking\n\nUnion Bay Natural Area, just east of the University of Washington, offers a range of habitats: wetland to forest to open fields. Likely birds this time of year include bufflehead and yellow-rumped warbler; possible birds include pacific wren, belted kingfisher, and fox sparrow.",
+    "location": "Union Bay Lot E16, 3863 Union Bay Cir NE, Seattle, WA 98105, USA",
+    "detailUrl": "https://tockify.com/birds.connect.sea/detail/2009/1806163200000",
+    "status": "",
+    "categories": [
+      "Bird-Outing",
+      "Drop-in"
+    ],
+    "registration": null,
+    "registrationUrl": null,
+    "registrationRequired": false,
+    "titleFlag": null,
+    "imageUrl": "https://d3flpus5evl89n.cloudfront.net/5bd0bf24df82fe081ab4aa5f/697958902c97af2cfcb93cbb/scaled_384.jpg",
+    "image": "/src/assets/events/2e7f713af996.jpg"
   },
   {
     "id": "0ff34fb45fab",
