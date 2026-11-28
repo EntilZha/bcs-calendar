@@ -1,8 +1,8 @@
 {
   "source": "https://tockify.com/api/feeds/ics/birds.connect.sea",
   "calendar": "birds.connect.sea",
-  "crawledAt": "2026-11-27T11:07:37.094513-08:00",
-  "eventCount": 119,
+  "crawledAt": "2026-11-28T09:43:16.067944-08:00",
+  "eventCount": 122,
   "rawCategories": [
     "Bird-Outing",
     "Birds-Connect-Seattle",
@@ -24,7 +24,7 @@
     "Volunteer",
     "at-BCS-Headquarters"
   ],
-  "registrationRequiredCount": 31,
+  "registrationRequiredCount": 35,
   "noRegistrationCount": 61,
-  "unknownRegistrationCount": 27
+  "unknownRegistrationCount": 26
 }
